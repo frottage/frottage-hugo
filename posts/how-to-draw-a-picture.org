@@ -18,13 +18,11 @@
   suitable degree...
 #+END_SRC
 
-https://github.com/frottage/dall-e-2-generations/raw/master/how-to-draw-a-picture/DALL%C2%B7E%202022-07-23%2019.16.32%20-%20To%20begin%2C%20select%20a%20suitable%20piece%20of%20paper%20for%20use%2C%20and%20apply%20pencil%20to%20same.%20Then%2C%20select%20a%20pencil%20sharpener%20and%20sharpen%20pencil%20to%20a%20suitable%20degree..jpg
-
-DALL·E 2022-07-23 19.16.32 - To begin, select a suitable piece of paper for use, and apply pencil to same. Then, select a pencil sharpener and sharpen pencil to a suitable degree..jpg
-DALL·E 2022-07-23 19.16.34 - To begin, select a suitable piece of paper for use, and apply pencil to same. Then, select a pencil sharpener and sharpen pencil to a suitable degree..jpg
-DALL·E 2022-07-23 19.16.37 - To begin, select a suitable piece of paper for use, and apply pencil to same. Then, select a pencil sharpener and sharpen pencil to a suitable degree..jpg
-DALL·E 2022-07-23 19.16.40 - To begin, select a suitable piece of paper for use, and apply pencil to same. Then, select a pencil sharpener and sharpen pencil to a suitable degree..jpg
-DALL·E 2022-07-23 19.17.19 - To begin, select a suitable piece of paper for use, and apply pencil to same. Then, select a pencil sharpener and sharpen pencil to a suitable degree..jpg
-DALL·E 2022-07-23 19.17.20 - To begin, select a suitable piece of paper for use, and apply pencil to same. Then, select a pencil sharpener and sharpen pencil to a suitable degree..jpg
-DALL·E 2022-07-23 19.17.24 - To begin, select a suitable piece of paper for use, and apply pencil to same. Then, select a pencil sharpener and sharpen pencil to a suitable degree..jpg
-DALL·E 2022-07-23 19.17.31 - To begin, select a suitable piece of paper for use, and apply pencil to same. Then, select a pencil sharpener and sharpen pencil to a suitable degree..jpg
+[[https://github.com/frottage/dall-e-2-generations/raw/master/how-to-draw-a-picture/DALL·E 2022-07-23 19.16.32 - To begin, select a suitable piece of paper for use, and apply pencil to same. Then, select a pencil sharpener and sharpen pencil to a suitable degree..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/how-to-draw-a-picture/DALL·E 2022-07-23 19.16.34 - To begin, select a suitable piece of paper for use, and apply pencil to same. Then, select a pencil sharpener and sharpen pencil to a suitable degree..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/how-to-draw-a-picture/DALL·E 2022-07-23 19.16.37 - To begin, select a suitable piece of paper for use, and apply pencil to same. Then, select a pencil sharpener and sharpen pencil to a suitable degree..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/how-to-draw-a-picture/DALL·E 2022-07-23 19.16.40 - To begin, select a suitable piece of paper for use, and apply pencil to same. Then, select a pencil sharpener and sharpen pencil to a suitable degree..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/how-to-draw-a-picture/DALL·E 2022-07-23 19.17.19 - To begin, select a suitable piece of paper for use, and apply pencil to same. Then, select a pencil sharpener and sharpen pencil to a suitable degree..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/how-to-draw-a-picture/DALL·E 2022-07-23 19.17.20 - To begin, select a suitable piece of paper for use, and apply pencil to same. Then, select a pencil sharpener and sharpen pencil to a suitable degree..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/how-to-draw-a-picture/DALL·E 2022-07-23 19.17.24 - To begin, select a suitable piece of paper for use, and apply pencil to same. Then, select a pencil sharpener and sharpen pencil to a suitable degree..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/how-to-draw-a-picture/DALL·E 2022-07-23 19.17.31 - To begin, select a suitable piece of paper for use, and apply pencil to same. Then, select a pencil sharpener and sharpen pencil to a suitable degree..jpg]]
