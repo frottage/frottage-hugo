@@ -1,0 +1,42 @@
+#+HUGO_BASE_DIR: /home/shane/var/smulliga/source/git/frottage/frottage-hugo
+#+HUGO_SECTION: ./posts
+
+#+TITLE: Corrupted Multiverse
+#+DATE: <2022-07-25>
+#+AUTHOR: Shane Mulligan
+#+KEYWORDS: dalle
+
+** Hmm sounds OK
+Heracleitus called the Universal Principle
+(των απαντων αρχη) Intellectual Fire (πυρ
+νοερον), and said that the sphere surrounding
+us and reaching to the Moon was filled with
+evil, but beyond the Moon-sphere it was
+purer.[97]
+
+http://gnosis.org/library/grs-mead/grsm_simon_magus.htm#FNanchor_97
+
+Perhaps this is to say that most of Creation isn't corrupted.
+But around Earth, it kinda is.
+Perhaps the corruption hasn't spread far from Earth.
+
+** DALL-E
+[[https://github.com/frottage/dall-e-2-generations/raw/master/corrupted-multiverse/DALL·E 2022-07-24 20.38.59 - The discordance of the result of man's original sin is that we find ourselves in a corrupted part of the multiverse. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/corrupted-multiverse/DALL·E 2022-07-24 20.39.29 - The discordance of the result of man's original sin is that we find ourselves in a corrupted part of the multiverse. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/corrupted-multiverse/DALL·E 2022-07-24 20.39.52 - The discordance of the result of man's original sin is that we find ourselves in a corrupted part of the multiverse. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/corrupted-multiverse/DALL·E 2022-07-24 20.39.59 - The discordance of the result of man's original sin is that we find ourselves in a corrupted part of the multiverse. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/corrupted-multiverse/DALL·E 2022-07-24 20.40.07 - The discordance of the result of man's original sin is that we find ourselves in a corrupted part of the multiverse. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/corrupted-multiverse/DALL·E 2022-07-24 20.40.30 - The discordance of the result of man's original sin is that we find ourselves in a corrupted part of the multiverse. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/corrupted-multiverse/DALL·E 2022-07-24 20.40.35 - The discordance of the result of man's original sin is that we find ourselves in a corrupted part of the multiverse. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/corrupted-multiverse/DALL·E 2022-07-24 20.40.39 - The discordance of the result of man's original sin is that we find ourselves in a corrupted part of the multiverse. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/corrupted-multiverse/DALL·E 2022-07-24 20.41.09 - The discordance of the result of man's original sin is that we find ourselves in a corrupted part of the multiverse. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/corrupted-multiverse/DALL·E 2022-07-24 20.41.22 - The discordance of the result of man's original sin is that we find ourselves in a corrupted part of the multiverse. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/corrupted-multiverse/DALL·E 2022-07-24 20.41.27 - The discordance of the result of man's original sin is that we find ourselves in a corrupted part of the multiverse. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/corrupted-multiverse/DALL·E 2022-07-24 20.41.34 - The discordance of the result of man's original sin is that we find ourselves in a corrupted part of the multiverse. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/corrupted-multiverse/DALL·E 2022-07-24 20.41.54 - The discordance of the result of man's original sin is that we find ourselves in a corrupted part of the multiverse. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/corrupted-multiverse/DALL·E 2022-07-24 20.42.00 - The discordance of the result of man's original sin is that we find ourselves in a corrupted part of the multiverse. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/corrupted-multiverse/DALL·E 2022-07-24 20.42.04 - The discordance of the result of man's original sin is that we find ourselves in a corrupted part of the multiverse. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/corrupted-multiverse/DALL·E 2022-07-24 20.42.07 - The discordance of the result of man's original sin is that we find ourselves in a corrupted part of the multiverse. Digital Art.jpg]]
+
+** Scriptures
++ [[https://biblehub.com/kjv/1_corinthians/15.htm][1 Corinthians 15:33]] :: 33 Be not deceived: evil communications corrupt good manners. 34 Awake to righteousness, and sin not; for some have not the knowledge of God: I speak this to your shame.
