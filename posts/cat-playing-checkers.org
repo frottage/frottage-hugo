@@ -9,7 +9,10 @@
 #+hugo_custom_front_matter: :image "https://github.com/frottage/dall-e-2-generations/raw/master/surrealist-cat-checkers/DALL·E 2022-07-19 11.03.19 - a surrealist dream-like oil painting by Salvador Dalí of a cat playing checkers.jpg"
 #+hugo_custom_front_matter: :weight 10 
 
-
+** Prompt
+#+BEGIN_SRC text -n :async :results verbatim code
+  a surrealist dream-like oil painting by Salvador Dalí of a cat playing checkers
+#+END_SRC
 
 [[https://github.com/frottage/dall-e-2-generations/raw/master/surrealist-cat-checkers/DALL·E 2022-07-19 11.03.19 - a surrealist dream-like oil painting by Salvador Dalí of a cat playing checkers.jpg]]
 [[https://github.com/frottage/dall-e-2-generations/raw/master/surrealist-cat-checkers/DALL·E 2022-07-19 11.03.26 - a surrealist dream-like oil painting by Salvador Dalí of a cat playing checkers.jpg]]
