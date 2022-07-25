@@ -14,10 +14,10 @@ googleAnalytics = ""
   description = "Art and Surrealism"
   copyright = "&copy;∞ Frottage"
   sidebarAbout = [
-    "In art, frottages is a surrealist and "automatic" method of creative production developed by Max Ernst."
+    "In art, frottages is a surrealist and \"automatic\" method of creative production developed by Max Ernst."
   ]
   # sidebarAbout = [
-  #   "In art, frottages is a surrealist and "automatic" method of creative production developed by Max Ernst.",
+  #   "In art, frottages is a surrealist and \"automatic\" method of creative production developed by Max Ernst.",
   #   "Originally from Toronto, currently based in London."
   # ]
   # Contact page
