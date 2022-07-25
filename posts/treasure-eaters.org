@@ -9,7 +9,10 @@
 #+hugo_custom_front_matter: :image "https://github.com/frottage/dall-e-2-generations/raw/master/corrupted-multiverse/DALL·E 2022-07-15 12.49.54 - Treasure Eaters are large, red and quite spherical.  They cannot walk and prefer to hop about.  When they need to move larger distances they will tele.jpg"
 #+hugo_custom_front_matter: :weight 10 
 
-* DALL-E
+** Links
++ Blog post :: https://mullikine.github.io/posts/pyramid-of-the-gnosticene-ancients/
+
+** DALL-E
 
 [[https://github.com/frottage/dall-e-2-generations/raw/master/corrupted-multiverse/DALL·E 2022-07-15 12.49.54 - Treasure Eaters are large, red and quite spherical.  They cannot walk and prefer to hop about.  When they need to move larger distances they will tele.jpg]]
 [[https://github.com/frottage/dall-e-2-generations/raw/master/corrupted-multiverse/DALL·E 2022-07-15 12.49.58 - Treasure Eaters are large, red and quite spherical.  They cannot walk and prefer to hop about.  When they need to move larger distances they will tele.jpg]]
