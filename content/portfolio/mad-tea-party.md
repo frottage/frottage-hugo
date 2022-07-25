@@ -4,7 +4,7 @@ author = ["Shane Mulligan"]
 date = 2022-07-25T00:00:00+12:00
 keywords = ["dalle"]
 draft = false
-image = "https://raw.githubusercontent.com/frottage/dall-e-2-generations/master/corrupted-multiverse/DALL%C2%B7E%202022-07-24%2020.40.39%20-%20The%20discordance%20of%20the%20result%20of%20man's%20original%20sin%20is%20that%20we%20find%20ourselves%20in%20a%20corrupted%20part%20of%20the%20multiverse.%20Digital%20Art.jpg"
+image = "https://raw.githubusercontent.com/frottage/dall-e-2-generations/master/mad-tea-party/DALL%C2%B7E%202022-07-24%2022.06.43%20-%20There%20was%20a%20table%20set%20out%20under%20a%20tree%20in%20front%20of%20the%20house%2C%20and%20the%20March%20Hare%20and%20the%20Hatter%20were%20having%20tea%20at%20it.%20Digital%20Art.jpg"
 weight = 10
 +++
 
