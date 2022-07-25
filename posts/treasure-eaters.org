@@ -5,8 +5,8 @@
 #+DATE: <2022-07-25>
 #+AUTHOR: Shane Mulligan
 #+KEYWORDS: dalle
-# #+hugo_custom_front_matter: :image "img/portfolio/corrupted-multiverse.jpg"
-#+hugo_custom_front_matter: :image "https://github.com/frottage/dall-e-2-generations/raw/master/corrupted-multiverse/DALL·E 2022-07-15 12.49.54 - Treasure Eaters are large, red and quite spherical.  They cannot walk and prefer to hop about.  When they need to move larger distances they will tele.jpg"
+# #+hugo_custom_front_matter: :image "img/portfolio/treasure-eaters.jpg"
+#+hugo_custom_front_matter: :image "https://github.com/frottage/dall-e-2-generations/raw/master/treasure-eaters/DALL·E 2022-07-15 12.49.54 - Treasure Eaters are large, red and quite spherical.  They cannot walk and prefer to hop about.  When they need to move larger distances they will tele.jpg"
 #+hugo_custom_front_matter: :weight 10 
 
 ** Links
@@ -14,15 +14,15 @@
 
 ** DALL-E
 
-[[https://github.com/frottage/dall-e-2-generations/raw/master/corrupted-multiverse/DALL·E 2022-07-15 12.49.54 - Treasure Eaters are large, red and quite spherical.  They cannot walk and prefer to hop about.  When they need to move larger distances they will tele.jpg]]
-[[https://github.com/frottage/dall-e-2-generations/raw/master/corrupted-multiverse/DALL·E 2022-07-15 12.49.58 - Treasure Eaters are large, red and quite spherical.  They cannot walk and prefer to hop about.  When they need to move larger distances they will tele.jpg]]
-[[https://github.com/frottage/dall-e-2-generations/raw/master/corrupted-multiverse/DALL·E 2022-07-15 12.50.03 - Treasure Eaters are large, red and quite spherical.  They cannot walk and prefer to hop about.  When they need to move larger distances they will tele.jpg]]
-[[https://github.com/frottage/dall-e-2-generations/raw/master/corrupted-multiverse/DALL·E 2022-07-15 12.50.06 - Treasure Eaters are large, red and quite spherical.  They cannot walk and prefer to hop about.  When they need to move larger distances they will tele.jpg]]
-[[https://github.com/frottage/dall-e-2-generations/raw/master/corrupted-multiverse/DALL·E 2022-07-15 12.50.10 - Treasure Eaters are large, red and quite spherical.  They cannot walk and prefer to hop about.  When they need to move larger distances they will tele.jpg]]
-[[https://github.com/frottage/dall-e-2-generations/raw/master/corrupted-multiverse/DALL·E 2022-07-15 12.50.46 - Treasure Eaters are large, red and quite spherical.  They cannot walk and prefer to hop about.  When they need to move larger distances they will tele.jpg]]
-[[https://github.com/frottage/dall-e-2-generations/raw/master/corrupted-multiverse/DALL·E 2022-07-15 12.50.53 - Treasure Eaters are large, red and quite spherical.  They cannot walk and prefer to hop about.  When they need to move larger distances they will tele.jpg]]
-[[https://github.com/frottage/dall-e-2-generations/raw/master/corrupted-multiverse/DALL·E 2022-07-15 12.50.57 - Treasure Eaters are large, red and quite spherical.  They cannot walk and prefer to hop about.  When they need to move larger distances they will tele.jpg]]
-[[https://github.com/frottage/dall-e-2-generations/raw/master/corrupted-multiverse/DALL·E 2022-07-15 12.51.02 - Treasure Eaters are large, red and quite spherical.  They cannot walk and prefer to hop about.  When they need to move larger distances they will tele.jpg]]
-[[https://github.com/frottage/dall-e-2-generations/raw/master/corrupted-multiverse/DALL·E 2022-07-15 12.51.09 - Treasure Eaters are large, red and quite spherical.  They cannot walk and prefer to hop about.  When they need to move larger distances they will tele.jpg]]
-[[https://github.com/frottage/dall-e-2-generations/raw/master/corrupted-multiverse/DALL·E 2022-07-15 12.51.35 - Treasure Eaters are large, red and quite spherical.  They cannot walk and prefer to hop about.  When they need to move larger distances they will tele.jpg]]
-[[https://github.com/frottage/dall-e-2-generations/raw/master/corrupted-multiverse/DALL·E 2022-07-15 12.51.44 - Treasure Eaters are large, red and quite spherical.  They cannot walk and prefer to hop about.  When they need to move larger distances they will tele.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/treasure-eaters/DALL·E 2022-07-15 12.49.54 - Treasure Eaters are large, red and quite spherical.  They cannot walk and prefer to hop about.  When they need to move larger distances they will tele.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/treasure-eaters/DALL·E 2022-07-15 12.49.58 - Treasure Eaters are large, red and quite spherical.  They cannot walk and prefer to hop about.  When they need to move larger distances they will tele.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/treasure-eaters/DALL·E 2022-07-15 12.50.03 - Treasure Eaters are large, red and quite spherical.  They cannot walk and prefer to hop about.  When they need to move larger distances they will tele.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/treasure-eaters/DALL·E 2022-07-15 12.50.06 - Treasure Eaters are large, red and quite spherical.  They cannot walk and prefer to hop about.  When they need to move larger distances they will tele.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/treasure-eaters/DALL·E 2022-07-15 12.50.10 - Treasure Eaters are large, red and quite spherical.  They cannot walk and prefer to hop about.  When they need to move larger distances they will tele.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/treasure-eaters/DALL·E 2022-07-15 12.50.46 - Treasure Eaters are large, red and quite spherical.  They cannot walk and prefer to hop about.  When they need to move larger distances they will tele.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/treasure-eaters/DALL·E 2022-07-15 12.50.53 - Treasure Eaters are large, red and quite spherical.  They cannot walk and prefer to hop about.  When they need to move larger distances they will tele.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/treasure-eaters/DALL·E 2022-07-15 12.50.57 - Treasure Eaters are large, red and quite spherical.  They cannot walk and prefer to hop about.  When they need to move larger distances they will tele.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/treasure-eaters/DALL·E 2022-07-15 12.51.02 - Treasure Eaters are large, red and quite spherical.  They cannot walk and prefer to hop about.  When they need to move larger distances they will tele.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/treasure-eaters/DALL·E 2022-07-15 12.51.09 - Treasure Eaters are large, red and quite spherical.  They cannot walk and prefer to hop about.  When they need to move larger distances they will tele.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/treasure-eaters/DALL·E 2022-07-15 12.51.35 - Treasure Eaters are large, red and quite spherical.  They cannot walk and prefer to hop about.  When they need to move larger distances they will tele.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/treasure-eaters/DALL·E 2022-07-15 12.51.44 - Treasure Eaters are large, red and quite spherical.  They cannot walk and prefer to hop about.  When they need to move larger distances they will tele.jpg]]
