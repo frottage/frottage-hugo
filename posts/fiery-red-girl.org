@@ -12,7 +12,7 @@
 ** Links
 - [[https://mullikine.github.io/posts/describing-melee-s-paintings-with-alephalpha/][Describing Melee's Paintings with AlephAlpha // Bodacious Blog]]
 - [[https://mullikine.github.io/posts/imagining-melee-s-artworks-with-dall-e-2/][Imagining Melee's artworks with DALL-E-2 // Bodacious Blog]]
-  - <3
+  - Heart <3
 
 I use DALLE to imagine my descriptions of Melee's paintings.
 There is a prompt limit, so the descriptions could be improved using [[https://en.wikipedia.org/wiki/Imagism][Imagism]].
