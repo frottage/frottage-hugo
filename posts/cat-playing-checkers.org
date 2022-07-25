@@ -1,7 +1,7 @@
 #+HUGO_BASE_DIR: /home/shane/var/smulliga/source/git/frottage/frottage-hugo
 #+HUGO_SECTION: ./portfolio
 
-#+TITLE: Cat playing Checkers
+#+TITLE: Cat Playing Checkers
 #+DATE: <2022-07-25>
 #+AUTHOR: Shane Mulligan
 #+KEYWORDS: dalle
