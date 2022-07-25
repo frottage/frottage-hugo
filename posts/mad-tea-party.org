@@ -1,0 +1,52 @@
+#+HUGO_BASE_DIR: /home/shane/var/smulliga/source/git/frottage/frottage-hugo
+#+HUGO_SECTION: ./portfolio
+
+#+TITLE: Mad Tea-Party
+#+DATE: <2022-07-25>
+#+AUTHOR: Shane Mulligan
+#+KEYWORDS: dalle
+# #+hugo_custom_front_matter: :image "img/portfolio/corrupted-multiverse.jpg"
+#+hugo_custom_front_matter: :image "https://raw.githubusercontent.com/frottage/dall-e-2-generations/master/corrupted-multiverse/DALL%C2%B7E%202022-07-24%2020.40.39%20-%20The%20discordance%20of%20the%20result%20of%20man's%20original%20sin%20is%20that%20we%20find%20ourselves%20in%20a%20corrupted%20part%20of%20the%20multiverse.%20Digital%20Art.jpg"
+#+hugo_custom_front_matter: :weight 10 
+
+* Prompts
+#+BEGIN_SRC text -n :async :results verbatim code
+  There was a table set out under a tree in
+  front of the house, and the March Hare and the
+  Hatter were having tea at it. Digital Art
+#+END_SRC
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/mad-tea-party/DALL·E 2022-07-24 22.06.43 - There was a table set out under a tree in front of the house, and the March Hare and the Hatter were having tea at it. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/mad-tea-party/DALL·E 2022-07-24 22.06.48 - There was a table set out under a tree in front of the house, and the March Hare and the Hatter were having tea at it. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/mad-tea-party/DALL·E 2022-07-24 22.06.55 - There was a table set out under a tree in front of the house, and the March Hare and the Hatter were having tea at it. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/mad-tea-party/DALL·E 2022-07-24 22.07.34 - There was a table set out under a tree in front of the house, and the March Hare and the Hatter were having tea at it. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/mad-tea-party/DALL·E 2022-07-24 22.07.38 - There was a table set out under a tree in front of the house, and the March Hare and the Hatter were having tea at it. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/mad-tea-party/DALL·E 2022-07-24 22.07.47 - There was a table set out under a tree in front of the house, and the March Hare and the Hatter were having tea at it. Digital Art.jpg]]
+
+---
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  Have some wine, _ the March Hare said in an
+  encouraging tone. Alice looked all round the
+  table, but there was nothing on it but tea.
+  Digital Art
+#+END_SRC
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/mad-tea-party/DALL·E 2022-07-24 22.08.19 - Have some wine, _ the March Hare said in an encouraging tone. Alice looked all round the table, but there was nothing on it but tea. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/mad-tea-party/DALL·E 2022-07-24 22.08.23 - Have some wine, _ the March Hare said in an encouraging tone. Alice looked all round the table, but there was nothing on it but tea. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/mad-tea-party/DALL·E 2022-07-24 22.08.52 - Have some wine, _ the March Hare said in an encouraging tone. Alice looked all round the table, but there was nothing on it but tea. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/mad-tea-party/DALL·E 2022-07-24 22.08.59 - Have some wine, _ the March Hare said in an encouraging tone. Alice looked all round the table, but there was nothing on it but tea. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/mad-tea-party/DALL·E 2022-07-24 22.09.09 - Have some wine, _ the March Hare said in an encouraging tone. Alice looked all round the table, but there was nothing on it but tea. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/mad-tea-party/DALL·E 2022-07-24 22.09.51 - Have some wine, _ the March Hare said in an encouraging tone. Alice looked all round the table, but there was nothing on it but tea. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/mad-tea-party/DALL·E 2022-07-24 22.09.56 - Have some wine, _ the March Hare said in an encouraging tone. Alice looked all round the table, but there was nothing on it but tea. Digital Art.jpg]]
+
+---
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  There was a table set out under a tree in
+  front of the house, and the March Hare and the
+  Hatter were having tea at it. Digital Art
+#+END_SRC
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/mad-tea-party/DALL·E 2022-07-24 22.11.56 - There was a table set out under a tree in front of the house, and the March Hare and the Hatter were having tea at it. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/mad-tea-party/DALL·E 2022-07-24 22.12.23 - There was a table set out under a tree in front of the house, and the March Hare and the Hatter were having tea at it. Digital Art.jpg]]
