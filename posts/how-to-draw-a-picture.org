@@ -1,0 +1,19 @@
+#+HUGO_BASE_DIR: /home/shane/var/smulliga/source/git/frottage/frottage-hugo
+#+HUGO_SECTION: ./portfolio
+
+#+TITLE: How to Draw a Picture
+#+DATE: <2022-07-25>
+#+AUTHOR: Shane Mulligan
+#+KEYWORDS: dalle
+# #+hugo_custom_front_matter: :image "img/portfolio/corrupted-multiverse.jpg"
+#+hugo_custom_front_matter: :image "https://raw.githubusercontent.com/frottage/dall-e-2-generations/master/corrupted-multiverse/DALL%C2%B7E%202022-07-24%2020.40.39%20-%20The%20discordance%20of%20the%20result%20of%20man's%20original%20sin%20is%20that%20we%20find%20ourselves%20in%20a%20corrupted%20part%20of%20the%20multiverse.%20Digital%20Art.jpg"
+#+hugo_custom_front_matter: :weight 10 
+
+DALL·E 2022-07-23 19.16.32 - To begin, select a suitable piece of paper for use, and apply pencil to same. Then, select a pencil sharpener and sharpen pencil to a suitable degree..jpg
+DALL·E 2022-07-23 19.16.34 - To begin, select a suitable piece of paper for use, and apply pencil to same. Then, select a pencil sharpener and sharpen pencil to a suitable degree..jpg
+DALL·E 2022-07-23 19.16.37 - To begin, select a suitable piece of paper for use, and apply pencil to same. Then, select a pencil sharpener and sharpen pencil to a suitable degree..jpg
+DALL·E 2022-07-23 19.16.40 - To begin, select a suitable piece of paper for use, and apply pencil to same. Then, select a pencil sharpener and sharpen pencil to a suitable degree..jpg
+DALL·E 2022-07-23 19.17.19 - To begin, select a suitable piece of paper for use, and apply pencil to same. Then, select a pencil sharpener and sharpen pencil to a suitable degree..jpg
+DALL·E 2022-07-23 19.17.20 - To begin, select a suitable piece of paper for use, and apply pencil to same. Then, select a pencil sharpener and sharpen pencil to a suitable degree..jpg
+DALL·E 2022-07-23 19.17.24 - To begin, select a suitable piece of paper for use, and apply pencil to same. Then, select a pencil sharpener and sharpen pencil to a suitable degree..jpg
+DALL·E 2022-07-23 19.17.31 - To begin, select a suitable piece of paper for use, and apply pencil to same. Then, select a pencil sharpener and sharpen pencil to a suitable degree..jpg
