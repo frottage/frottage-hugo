@@ -1,0 +1,21 @@
+#+HUGO_BASE_DIR: /home/shane/var/smulliga/source/git/frottage/frottage-hugo
+#+HUGO_SECTION: ./portfolio
+
+#+TITLE: Across the Universe
+#+DATE: <2022-07-25>
+#+AUTHOR: Shane Mulligan
+#+KEYWORDS: dalle
+# #+hugo_custom_front_matter: :image "img/portfolio/corrupted-multiverse.jpg"
+#+hugo_custom_front_matter: :image "https://raw.githubusercontent.com/frottage/dall-e-2-generations/master/corrupted-multiverse/DALL%C2%B7E%202022-07-24%2020.40.39%20-%20The%20discordance%20of%20the%20result%20of%20man's%20original%20sin%20is%20that%20we%20find%20ourselves%20in%20a%20corrupted%20part%20of%20the%20multiverse.%20Digital%20Art.jpg"
+#+hugo_custom_front_matter: :weight 10 
+
+** Links
++ Blog article :: https://mullikine.github.io/posts/across-the-universe/
+
+DALL·E 2022-07-24 16.25.20 - a couple kissing within a strawberry in space. stars in the background. Across the universe. Digital Art..jpg
+DALL·E 2022-07-24 16.26.03 - a couple within a strawberry in space. stars in the background. Across the universe. Digital Art..jpg
+DALL·E 2022-07-25 01.32.38 - a couple kissing within a strawberry in space. stars in the background. Across the universe. Digital Art.jpg
+DALL·E 2022-07-25 01.37.44 - a couple kissing within a strawberry in space. stars in the background. Across the universe. Digital Art.jpg
+DALL·E 2022-07-25 01.40.34 - a couple embracing within a splat of paint in the shape of a strawberry in space. stars in the background. Across the universe. Digital Art.jpg
+DALL·E 2022-07-25 01.47.45 - a couple embracing within a splat of paint in the shape of a strawberry in space. stars in the background. Across the universe. Digital Art.jpg
+DALL·E 2022-07-25 01.47.56 - a couple embracing within a splat of paint in the shape of a strawberry in space. stars in the background. Across the universe. Digital Art.jpg
