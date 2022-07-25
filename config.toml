@@ -14,9 +14,12 @@ googleAnalytics = ""
   description = "Art and Surrealism"
   copyright = "&copy;∞ Frottage"
   sidebarAbout = [
-    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
-    "Originally from Toronto, currently based in London."
+    "In art, frottages is a surrealist and "automatic" method of creative production developed by Max Ernst."
   ]
+  # sidebarAbout = [
+  #   "In art, frottages is a surrealist and "automatic" method of creative production developed by Max Ernst.",
+  #   "Originally from Toronto, currently based in London."
+  # ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
      # proxy. The form makes a POST request to their servers to send the actual
@@ -42,17 +45,17 @@ googleAnalytics = ""
 
   # Nav links in the side bar
   [[params.navlinks]]
-  name = "Home"
+  name = "Art Log"
   url = "portfolio/"
   home = true
 
-  [[params.navlinks]]
-  name = "About"
-  url = "about/"
+  # [[params.navlinks]]
+  # name = "About"
+  # url = "about/"
 
-  [[params.navlinks]]
-  name = "Get in touch"
-  url = "contact/"
+  # [[params.navlinks]]
+  # name = "Get in touch"
+  # url = "contact/"
 
   [params.social]
   # facebook      = "full page or profile url in facebook"
