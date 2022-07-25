@@ -12,7 +12,7 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "default"
   description = "Art and Surrealism"
-  copyright = "&copy; ∞ Frottage"
+  copyright = "&copy; ∞ Frottage ∞"
   sidebarAbout = [
     "In art, frottages is a surrealist and \"automatic\" method of creative production developed by Max Ernst."
   ]
