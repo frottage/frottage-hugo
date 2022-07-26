@@ -1,0 +1,99 @@
+#+HUGO_BASE_DIR: /home/shane/var/smulliga/source/git/frottage/frottage-hugo
+#+HUGO_SECTION: ./portfolio
+
+#+TITLE: Pink Cherry Blossoms Splash
+#+DATE: <2022-07-27>
+#+AUTHOR: Shane Mulligan
+#+KEYWORDS: dalle
+# #+hugo_custom_front_matter: :image "img/portfolio/corrupted-multiverse.jpg"
+#+hugo_custom_front_matter: :image "https://raw.githubusercontent.com/frottage/dall-e-2-generations/master/corrupted-multiverse/DALL%C2%B7E%202022-07-24%2020.40.39%20-%20The%20discordance%20of%20the%20result%20of%20man's%20original%20sin%20is%20that%20we%20find%20ourselves%20in%20a%20corrupted%20part%20of%20the%20multiverse.%20Digital%20Art.jpg"
+#+hugo_custom_front_matter: :weight 10 
+
+=Melee='s drawing:
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/cherry-blossoms-water/melee petal and water.jpg]]
+
+** Prompt Gens
+#+BEGIN_SRC text -n :async :results verbatim code
+  a figure of a person collapses into clear water, enveloped by the splashes.
+  cherry blossom fall from a tree into the water. pencil and watercolor
+#+END_SRC
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/cherry-blossoms-water/DALL·E 2022-07-27 01.58.11 - a figure of a person collapses into clear water, enveloped by the splashes. cherry blossom fall from a tree into the water. pencil and watercolor.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/cherry-blossoms-water/DALL·E 2022-07-27 01.58.15 - a figure of a person collapses into clear water, enveloped by the splashes. cherry blossom fall from a tree into the water. pencil and watercolor.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/cherry-blossoms-water/DALL·E 2022-07-27 01.58.19 - a figure of a person collapses into clear water, enveloped by the splashes. cherry blossom fall from a tree into the water. pencil and watercolor.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/cherry-blossoms-water/DALL·E 2022-07-27 01.58.22 - a figure of a person collapses into clear water, enveloped by the splashes. cherry blossom fall from a tree into the water. pencil and watercolor.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/cherry-blossoms-water/DALL·E 2022-07-27 01.58.42 - a figure of a person collapses into clear water, enveloped by the splashes. cherry blossom fall from a tree into the water. pencil and watercolor.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/cherry-blossoms-water/DALL·E 2022-07-27 01.58.47 - a figure of a person collapses into clear water, enveloped by the splashes. cherry blossom fall from a tree into the water. pencil and watercolor.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/cherry-blossoms-water/DALL·E 2022-07-27 01.58.49 - a figure of a person collapses into clear water, enveloped by the splashes. cherry blossom fall from a tree into the water. pencil and watercolor.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/cherry-blossoms-water/DALL·E 2022-07-27 01.58.54 - a figure of a person collapses into clear water, enveloped by the splashes. cherry blossom fall from a tree into the water. pencil and watercolor.jpg]]
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  a close-up of a splash at the surface of clear water. cherry blossom petals
+  fall from a branch into the water. pencil drawing
+#+END_SRC
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/cherry-blossoms-water/DALL·E 2022-07-27 02.00.51 - a close-up of a splash at the surface of clear water. cherry blossom petals fall from a branch into the water. pencil drawing.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/cherry-blossoms-water/DALL·E 2022-07-27 02.00.54 - a close-up of a splash at the surface of clear water. cherry blossom petals fall from a branch into the water. pencil drawing.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/cherry-blossoms-water/DALL·E 2022-07-27 02.00.58 - a close-up of a splash at the surface of clear water. cherry blossom petals fall from a branch into the water. pencil drawing.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/cherry-blossoms-water/DALL·E 2022-07-27 02.01.01 - a close-up of a splash at the surface of clear water. cherry blossom petals fall from a branch into the water. pencil drawing.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/cherry-blossoms-water/DALL·E 2022-07-27 02.01.29 - a close-up of a splash at the surface of clear water. cherry blossom petals fall from a branch into the water. pencil drawing.jpg]]
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  a close-up of a splash at the surface of clear water. pink cherry blossom
+  petals fall from a branch into green water. pencil drawing
+#+END_SRC
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/cherry-blossoms-water/DALL·E 2022-07-27 02.01.58 - a close-up of a splash at the surface of clear water. pink cherry blossom petals fall from a branch into green water. pencil drawing.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/cherry-blossoms-water/DALL·E 2022-07-27 02.02.01 - a close-up of a splash at the surface of clear water. pink cherry blossom petals fall from a branch into green water. pencil drawing.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/cherry-blossoms-water/DALL·E 2022-07-27 02.02.14 - a close-up of a splash at the surface of clear water. pink cherry blossom petals fall from a branch into green water. pencil drawing.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/cherry-blossoms-water/DALL·E 2022-07-27 02.02.17 - a close-up of a splash at the surface of clear water. pink cherry blossom petals fall from a branch into green water. pencil drawing.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/cherry-blossoms-water/DALL·E 2022-07-27 02.02.35 - a close-up of a splash at the surface of clear water. pink cherry blossom petals fall from a branch into green water. pencil drawing.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/cherry-blossoms-water/DALL·E 2022-07-27 02.02.38 - a close-up of a splash at the surface of clear water. pink cherry blossom petals fall from a branch into green water. pencil drawing.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/cherry-blossoms-water/DALL·E 2022-07-27 02.02.42 - a close-up of a splash at the surface of clear water. pink cherry blossom petals fall from a branch into green water. pencil drawing.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/cherry-blossoms-water/DALL·E 2022-07-27 02.02.45 - a close-up of a splash at the surface of clear water. pink cherry blossom petals fall from a branch into green water. pencil drawing.jpg]]
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  a close-up of splash at the surface of green water. a pink cherry blossom
+  branch hangs over the water. pink petals fall. pencil drawing
+#+END_SRC
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/cherry-blossoms-water/DALL·E 2022-07-27 02.04.32 - a close-up of splash at the surface of green water. a pink cherry blossom branch hangs over the water. pink petals fall. pencil drawing.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/cherry-blossoms-water/DALL·E 2022-07-27 02.04.56 - a close-up of splash at the surface of green water. a pink cherry blossom branch hangs over the water. pink petals fall. pencil drawing.jpg]]
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  pink cherry blossom branch hangs over green water. pink petals fall. rain
+  splashes on surface. a  pencil drawing
+#+END_SRC
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/cherry-blossoms-water/DALL·E 2022-07-27 02.05.52 - pink cherry blossom branch hangs over green water. pink petals fall. rain splashes on surface. a  pencil drawing.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/cherry-blossoms-water/DALL·E 2022-07-27 02.05.56 - pink cherry blossom branch hangs over green water. pink petals fall. rain splashes on surface. a  pencil drawing.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/cherry-blossoms-water/DALL·E 2022-07-27 02.06.01 - pink cherry blossom branch hangs over green water. pink petals fall. rain splashes on surface. a  pencil drawing.jpg]]
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  pink petals fall. rain drops splash the surface of green water. a  pencil
+  drawing
+#+END_SRC
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/cherry-blossoms-water/DALL·E 2022-07-27 02.07.13 - pink petals fall. rain drops splash the surface of green water. a  pencil drawing.jpg]]
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  pink petals splash the surface of green water. the cherry blossom branch
+  above. a  pencil drawing
+#+END_SRC
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/cherry-blossoms-water/DALL·E 2022-07-27 02.09.38 - pink petals splash the surface of green water. the cherry blossom branch above. a  pencil drawing.jpg]]
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  a big splash in crystal clear water. petals fall from the cherry blossom
+  branch. a  pencil drawing
+#+END_SRC
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/cherry-blossoms-water/DALL·E 2022-07-27 02.11.50 - a big splash in crystal clear water. petals fall from the cherry blossom branch. a  pencil drawing.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/cherry-blossoms-water/DALL·E 2022-07-27 02.11.58 - a big splash in crystal clear water. petals fall from the cherry blossom branch. a  pencil drawing.jpg]]
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  a splash in crystal clear water. monochrome pencil drawing
+#+END_SRC
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/cherry-blossoms-water/DALL·E 2022-07-27 02.12.38 - a splash in crystal clear water. monochrome pencil drawing.jpg]]
