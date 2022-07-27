@@ -9,25 +9,42 @@
 #+hugo_custom_front_matter: :image "https://raw.githubusercontent.com/frottage/dall-e-2-generations/master/corrupted-multiverse/DALL%C2%B7E%202022-07-24%2020.40.39%20-%20The%20discordance%20of%20the%20result%20of%20man's%20original%20sin%20is%20that%20we%20find%20ourselves%20in%20a%20corrupted%20part%20of%20the%20multiverse.%20Digital%20Art.jpg"
 #+hugo_custom_front_matter: :weight 10 
 
-https://github.com/frottage/dall-e-2-generations/raw/master/infogetics/
+** Prompt gens
 
-DALL·E 2022-07-27 23.10.48 - This is a photo of a futuristic LED panel with many buttons with mathematical symbols..jpg
-DALL·E 2022-07-27 23.11.22 - This is a photo of a futuristic dashboard with many LED buttons with mathematical symbols..jpg
-DALL·E 2022-07-27 23.11.27 - This is a photo of a futuristic dashboard with many LED buttons with mathematical symbols..jpg
-DALL·E 2022-07-27 23.11.32 - This is a photo of a futuristic dashboard with many LED buttons with mathematical symbols..jpg
-DALL·E 2022-07-27 23.11.56 - This is a photo of a futuristic dashboard with many LED buttons with mathematical symbols..jpg
-DALL·E 2022-07-27 23.12.00 - This is a photo of a futuristic dashboard with many LED buttons with mathematical symbols..jpg
-DALL·E 2022-07-27 23.12.24 - This is a photo of a futuristic dashboard with many LED buttons with mathematical symbols..jpg
-DALL·E 2022-07-27 23.12.27 - This is a photo of a futuristic dashboard with many LED buttons with mathematical symbols..jpg
-DALL·E 2022-07-27 23.12.32 - This is a photo of a futuristic dashboard with many LED buttons with mathematical symbols..jpg
-DALL·E 2022-07-27 23.12.38 - This is a photo of a futuristic dashboard with many LED buttons with mathematical symbols..jpg
-DALL·E 2022-07-27 23.13.03 - This is a photo of a futuristic dashboard with many LED buttons with mathematical symbols. Some look alien in origin..jpg
-DALL·E 2022-07-27 23.13.08 - This is a photo of a futuristic dashboard with many LED buttons with mathematical symbols. Some look alien in origin..jpg
-DALL·E 2022-07-27 23.13.15 - This is a photo of a futuristic dashboard with many LED buttons with mathematical symbols. Some look alien in origin..jpg
-DALL·E 2022-07-27 23.13.32 - This is a photo of a futuristic dashboard with many LED buttons with mathematical symbols. Some look alien in origin..jpg
-DALL·E 2022-07-27 23.13.36 - This is a photo of a futuristic dashboard with many LED buttons with mathematical symbols. Some look alien in origin..jpg
-DALL·E 2022-07-27 23.13.39 - This is a photo of a futuristic dashboard with many LED buttons with mathematical symbols. Some look alien in origin..jpg
-DALL·E 2022-07-27 23.14.15 - This is a photo of a futuristic dashboard with many LED buttons with mathematical symbols. Some look alien in origin..jpg
-DALL·E 2022-07-27 23.14.19 - This is a photo of a futuristic dashboard with many LED buttons with mathematical symbols. Some look alien in origin..jpg
-DALL·E 2022-07-27 23.14.22 - This is a photo of a futuristic dashboard with many LED buttons with mathematical symbols. Some look alien in origin..jpg
-DALL·E 2022-07-27 23.14.25 - This is a photo of a futuristic dashboard with many LED buttons with mathematical symbols. Some look alien in origin..jpg
+#+BEGIN_SRC text -n :async :results verbatim code
+  This is a photo of a futuristic LED panel with many buttons with mathematical
+  symbols
+#+END_SRC
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/infogetics/DALL·E 2022-07-27 23.10.48 - This is a photo of a futuristic LED panel with many buttons with mathematical symbols..jpg]]
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  This is a photo of a futuristic dashboard with many LED buttons with
+  mathematical symbols
+#+END_SRC
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/infogetics/DALL·E 2022-07-27 23.11.22 - This is a photo of a futuristic dashboard with many LED buttons with mathematical symbols..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/infogetics/DALL·E 2022-07-27 23.11.27 - This is a photo of a futuristic dashboard with many LED buttons with mathematical symbols..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/infogetics/DALL·E 2022-07-27 23.11.32 - This is a photo of a futuristic dashboard with many LED buttons with mathematical symbols..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/infogetics/DALL·E 2022-07-27 23.11.56 - This is a photo of a futuristic dashboard with many LED buttons with mathematical symbols..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/infogetics/DALL·E 2022-07-27 23.12.00 - This is a photo of a futuristic dashboard with many LED buttons with mathematical symbols..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/infogetics/DALL·E 2022-07-27 23.12.24 - This is a photo of a futuristic dashboard with many LED buttons with mathematical symbols..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/infogetics/DALL·E 2022-07-27 23.12.27 - This is a photo of a futuristic dashboard with many LED buttons with mathematical symbols..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/infogetics/DALL·E 2022-07-27 23.12.32 - This is a photo of a futuristic dashboard with many LED buttons with mathematical symbols..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/infogetics/DALL·E 2022-07-27 23.12.38 - This is a photo of a futuristic dashboard with many LED buttons with mathematical symbols..jpg]]
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  This is a photo of a futuristic dashboard with many LED buttons with
+  mathematical symbols. Some look alien in origin
+#+END_SRC
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/infogetics/DALL·E 2022-07-27 23.13.03 - This is a photo of a futuristic dashboard with many LED buttons with mathematical symbols. Some look alien in origin..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/infogetics/DALL·E 2022-07-27 23.13.08 - This is a photo of a futuristic dashboard with many LED buttons with mathematical symbols. Some look alien in origin..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/infogetics/DALL·E 2022-07-27 23.13.15 - This is a photo of a futuristic dashboard with many LED buttons with mathematical symbols. Some look alien in origin..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/infogetics/DALL·E 2022-07-27 23.13.32 - This is a photo of a futuristic dashboard with many LED buttons with mathematical symbols. Some look alien in origin..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/infogetics/DALL·E 2022-07-27 23.13.36 - This is a photo of a futuristic dashboard with many LED buttons with mathematical symbols. Some look alien in origin..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/infogetics/DALL·E 2022-07-27 23.13.39 - This is a photo of a futuristic dashboard with many LED buttons with mathematical symbols. Some look alien in origin..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/infogetics/DALL·E 2022-07-27 23.14.15 - This is a photo of a futuristic dashboard with many LED buttons with mathematical symbols. Some look alien in origin..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/infogetics/DALL·E 2022-07-27 23.14.19 - This is a photo of a futuristic dashboard with many LED buttons with mathematical symbols. Some look alien in origin..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/infogetics/DALL·E 2022-07-27 23.14.22 - This is a photo of a futuristic dashboard with many LED buttons with mathematical symbols. Some look alien in origin..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/infogetics/DALL·E 2022-07-27 23.14.25 - This is a photo of a futuristic dashboard with many LED buttons with mathematical symbols. Some look alien in origin..jpg]]
