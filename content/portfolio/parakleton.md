@@ -4,7 +4,7 @@ author = ["Shane Mulligan"]
 date = 2022-07-27T00:00:00+12:00
 keywords = ["dalle"]
 draft = false
-image = "https://github.com/frottage/dall-e-2-generations/raw/master/parakleton/DALL·E 2022-07-27 22.49.27 - In the court of God, the Holy Spirit stands with you, and defends you. This is an image of a person standing before God, and the Holy Spirit standing .jpg"
+image = "https://github.com/frottage/dall-e-2-generations/raw/master/parakleton/DALL%C2%B7E%202022-07-27%2022.48.27%20-%20In%20the%20court%20of%20God%2C%20the%20Holy%20Spirit%20stands%20with%20you%2C%20and%20defends%20you.%20This%20is%20an%20image%20of%20a%20person%20standing%20before%20God%2C%20and%20the%20Holy%20Spirit%20standing%20.jpg"
 weight = 10
 +++
 
