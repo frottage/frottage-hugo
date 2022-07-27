@@ -1,0 +1,51 @@
+#+HUGO_BASE_DIR: /home/shane/var/smulliga/source/git/frottage/frottage-hugo
+#+HUGO_SECTION: ./portfolio
+
+#+TITLE: Primeval Waters, Pleroma and Archons
+#+DATE: <2022-07-27>
+#+AUTHOR: Shane Mulligan
+#+KEYWORDS: dalle
+# #+hugo_custom_front_matter: :image "img/portfolio/corrupted-multiverse.jpg"
+#+hugo_custom_front_matter: :image "https://github.com/frottage/dall-e-2-generations/raw/master/pleroma-aeons-world-archons/DALL·E 2022-07-27 17.48.21 - The pleroma_ Home of the Aeons. The World_ Home of the Archons. Digital Art.jpg"
+#+hugo_custom_front_matter: :weight 10 
+
+** Prompt gens
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  The pleroma_ Home of the Aeons. The World_ Home of the Archons. Digital Art
+#+END_SRC
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/pleroma-aeons-world-archons/DALL·E 2022-07-27 17.48.21 - The pleroma_ Home of the Aeons. The World_ Home of the Archons. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/pleroma-aeons-world-archons/DALL·E 2022-07-27 17.48.25 - The pleroma_ Home of the Aeons. The World_ Home of the Archons. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/pleroma-aeons-world-archons/DALL·E 2022-07-27 17.48.28 - The pleroma_ Home of the Aeons. The World_ Home of the Archons. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/pleroma-aeons-world-archons/DALL·E 2022-07-27 17.48.32 - The pleroma_ Home of the Aeons. The World_ Home of the Archons. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/pleroma-aeons-world-archons/DALL·E 2022-07-27 17.48.51 - The pleroma_ Home of the Aeons. The World_ Home of the Archons. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/pleroma-aeons-world-archons/DALL·E 2022-07-27 17.48.55 - The pleroma_ Home of the Aeons. The World_ Home of the Archons. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/pleroma-aeons-world-archons/DALL·E 2022-07-27 17.48.59 - The pleroma_ Home of the Aeons. The World_ Home of the Archons. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/pleroma-aeons-world-archons/DALL·E 2022-07-27 17.49.03 - The pleroma_ Home of the Aeons. The World_ Home of the Archons. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/pleroma-aeons-world-archons/DALL·E 2022-07-27 17.49.20 - The pleroma_ Home of the Aeons. The World_ Home of the Archons. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/pleroma-aeons-world-archons/DALL·E 2022-07-27 17.49.26 - The pleroma_ Home of the Aeons. The World_ Home of the Archons. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/pleroma-aeons-world-archons/DALL·E 2022-07-27 17.49.30 - The pleroma_ Home of the Aeons. The World_ Home of the Archons. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/pleroma-aeons-world-archons/DALL·E 2022-07-27 17.49.35 - The pleroma_ Home of the Aeons. The World_ Home of the Archons. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/pleroma-aeons-world-archons/DALL·E 2022-07-27 17.50.02 - The pleroma_ Home of the Aeons. The World_ Home of the Archons. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/pleroma-aeons-world-archons/DALL·E 2022-07-27 17.50.04 - The pleroma_ Home of the Aeons. The World_ Home of the Archons. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/pleroma-aeons-world-archons/DALL·E 2022-07-27 17.50.10 - The pleroma_ Home of the Aeons. The World_ Home of the Archons. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/pleroma-aeons-world-archons/DALL·E 2022-07-27 17.50.15 - The pleroma_ Home of the Aeons. The World_ Home of the Archons. Digital Art.jpg]]
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  God stared down into the primeval waters and
+  saw his reflection. The aeons tended to
+  emanate from God in male-female pairs. Digital
+  Art
+#+END_SRC
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/pleroma-aeons-world-archons/DALL·E 2022-07-27 17.59.56 - God stared down into the primeval waters and saw his reflection. The aeons tended to emanate from God in male-female pairs. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/pleroma-aeons-world-archons/DALL·E 2022-07-27 18.00.09 - God stared down into the primeval waters and saw his reflection. The aeons tended to emanate from God in male-female pairs. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/pleroma-aeons-world-archons/DALL·E 2022-07-27 18.00.33 - God stared down into the primeval waters and saw his reflection. The aeons tended to emanate from God in male-female pairs. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/pleroma-aeons-world-archons/DALL·E 2022-07-27 18.00.40 - God stared down into the primeval waters and saw his reflection. The aeons tended to emanate from God in male-female pairs. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/pleroma-aeons-world-archons/DALL·E 2022-07-27 18.00.45 - God stared down into the primeval waters and saw his reflection. The aeons tended to emanate from God in male-female pairs. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/pleroma-aeons-world-archons/DALL·E 2022-07-27 18.01.13 - God stared down into the primeval waters and saw his reflection. The aeons tended to emanate from God in male-female pairs. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/pleroma-aeons-world-archons/DALL·E 2022-07-27 18.01.17 - God stared down into the primeval waters and saw his reflection. The aeons tended to emanate from God in male-female pairs. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/pleroma-aeons-world-archons/DALL·E 2022-07-27 18.01.56 - God stared down into the primeval waters and saw his reflection. The aeons tended to emanate from God in male-female pairs. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/pleroma-aeons-world-archons/DALL·E 2022-07-27 18.01.59 - God stared down into the primeval waters and saw his reflection. The aeons tended to emanate from God in male-female pairs. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/pleroma-aeons-world-archons/DALL·E 2022-07-27 18.02.11 - God stared down into the primeval waters and saw his reflection. The aeons tended to emanate from God in male-female pairs. Digital Art.jpg]]
