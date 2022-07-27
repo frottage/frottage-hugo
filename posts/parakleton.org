@@ -1,0 +1,28 @@
+#+HUGO_BASE_DIR: /home/shane/var/smulliga/source/git/frottage/frottage-hugo
+#+HUGO_SECTION: ./portfolio
+
+#+TITLE: Parakleton
+#+DATE: <2022-07-27>
+#+AUTHOR: Shane Mulligan
+#+KEYWORDS: dalle
+# #+hugo_custom_front_matter: :image "img/portfolio/corrupted-multiverse.jpg"
+#+hugo_custom_front_matter: :image "https://raw.githubusercontent.com/frottage/dall-e-2-generations/master/corrupted-multiverse/DALL%C2%B7E%202022-07-24%2020.40.39%20-%20The%20discordance%20of%20the%20result%20of%20man's%20original%20sin%20is%20that%20we%20find%20ourselves%20in%20a%20corrupted%20part%20of%20the%20multiverse.%20Digital%20Art.jpg"
+#+hugo_custom_front_matter: :weight 10 
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  In the court of God, the Holy Spirit stands
+  with you, and defends you. This is an image of
+  a person standing before God, and the Holy
+  Spirit standing next to them. Digital Art
+#+END_SRC
+
+DALL·E 2022-07-27 22.46.55 - In the court of God, the Holy Spirit stands with you, and defends you. This is an image of a person standing before God, and the Holy Spirit standing .jpg
+DALL·E 2022-07-27 22.47.00 - In the court of God, the Holy Spirit stands with you, and defends you. This is an image of a person standing before God, and the Holy Spirit standing .jpg
+DALL·E 2022-07-27 22.47.04 - In the court of God, the Holy Spirit stands with you, and defends you. This is an image of a person standing before God, and the Holy Spirit standing .jpg
+DALL·E 2022-07-27 22.47.28 - In the court of God, the Holy Spirit stands with you, and defends you. This is an image of a person standing before God, and the Holy Spirit standing .jpg
+DALL·E 2022-07-27 22.47.33 - In the court of God, the Holy Spirit stands with you, and defends you. This is an image of a person standing before God, and the Holy Spirit standing .jpg
+DALL·E 2022-07-27 22.48.27 - In the court of God, the Holy Spirit stands with you, and defends you. This is an image of a person standing before God, and the Holy Spirit standing .jpg
+DALL·E 2022-07-27 22.48.34 - In the court of God, the Holy Spirit stands with you, and defends you. This is an image of a person standing before God, and the Holy Spirit standing .jpg
+DALL·E 2022-07-27 22.48.44 - In the court of God, the Holy Spirit stands with you, and defends you. This is an image of a person standing before God, and the Holy Spirit standing .jpg
+DALL·E 2022-07-27 22.49.27 - In the court of God, the Holy Spirit stands with you, and defends you. This is an image of a person standing before God, and the Holy Spirit standing .jpg
+DALL·E 2022-07-27 22.49.36 - In the court of God, the Holy Spirit stands with you, and defends you. This is an image of a person standing before God, and the Holy Spirit standing .jpg
