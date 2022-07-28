@@ -1,7 +1,7 @@
 +++
 title = "Welcome to Our World"
 author = ["Shane Mulligan"]
-date = 2022-07-29T00:00:00+12:00
+date = 2022-07-28T00:00:00+12:00
 keywords = ["dalle"]
 draft = false
 image = "https://github.com/frottage/dall-e-2-generations/raw/master/welcome-to-our-world/DALL·E 2022-07-29 00.16.27 - Knock and the door will open Seek and you will find Ask and you'll be given The key to this world of mine. Digital Art..jpg"
