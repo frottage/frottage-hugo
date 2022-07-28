@@ -2,7 +2,7 @@
 #+HUGO_SECTION: ./portfolio
 
 #+TITLE: Welcome to Our World
-#+DATE: <2022-07-29>
+#+DATE: <2022-07-28>
 #+AUTHOR: Shane Mulligan
 #+KEYWORDS: dalle
 # #+hugo_custom_front_matter: :image "img/portfolio/corrupted-multiverse.jpg"
