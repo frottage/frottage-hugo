@@ -13,7 +13,11 @@ weight = 10
 
 {{< figure src="https://github.com/frottage/dall-e-2-generations/raw/master/cherry-blossoms-water/melee%20petal%20and%20water.jpg" >}}
 
+I was reminded of this scene from Mulan:
+
 {{< youtube faecNVYjVlk >}}
+
+Here's some music to listen to while looking at the generations:
 
 Music
 : <https://www.youtube.com/watch?v=qAqXDZoa624&list=RDFPEl86wxqbs&index=12>
