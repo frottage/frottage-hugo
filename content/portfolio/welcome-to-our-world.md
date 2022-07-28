@@ -14,7 +14,7 @@ John Grenell died yesterday.
 
 It's country music but I was 0 years old so, not my fault.
 
-{{< youtube 6\_eMvNnKCps >}}
+{{< youtube 4Z2rPHPPkSw >}}
 
 {{< highlight text "linenos=table, linenostart=1" >}}
 Welcome to my world
