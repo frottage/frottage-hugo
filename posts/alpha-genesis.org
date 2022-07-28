@@ -1,0 +1,62 @@
+#+HUGO_BASE_DIR: /home/shane/var/smulliga/source/git/frottage/frottage-hugo
+#+HUGO_SECTION: ./portfolio
+
+#+TITLE: Alpha Genesis
+#+DATE: <2022-07-28>
+#+AUTHOR: Shane Mulligan
+#+KEYWORDS: dalle
+# #+hugo_custom_front_matter: :image "img/portfolio/corrupted-multiverse.jpg"
+#+hugo_custom_front_matter: :image "https://raw.githubusercontent.com/frottage/dall-e-2-generations/master/corrupted-multiverse/DALL%C2%B7E%202022-07-24%2020.40.39%20-%20The%20discordance%20of%20the%20result%20of%20man's%20original%20sin%20is%20that%20we%20find%20ourselves%20in%20a%20corrupted%20part%20of%20the%20multiverse.%20Digital%20Art.jpg"
+#+hugo_custom_front_matter: :weight 10 
+
++ My eisegesis :: https://mullikine.github.io/posts/genesis/
+
+** Some art
+
++ Original poetry :: https://llamasandmystegosaurus.blogspot.com/2017/05/alpha.html
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  An advent: ancient archangels architect abstract astronomy and arid asteroids.  Digital Art
+#+END_SRC
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/alpha-genesis/DALL·E 2022-07-28 16.41.09 - An advent_ ancient archangels architect abstract astronomy and arid asteroids.  Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/alpha-genesis/DALL·E 2022-07-28 16.41.13 - An advent_ ancient archangels architect abstract astronomy and arid asteroids.  Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/alpha-genesis/DALL·E 2022-07-28 16.41.18 - An advent_ ancient archangels architect abstract astronomy and arid asteroids.  Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/alpha-genesis/DALL·E 2022-07-28 16.41.23 - An advent_ ancient archangels architect abstract astronomy and arid asteroids.  Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/alpha-genesis/DALL·E 2022-07-28 16.42.30 - An advent_ ancient archangels architect abstract astronomy and arid asteroids.  Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/alpha-genesis/DALL·E 2022-07-28 16.42.37 - An advent_ ancient archangels architect abstract astronomy and arid asteroids.  Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/alpha-genesis/DALL·E 2022-07-28 16.42.44 - An advent_ ancient archangels architect abstract astronomy and arid asteroids.  Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/alpha-genesis/DALL·E 2022-07-28 16.43.08 - An advent_ ancient archangels architect abstract astronomy and arid asteroids.  Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/alpha-genesis/DALL·E 2022-07-28 16.43.11 - An advent_ ancient archangels architect abstract astronomy and arid asteroids.  Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/alpha-genesis/DALL·E 2022-07-28 16.43.16 - An advent_ ancient archangels architect abstract astronomy and arid asteroids.  Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/alpha-genesis/DALL·E 2022-07-28 16.45.08 - An advent_ ancient archangels architect abstract astronomy and arid asteroids.  Digital Art.jpg]]
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  All asteroids are amorphous and absent; And all asleep across aquatic anarchy. And astral angels advanced across area. Digital Art
+#+END_SRC
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/alpha-genesis/DALL·E 2022-07-28 16.44.23 - All asteroids are amorphous and absent; And all asleep across aquatic anarchy. And astral angels advanced across area. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/alpha-genesis/DALL·E 2022-07-28 16.44.25 - All asteroids are amorphous and absent; And all asleep across aquatic anarchy. And astral angels advanced across area. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/alpha-genesis/DALL·E 2022-07-28 16.44.29 - All asteroids are amorphous and absent; And all asleep across aquatic anarchy. And astral angels advanced across area. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/alpha-genesis/DALL·E 2022-07-28 16.44.51 - All asteroids are amorphous and absent; And all asleep across aquatic anarchy. And astral angels advanced across area. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/alpha-genesis/DALL·E 2022-07-28 16.44.55 - All asteroids are amorphous and absent; And all asleep across aquatic anarchy. And astral angels advanced across area. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/alpha-genesis/DALL·E 2022-07-28 16.44.58 - All asteroids are amorphous and absent; And all asleep across aquatic anarchy. And astral angels advanced across area. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/alpha-genesis/DALL·E 2022-07-28 16.45.02 - All asteroids are amorphous and absent; And all asleep across aquatic anarchy. And astral angels advanced across area. Digital Art.jpg]]
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  Abundant agricultural affluence: azaleas, anise, amaranth. And apples and apricots, almonds and acacias, an arboreal appearance. Digital Art
+#+END_SRC
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/alpha-genesis/DALL·E 2022-07-28 16.46.08 - Abundant agricultural affluence_ azaleas, anise, amaranth. And apples and apricots, almonds and acacias, an arboreal appearance. Digital Art..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/alpha-genesis/DALL·E 2022-07-28 16.46.13 - Abundant agricultural affluence_ azaleas, anise, amaranth. And apples and apricots, almonds and acacias, an arboreal appearance. Digital Art..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/alpha-genesis/DALL·E 2022-07-28 16.48.18 - Abundant agricultural affluence_ azaleas, anise, amaranth. And apples and apricots, almonds and acacias, an arboreal appearance. Digital Art..jpg]]
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  And Almighty added, "Abyss, abundantly advance all animals: albacore and alligators, anemones and anchovies, angelfish and anglers; and avians assemble above air: all albatrosses and auks. Digital Art.
+#+END_SRC
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/alpha-genesis/DALL·E 2022-07-28 16.47.14 - 20. And Almighty added, _Abyss, abundantly advance all animals_ albacore and alligators, anemones and anchovies, angelfish and anglers; and avians ass.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/alpha-genesis/DALL·E 2022-07-28 16.47.17 - 20. And Almighty added, _Abyss, abundantly advance all animals_ albacore and alligators, anemones and anchovies, angelfish and anglers; and avians ass.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/alpha-genesis/DALL·E 2022-07-28 16.47.46 - 20. And Almighty added, _Abyss, abundantly advance all animals_ albacore and alligators, anemones and anchovies, angelfish and anglers; and avians ass.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/alpha-genesis/DALL·E 2022-07-28 16.47.51 - 20. And Almighty added, _Abyss, abundantly advance all animals_ albacore and alligators, anemones and anchovies, angelfish and anglers; and avians ass.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/alpha-genesis/DALL·E 2022-07-28 16.47.55 - 20. And Almighty added, _Abyss, abundantly advance all animals_ albacore and alligators, anemones and anchovies, angelfish and anglers; and avians ass.jpg]]
