@@ -1,0 +1,56 @@
+#+HUGO_BASE_DIR: /home/shane/var/smulliga/source/git/frottage/frottage-hugo
+#+HUGO_SECTION: ./portfolio
+
+#+TITLE: Welcome to Our World
+#+DATE: <2022-07-29>
+#+AUTHOR: Shane Mulligan
+#+KEYWORDS: dalle
+# #+hugo_custom_front_matter: :image "img/portfolio/corrupted-multiverse.jpg"
+#+hugo_custom_front_matter: :image "https://github.com/frottage/dall-e-2-generations/raw/master/welcome-to-our-world/DALL·E 2022-07-29 00.16.27 - Knock and the door will open Seek and you will find Ask and you'll be given The key to this world of mine. Digital Art..jpg"
+#+hugo_custom_front_matter: :weight 10 
+
+** My [[https://mullikine.github.io/posts/the-tapestry-of-truth/][Nana]] chose this song for my Christening
+John Grenell died yesterday.
+
+It's country music but I was 0 years old so, not my fault.
+
+{{< youtube 6_eMvNnKCps >}}
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  Welcome to my world
+  Won't you come on in
+  Miracles, I guess
+  Still happen now and then
+  
+  Step into my heart
+  Leave your cares behind
+  Welcome to my world
+  Built with you in mind
+  
+  Knock and the door will open
+  Seek and you will find
+  Ask and you'll be given
+  The key to this world of mine
+  
+  I'll be waiting here
+  With my arms unfurled
+  Waiting just for you
+  Welcome to my world
+  
+  Waiting just for you
+  Welcome to my world
+#+END_SRC
+
+John Denver Hore, better known by his stage
+name of John Grenell, was a New Zealand
+country singer and songwriter.
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  Born: 19 July 1944, Ranfurly
+  Died: 27 July 2022
+#+END_SRC
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/welcome-to-our-world/DALL·E 2022-07-29 00.16.27 - Knock and the door will open Seek and you will find Ask and you'll be given The key to this world of mine. Digital Art..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/welcome-to-our-world/DALL·E 2022-07-29 00.16.30 - Knock and the door will open Seek and you will find Ask and you'll be given The key to this world of mine. Digital Art..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/welcome-to-our-world/DALL·E 2022-07-29 00.16.33 - Knock and the door will open Seek and you will find Ask and you'll be given The key to this world of mine. Digital Art..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/welcome-to-our-world/DALL·E 2022-07-29 00.16.37 - Knock and the door will open Seek and you will find Ask and you'll be given The key to this world of mine. Digital Art..jpg]]
