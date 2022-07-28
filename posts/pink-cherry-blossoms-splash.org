@@ -4,18 +4,19 @@
 #+TITLE: Pink Cherry Blossoms Splash
 #+DATE: <2022-07-27>
 #+AUTHOR: Shane Mulligan
-#+KEYWORDS: dalle
 # #+hugo_custom_front_matter: :image "img/portfolio/corrupted-multiverse.jpg"
 #+hugo_custom_front_matter: :image "https://github.com/frottage/dall-e-2-generations/raw/master/cherry-blossoms-water/DALL·E 2022-07-27 02.07.13 - pink petals fall. rain drops splash the surface of green water. a  pencil drawing.jpg"
 #+hugo_custom_front_matter: :weight 10 
+
++ [[https://frottage.github.io/portfolio/pink-cherry-blossoms-splash/][Frottage Blog]]
 
 =Melee='s drawing:
 
 [[https://github.com/frottage/dall-e-2-generations/raw/master/cherry-blossoms-water/melee petal and water.jpg]]
 
-+ Music :: https://www.youtube.com/watch?v=qAqXDZoa624&list=RDFPEl86wxqbs&index=12
+{{< youtube faecNVYjVlk >}}
 
-{{< youtube qAqXDZoa624 >}}
++ Music :: https://www.youtube.com/watch?v=qAqXDZoa624&list=RDFPEl86wxqbs&index=12
 
 ** Prompt Gens
 #+BEGIN_SRC text -n :async :results verbatim code
@@ -42,6 +43,8 @@
 [[https://github.com/frottage/dall-e-2-generations/raw/master/cherry-blossoms-water/DALL·E 2022-07-27 02.00.58 - a close-up of a splash at the surface of clear water. cherry blossom petals fall from a branch into the water. pencil drawing.jpg]]
 [[https://github.com/frottage/dall-e-2-generations/raw/master/cherry-blossoms-water/DALL·E 2022-07-27 02.01.01 - a close-up of a splash at the surface of clear water. cherry blossom petals fall from a branch into the water. pencil drawing.jpg]]
 [[https://github.com/frottage/dall-e-2-generations/raw/master/cherry-blossoms-water/DALL·E 2022-07-27 02.01.29 - a close-up of a splash at the surface of clear water. cherry blossom petals fall from a branch into the water. pencil drawing.jpg]]
+
+{{< youtube qAqXDZoa624 >}}
 
 #+BEGIN_SRC text -n :async :results verbatim code
   a close-up of a splash at the surface of clear water. pink cherry blossom
