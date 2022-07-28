@@ -2,20 +2,21 @@
 title = "Pink Cherry Blossoms Splash"
 author = ["Shane Mulligan"]
 date = 2022-07-27T00:00:00+12:00
-keywords = ["dalle"]
 draft = false
 image = "https://github.com/frottage/dall-e-2-generations/raw/master/cherry-blossoms-water/DALL·E 2022-07-27 02.07.13 - pink petals fall. rain drops splash the surface of green water. a  pencil drawing.jpg"
 weight = 10
 +++
 
+-   [Frottage Blog](https://frottage.github.io/portfolio/pink-cherry-blossoms-splash/)
+
 `Melee`'s drawing:
 
 {{< figure src="https://github.com/frottage/dall-e-2-generations/raw/master/cherry-blossoms-water/melee%20petal%20and%20water.jpg" >}}
 
+{{< youtube faecNVYjVlk >}}
+
 Music
 : <https://www.youtube.com/watch?v=qAqXDZoa624&list=RDFPEl86wxqbs&index=12>
-
-{{< youtube qAqXDZoa624 >}}
 
 
 ## Prompt Gens {#prompt-gens}
@@ -44,6 +45,8 @@ fall from a branch into the water. pencil drawing
 ![](https://github.com/frottage/dall-e-2-generations/raw/master/cherry-blossoms-water/DALL%C2%B7E%202022-07-27%2002.00.58%20-%20a%20close-up%20of%20a%20splash%20at%20the%20surface%20of%20clear%20water.%20cherry%20blossom%20petals%20fall%20from%20a%20branch%20into%20the%20water.%20pencil%20drawing.jpg)
 ![](https://github.com/frottage/dall-e-2-generations/raw/master/cherry-blossoms-water/DALL%C2%B7E%202022-07-27%2002.01.01%20-%20a%20close-up%20of%20a%20splash%20at%20the%20surface%20of%20clear%20water.%20cherry%20blossom%20petals%20fall%20from%20a%20branch%20into%20the%20water.%20pencil%20drawing.jpg)
 ![](https://github.com/frottage/dall-e-2-generations/raw/master/cherry-blossoms-water/DALL%C2%B7E%202022-07-27%2002.01.29%20-%20a%20close-up%20of%20a%20splash%20at%20the%20surface%20of%20clear%20water.%20cherry%20blossom%20petals%20fall%20from%20a%20branch%20into%20the%20water.%20pencil%20drawing.jpg)
+
+{{< youtube qAqXDZoa624 >}}
 
 {{< highlight text "linenos=table, linenostart=1" >}}
 a close-up of a splash at the surface of clear water. pink cherry blossom
