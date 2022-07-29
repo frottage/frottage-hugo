@@ -2,11 +2,16 @@
 title = "Welcome to Our World"
 author = ["Shane Mulligan"]
 date = 2022-07-28T00:00:00+12:00
-keywords = ["dalle"]
 draft = false
 image = "https://github.com/frottage/dall-e-2-generations/raw/master/welcome-to-our-world/DALL·E 2022-07-29 00.16.27 - Knock and the door will open Seek and you will find Ask and you'll be given The key to this world of mine. Digital Art..jpg"
 weight = 10
 +++
+
+![](https://github.com/frottage/dall-e-2-generations/raw/master/you-my-world/DALL%C2%B7E%202022-07-29%2017.57.00%20-%20A%20person%20inside%20the%20thoughts%20of%20another%20person.%20Love.%20Digital%20Art.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/you-my-world/DALL%C2%B7E%202022-07-29%2017.58.42%20-%20Hearts%20connected.%20Love.%20Digital%20Art.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/you-my-world/DALL%C2%B7E%202022-07-29%2018.00.23%20-%20The%20red%20thread%20of%20fate%20foreshadows%20making%20the%20two%20into%20one.%20Digital%20Art.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/you-my-world/DALL%C2%B7E%202022-07-29%2018.01.16%20-%20The%20same%20spirit%20in%20two%20different%20bodies%20.%20Digital%20Art.jpg)
+
 
 ## My [Nana](https://mullikine.github.io/posts/the-tapestry-of-truth/) chose this song for my Christening {#my-nana-chose-this-song-for-my-christening}
 
