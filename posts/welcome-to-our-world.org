@@ -4,10 +4,14 @@
 #+TITLE: Welcome to Our World
 #+DATE: <2022-07-28>
 #+AUTHOR: Shane Mulligan
-#+KEYWORDS: dalle
 # #+hugo_custom_front_matter: :image "img/portfolio/corrupted-multiverse.jpg"
 #+hugo_custom_front_matter: :image "https://github.com/frottage/dall-e-2-generations/raw/master/welcome-to-our-world/DALL·E 2022-07-29 00.16.27 - Knock and the door will open Seek and you will find Ask and you'll be given The key to this world of mine. Digital Art..jpg"
 #+hugo_custom_front_matter: :weight 10 
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/you-my-world/DALL·E 2022-07-29 17.57.00 - A person inside the thoughts of another person. Love. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/you-my-world/DALL·E 2022-07-29 17.58.42 - Hearts connected. Love. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/you-my-world/DALL·E 2022-07-29 18.00.23 - The red thread of fate foreshadows making the two into one. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/you-my-world/DALL·E 2022-07-29 18.01.16 - The same spirit in two different bodies . Digital Art.jpg]]
 
 ** My [[https://mullikine.github.io/posts/the-tapestry-of-truth/][Nana]] chose this song for my Christening
 John Grenell died yesterday.
