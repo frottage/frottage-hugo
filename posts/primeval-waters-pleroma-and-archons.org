@@ -9,6 +9,10 @@
 #+hugo_custom_front_matter: :image "https://github.com/frottage/dall-e-2-generations/raw/master/pleroma-aeons-world-archons/DALL·E 2022-07-27 17.48.21 - The pleroma_ Home of the Aeons. The World_ Home of the Archons. Digital Art.jpg"
 #+hugo_custom_front_matter: :weight 10 
 
+** Some music
+
+{{< youtube c2HypF59tIE >}}
+
 ** Prompt gens
 
 #+BEGIN_SRC text -n :async :results verbatim code
