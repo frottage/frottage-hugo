@@ -8,6 +8,11 @@ image = "https://github.com/frottage/dall-e-2-generations/raw/master/pleroma-aeo
 weight = 10
 +++
 
+## Some music {#some-music}
+
+{{< youtube c2HypF59tIE >}}
+
+
 ## Prompt gens {#prompt-gens}
 
 {{< highlight text "linenos=table, linenostart=1" >}}
