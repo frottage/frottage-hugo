@@ -10,7 +10,9 @@
 #+hugo_custom_front_matter: :weight 10 
 
 ** Poetry
-- [[https://llamasandmystegosaurus.blogspot.com/2011/12/description-of-toy-store.html][A description of a toy store]]
+- [[https://llamasandmystegosaurus.blogspot.com/2011/12/description-of-toy-store.html][llamasandmystegosaurus: A description of a toy store]]
+
+=excerpt:=
 
 #+BEGIN_SRC text -n :async :results verbatim code
   There were stranger toys, too, that I hardly
