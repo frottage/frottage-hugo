@@ -12,12 +12,16 @@ My eisegesis
 : <https://mullikine.github.io/posts/genesis/>
 
 
-## Some art {#some-art}
-
 Original poetry
 : <https://llamasandmystegosaurus.blogspot.com/2017/05/alpha.html>
 
-<!--listend-->
+
+## Music to go with it {#music-to-go-with-it}
+
+{{< youtube uivSDnpnlXE >}}
+
+
+## Dalle gens {#dalle-gens}
 
 {{< highlight text "linenos=table, linenostart=1" >}}
 An advent: ancient archangels architect abstract astronomy and arid asteroids.  Digital Art
