@@ -8,6 +8,45 @@ image = "https://github.com/frottage/dall-e-2-generations/raw/master/indian-in-t
 weight = 10
 +++
 
+## Poetry {#poetry}
+
+-   [A description of a toy store](https://llamasandmystegosaurus.blogspot.com/2011/12/description-of-toy-store.html)
+
+<!--listend-->
+
+{{< highlight text "linenos=table, linenostart=1" >}}
+There were stranger toys, too, that I hardly
+know how to describe.
+
+One of them was a kind of oversized helmet
+attached to a microscope.
+
+It looked like it had been built around 1930
+of largely cast iron parts.
+
+When you slipped under the helmet, you were
+surrounded on all sides by projections of the
+microscopic slide.
+
+Each hand controlled one probe, and foot
+pedals would cause you to soar around the
+scene.
+
+To enhance the effect, variable speed fans
+blew wind in your face as you flew from one
+place to another.
+
+Looking at leaves or microorganisms with this
+would have been fantastic enough, but on one
+of the slides, an entire miniature island had
+been built from tiny bits of moss, insect
+parts, and grains of sand, including ruined
+cathedrals and sprawling treehouses.
+
+The back wall of the balcony was for board games.
+{{< /highlight >}}
+
+
 ## Prompt {#prompt}
 
 {{< highlight text "linenos=table, linenostart=1" >}}
