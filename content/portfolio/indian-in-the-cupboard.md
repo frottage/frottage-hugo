@@ -10,9 +10,9 @@ weight = 10
 
 ## Poetry {#poetry}
 
--   [A description of a toy store](https://llamasandmystegosaurus.blogspot.com/2011/12/description-of-toy-store.html)
+-   [llamasandmystegosaurus: A description of a toy store](https://llamasandmystegosaurus.blogspot.com/2011/12/description-of-toy-store.html)
 
-<!--listend-->
+`excerpt:`
 
 {{< highlight text "linenos=table, linenostart=1" >}}
 There were stranger toys, too, that I hardly
