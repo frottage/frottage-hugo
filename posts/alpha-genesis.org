@@ -11,9 +11,13 @@
 
 + My eisegesis :: https://mullikine.github.io/posts/genesis/
 
-** Some art
-
 + Original poetry :: https://llamasandmystegosaurus.blogspot.com/2017/05/alpha.html
+
+** Music to go with it
+
+{{< youtube uivSDnpnlXE >}}
+
+** Dalle gens
 
 #+BEGIN_SRC text -n :async :results verbatim code
   An advent: ancient archangels architect abstract astronomy and arid asteroids.  Digital Art
