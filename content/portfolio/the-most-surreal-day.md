@@ -14,7 +14,7 @@ Blog
 ---
 
 Water, fire and light
-: {{< figure src="./water-fire-light.png" >}}
+: {{< figure src="https://mullikine.github.io/ox-hugo/water-fire-light.png" >}}
 
 I bought the glass pendent so I can put [Melee's paintings](https://mullikine.github.io/posts/describing-melee-s-paintings-with-alephalpha/) in it to keep her close to me.
 
