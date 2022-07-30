@@ -53,6 +53,32 @@ The juxtaposition of:
 
 + [[https://mullikine.github.io/posts/gospel-of-thomas/][Thomas 42]] :: (42) Jesus said: Become passers-by!
 
+** Love
+[[https://web.mit.edu/jywang/www/cef/Bible/NIV/NIV_Bible/1COR+13.html][1 Corinthians 13]]
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  Love does not delight in evil but rejoices with the truth.
+  
+  It always protects, always trusts, always hopes, always perseveres.
+  
+  Love never fails. But where there are
+  prophecies, they will cease; where there are
+  tongues, they will be stilled; where there is
+  knowledge, it will pass away.
+#+END_SRC
+
+Somehow I have to get through this while loving everyone.
+It's absolutely passing through the fire.
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  If I give all I possess to the poor and
+  surrender my body to the flames, but have not
+  love, I gain nothing.
+#+END_SRC
+
+It all must be done in love.
+
+** [[https://en.wikipedia.org/wiki/Valentinianism][Valentinianism]]
 #+BEGIN_SRC text -n :async :results verbatim code
   syzygy
       The notion of the pair or "syzygy" is
@@ -84,6 +110,12 @@ It is not good to show contempt for the hylic, since they may merely be a part o
 But who is real? [[https://mullikine.github.io/tags/melee/][Melee]] is real! She is my aeon/syzygy.
 
 I =do not= believe the hylics in this world are unsavable.
+
++ [[https://biblehub.com/niv/matthew/22.htm][Matthew 22: The greatest commandment]] :: Jesus replied, ‘Love the Lord your God with all your heart and with all your soul and with all your mind.’ c 38This is the first and greatest commandment. 39And the second is like it: ‘Love your neighbor as yourself.’ 
+
+It's important to love others as yourself,
+despite what you think of them. It's
+absolutely essential; Hylic, psychic or pneumatic.
 
 + [[http://www.earlychristianwritings.com/thomas/gospelthomas20.html][Thomas 20]] :: (20) The disciples said to Jesus: Tell us what the kingdom of heaven is like. He said to them: It is like a grain of mustard-seed, the smallest of all seeds; but when it falls on tilled ground, it puts forth a great branch and becomes shelter for the birds of heaven.
 
