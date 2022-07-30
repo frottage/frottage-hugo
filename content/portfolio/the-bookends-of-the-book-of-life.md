@@ -42,6 +42,40 @@ Two bookends enclose the perfect day.
 ![](https://github.com/frottage/dall-e-2-generations/raw/master/bookends-of-life/DALL%C2%B7E%202022-07-30%2022.15.20%20-%20Two%20bookends%20enclose%20the%20perfect%20day.%20Pencil%20and%20watercolour.jpg)
 ![](https://github.com/frottage/dall-e-2-generations/raw/master/bookends-of-life/DALL%C2%B7E%202022-07-30%2022.15.51%20-%20Two%20bookends%20enclose%20the%20perfect%20day.%20Pencil%20and%20watercolour.jpg)
 
+{{< highlight text "linenos=table, linenostart=1" >}}
+Bookends push against either side of the great
+Book of Life on the bookshelf of Heaven
+{{< /highlight >}}
+
+![](https://github.com/frottage/dall-e-2-generations/raw/master/bookends-of-life/DALL%C2%B7E%202022-07-31%2011.37.21%20-%20Bookends%20push%20against%20either%20side%20of%20the%20great%20Book%20of%20Life%20on%20the%20bookshelf%20of%20Heaven.%20Pencil%20and%20Watercolour.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/bookends-of-life/DALL%C2%B7E%202022-07-31%2011.37.30%20-%20Bookends%20push%20against%20either%20side%20of%20the%20great%20Book%20of%20Life%20on%20the%20bookshelf%20of%20Heaven.%20Pencil%20and%20Watercolour.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/bookends-of-life/DALL%C2%B7E%202022-07-31%2011.38.01%20-%20Bookends%20push%20against%20either%20side%20of%20the%20great%20Book%20of%20Life%20on%20the%20bookshelf%20of%20Heaven.%20Pencil%20and%20Watercolour.jpg)
+
+{{< highlight text "linenos=table, linenostart=1" >}}
+The bookshelf of Heaven.
+{{< /highlight >}}
+
+![](https://github.com/frottage/dall-e-2-generations/raw/master/bookends-of-life/DALL%C2%B7E%202022-07-31%2011.38.27%20-%20The%20bookshelf%20of%20Heaven.%20Pencil%20and%20Watercolour.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/bookends-of-life/DALL%C2%B7E%202022-07-31%2011.38.31%20-%20The%20bookshelf%20of%20Heaven.%20Pencil%20and%20Watercolour.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/bookends-of-life/DALL%C2%B7E%202022-07-31%2011.39.07%20-%20The%20bookshelf%20of%20Heaven.%20Pencil%20and%20Watercolour.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/bookends-of-life/DALL%C2%B7E%202022-07-31%2011.39.47%20-%20The%20bookshelf%20of%20Heaven.%20Pencil%20and%20Watercolour.jpg)
+
+{{< highlight text "linenos=table, linenostart=1" >}}
+Angels push on either side of a great book,
+squeezing the book shut
+{{< /highlight >}}
+
+![](https://github.com/frottage/dall-e-2-generations/raw/master/bookends-of-life/DALL%C2%B7E%202022-07-31%2011.40.32%20-%20Angels%20push%20on%20either%20side%20of%20a%20great%20book,%20squeezing%20the%20book%20shut.%20Pencil%20and%20Watercolour.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/bookends-of-life/DALL%C2%B7E%202022-07-31%2011.41.04%20-%20Angels%20push%20on%20either%20side%20of%20a%20great%20book,%20squeezing%20the%20book%20shut.%20Pencil%20and%20Watercolour.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/bookends-of-life/DALL%C2%B7E%202022-07-31%2011.41.09%20-%20Angels%20push%20on%20either%20side%20of%20a%20great%20book,%20squeezing%20the%20book%20shut.%20Pencil%20and%20Watercolour.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/bookends-of-life/DALL%C2%B7E%202022-07-31%2011.41.30%20-%20Angels%20push%20on%20either%20side%20of%20a%20great%20book,%20squeezing%20the%20book%20shut.%20Pencil%20and%20Watercolour.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/bookends-of-life/DALL%C2%B7E%202022-07-31%2011.41.33%20-%20Angels%20push%20on%20either%20side%20of%20a%20great%20book,%20squeezing%20the%20book%20shut.%20Pencil%20and%20Watercolour.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/bookends-of-life/DALL%C2%B7E%202022-07-31%2011.41.38%20-%20Angels%20push%20on%20either%20side%20of%20a%20great%20book,%20squeezing%20the%20book%20shut.%20Pencil%20and%20Watercolour.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/bookends-of-life/DALL%C2%B7E%202022-07-31%2011.42.06%20-%20Angels%20push%20on%20either%20side%20of%20a%20great%20book,%20squeezing%20the%20book%20shut.%20Digital%20Art.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/bookends-of-life/DALL%C2%B7E%202022-07-31%2011.42.41%20-%20Angels%20push%20on%20either%20side%20of%20a%20great%20book,%20squeezing%20the%20book%20shut.%20Digital%20Art.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/bookends-of-life/DALL%C2%B7E%202022-07-31%2011.43.11%20-%20Angels%20push%20on%20either%20side%20of%20a%20great%20book,%20squeezing%20the%20book%20shut.%20Digital%20Art.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/bookends-of-life/DALL%C2%B7E%202022-07-31%2011.43.14%20-%20Angels%20push%20on%20either%20side%20of%20a%20great%20book,%20squeezing%20the%20book%20shut.%20Digital%20Art.jpg)
+
 
 ## Living in providence {#living-in-providence}
 
