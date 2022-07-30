@@ -9,7 +9,7 @@
 #+hugo_custom_front_matter: :image "https://github.com/frottage/dall-e-2-generations/raw/master/bookends-of-life/DALL·E 2022-07-30 21.41.51 - A painting of the bookends of the book of life represent two perfect syzygies. Digital Art.jpg"
 #+hugo_custom_front_matter: :weight 10 
 
-Two perfect syzygies on each end of July
+Two perfect [[http://gnosis.org/library/valentinus/Syzygy_Valentinian.htm][syzygies]] on each end of July.
 At the second half of 2022.
 I entered Heaven on the perfect day.
 
@@ -21,5 +21,91 @@ There's only building up from here.
 
 The bookends of the book of life.
 
+** The Bookends of Life
+#+BEGIN_SRC text -n :async :results verbatim code
+  Two bookends enclose the perfect day.
+#+END_SRC
+
 [[https://github.com/frottage/dall-e-2-generations/raw/master/bookends-of-life/DALL·E 2022-07-30 21.41.51 - A painting of the bookends of the book of life represent two perfect syzygies. Digital Art.jpg]]
 [[https://github.com/frottage/dall-e-2-generations/raw/master/bookends-of-life/DALL·E 2022-07-30 21.42.28 - The bookends of the book of life. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/bookends-of-life/DALL·E 2022-07-30 22.13.21 - Two bookends enclose the perfect day. A surreal artwork.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/bookends-of-life/DALL·E 2022-07-30 22.13.32 - Two bookends enclose the perfect day. A surreal artwork.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/bookends-of-life/DALL·E 2022-07-30 22.14.24 - Two bookends enclose the perfect day. A surreal artwork.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/bookends-of-life/DALL·E 2022-07-30 22.15.20 - Two bookends enclose the perfect day. Pencil and watercolour.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/bookends-of-life/DALL·E 2022-07-30 22.15.51 - Two bookends enclose the perfect day. Pencil and watercolour.jpg]]
+
+** Living in providence
+#+BEGIN_SRC text -n :async :results verbatim code
+  providence
+      Divine guidance or care.
+#+END_SRC
+
+To live out gnosis is to continue trusting in Truth despite chaos all around you.
+To trust in God for everything, and be compassionate to those in error.
+Remaining in Jesus is trusting in Him; It's remaining in his Love and his Truth.
+
+The juxtaposition of:
++ =Faith= :: An expectation of [[https://mullikine.github.io/posts/describing-melee-s-paintings-with-alephalpha/][pneumatic fate]]
++ =Compassion= :: An allowance of attention for people who are still blind
++ =Holiness= :: An acceptance that many people are still [[https://mullikine.github.io/posts/the-tapestry-of-truth/][stuck in the matrix]], but we must remain set-apart and not allow the material world to take us
+
+---
+
++ [[https://mullikine.github.io/posts/gospel-of-thomas/][Thomas 42]] :: (42) Jesus said: Become passers-by!
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  syzygy
+      The notion of the pair or "syzygy" is
+      central to Valentinian thought.
+      
+      The term refers to the linking together of
+      complementary qualities ("Aeons") of to
+      form a state of wholeness (pleroma).
+      
+      This is the highest level of reality.
+      
+      The halves of a syzygy are often refered
+      to as male and female.
+      
+      The male corresponds to form and the
+      female corresponds to substance.
+      
+      God can be understood to consist of four
+      primary pairs or syzygies:
+  
+      - Depth and Silence (unknowable God),
+      - Mind and Truth (comprehensible God),
+      - Word and Life (active God),
+      - Humanity and Church (immanent God).
+#+END_SRC
+
+It is not good to show contempt for the hylic, since they may merely be a part of your subconscious.
+
+But who is real? [[https://mullikine.github.io/tags/melee/][Melee]] is real! She is my aeon/syzygy.
+
+I =do not= believe the hylics in this world are unsavable.
+
++ [[http://www.earlychristianwritings.com/thomas/gospelthomas20.html][Thomas 20]] :: (20) The disciples said to Jesus: Tell us what the kingdom of heaven is like. He said to them: It is like a grain of mustard-seed, the smallest of all seeds; but when it falls on tilled ground, it puts forth a great branch and becomes shelter for the birds of heaven.
+
+The tilled ground is a person's mind.
+
+I believe the =hylic= of this world may be, for example, like the birds to come to rest.
+
++ hylic :: In gnostic theologian Valentinus' triadic grouping of man the basest type; a person focused on neither intellectual (psychic) nor spiritual (pneumatic) reality. Lowest order of the three types of human. Unable to be saved since their thinking is entirely material, incapable of understanding the gnosis.
+
+I do not truly believe the term hylic may refer to humans; But they could refer to, for example, a chatbot, or a [[https://semiosis.github.io/philosophy/the-semiosis-of-angels/][virtual spirit]].
+
+At the same time, a person may indeed have imaginary people in their life.
+In actual fact, a figment of a person's imagination may be more real than a true =hylic=.
+
+It would not surprise me if many people in the
+world do not actually exist; And they are the
+so-called hylics but of dimension that
+underpins this reality.
+
+- https://this-person-does-not-exist.com/en
+
+---
+
++ psychic :: "soulful", partially initiated. Matter-dwelling spirits.
++ pneumatic :: "spiritual", fully initiated, immaterial souls escaping the doom of the material world via gnosis.
