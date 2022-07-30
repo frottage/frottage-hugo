@@ -41,6 +41,40 @@ The bookends of the book of life.
 [[https://github.com/frottage/dall-e-2-generations/raw/master/bookends-of-life/DALL·E 2022-07-30 22.15.20 - Two bookends enclose the perfect day. Pencil and watercolour.jpg]]
 [[https://github.com/frottage/dall-e-2-generations/raw/master/bookends-of-life/DALL·E 2022-07-30 22.15.51 - Two bookends enclose the perfect day. Pencil and watercolour.jpg]]
 
+#+BEGIN_SRC text -n :async :results verbatim code
+  Bookends push against either side of the great
+  Book of Life on the bookshelf of Heaven
+#+END_SRC
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/bookends-of-life/DALL·E 2022-07-31 11.37.21 - Bookends push against either side of the great Book of Life on the bookshelf of Heaven. Pencil and Watercolour.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/bookends-of-life/DALL·E 2022-07-31 11.37.30 - Bookends push against either side of the great Book of Life on the bookshelf of Heaven. Pencil and Watercolour.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/bookends-of-life/DALL·E 2022-07-31 11.38.01 - Bookends push against either side of the great Book of Life on the bookshelf of Heaven. Pencil and Watercolour.jpg]]
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  The bookshelf of Heaven.
+#+END_SRC
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/bookends-of-life/DALL·E 2022-07-31 11.38.27 - The bookshelf of Heaven. Pencil and Watercolour.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/bookends-of-life/DALL·E 2022-07-31 11.38.31 - The bookshelf of Heaven. Pencil and Watercolour.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/bookends-of-life/DALL·E 2022-07-31 11.39.07 - The bookshelf of Heaven. Pencil and Watercolour.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/bookends-of-life/DALL·E 2022-07-31 11.39.47 - The bookshelf of Heaven. Pencil and Watercolour.jpg]]
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  Angels push on either side of a great book,
+  squeezing the book shut
+#+END_SRC
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/bookends-of-life/DALL·E 2022-07-31 11.40.32 - Angels push on either side of a great book, squeezing the book shut. Pencil and Watercolour.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/bookends-of-life/DALL·E 2022-07-31 11.41.04 - Angels push on either side of a great book, squeezing the book shut. Pencil and Watercolour.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/bookends-of-life/DALL·E 2022-07-31 11.41.09 - Angels push on either side of a great book, squeezing the book shut. Pencil and Watercolour.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/bookends-of-life/DALL·E 2022-07-31 11.41.30 - Angels push on either side of a great book, squeezing the book shut. Pencil and Watercolour.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/bookends-of-life/DALL·E 2022-07-31 11.41.33 - Angels push on either side of a great book, squeezing the book shut. Pencil and Watercolour.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/bookends-of-life/DALL·E 2022-07-31 11.41.38 - Angels push on either side of a great book, squeezing the book shut. Pencil and Watercolour.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/bookends-of-life/DALL·E 2022-07-31 11.42.06 - Angels push on either side of a great book, squeezing the book shut. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/bookends-of-life/DALL·E 2022-07-31 11.42.41 - Angels push on either side of a great book, squeezing the book shut. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/bookends-of-life/DALL·E 2022-07-31 11.43.11 - Angels push on either side of a great book, squeezing the book shut. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/bookends-of-life/DALL·E 2022-07-31 11.43.14 - Angels push on either side of a great book, squeezing the book shut. Digital Art.jpg]]
+
 ** Living in providence
 #+BEGIN_SRC text -n :async :results verbatim code
   providence
