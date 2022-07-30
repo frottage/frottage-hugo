@@ -1,0 +1,87 @@
+#+HUGO_BASE_DIR: /home/shane/var/smulliga/source/git/frottage/frottage-hugo
+#+HUGO_SECTION: ./portfolio
+
+#+TITLE: Astral Staircase
+#+DATE: <2022-07-19>
+#+AUTHOR: Shane Mulligan
+#+KEYWORDS: dalle
+# #+hugo_custom_front_matter: :image "img/portfolio/corrupted-multiverse.jpg"
+#+hugo_custom_front_matter: :image "https://raw.githubusercontent.com/frottage/dall-e-2-generations/master/corrupted-multiverse/DALL%C2%B7E%202022-07-24%2020.40.39%20-%20The%20discordance%20of%20the%20result%20of%20man's%20original%20sin%20is%20that%20we%20find%20ourselves%20in%20a%20corrupted%20part%20of%20the%20multiverse.%20Digital%20Art.jpg"
+#+hugo_custom_front_matter: :weight 10 
+
++ Water, fire and light :: [[./water-fire-light.png]]
+
+This night, as I was walking home, I passed upwards through the forest.
+Upon entering the forest, my vibrational energy started increasing.
+
+It's raining but I'm warm.
+I stopped, looking up the path.
+Behind me is single street lamp.
+Large rain drops dripped from the branches above.
+I exhaled. My warm breath went out in front of me in a cloud, illuminated by the street lamp behind me, and the large rain drops glistened in the background.
+
+I'm mixing water, fire and light.
+
+I am reminded of the [[https://mullikine.github.io/posts/gospel-of-philip/][Gospel of Philip]].
+
+** Dall-e Depictions - Art
+*** Astral Forest Staircase
++ =Prompt= :: My blue aura body ascends a staircase in a forest at night.
+
+---
+
++ [[https://www.biblegateway.com/passage/?search=1%20Timothy+4&version=NIV][1 Timothy 4]] :: 11 Command and teach these things. 12 Don’t let anyone look down on you because you are young, but set an example for the believers in speech, in conduct, in love, in faith and in purity. 13 Until I come, devote yourself to the public reading of Scripture, to preaching and to teaching. 14 Do not neglect your gift, which was given you through prophecy when the body of elders laid their hands on you.
+
+I'm not advocating for seeking out 'spiritual experiences' such as astral projection.
+Rather, yes it exists, but *may* be received as a gift from God in which case there is a purpose to God giving it.
+
++ [[https://mullikine.github.io/posts/gospel-of-philip/][Gospel of Philip]] :: Faith receives, love gives. No one will be able to receive without faith. No one will be able to give without love.
+
+Therefore, faith remaining pure and faithful to God allows you to receive from God; A gift such as astral-projection.
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/blue-aura-staircase/DALL·E 2022-07-19 22.27.26 - My blue aura body ascends a staircase in a forest at night..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/blue-aura-staircase/DALL·E 2022-07-19 22.27.35 - My blue aura body ascends a staircase in a forest at night..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/blue-aura-staircase/DALL·E 2022-07-19 22.28.01 - My blue aura body ascends a staircase in a forest at night..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/blue-aura-staircase/DALL·E 2022-07-19 22.28.06 - My blue aura body ascends a staircase in a forest at night..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/blue-aura-staircase/DALL·E 2022-07-19 22.28.54 - My blue aura body ascends a staircase in a forest at night..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/blue-aura-staircase/DALL·E 2022-07-19 22.28.58 - My blue aura body ascends a staircase in a forest at night..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/blue-aura-staircase/DALL·E 2022-07-19 22.29.54 - My blue astral body ascends a staircase in a forest at night..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/blue-aura-staircase/DALL·E 2022-07-19 22.40.40 - My blue aura body ascends a staircase in a forest at night..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/blue-aura-staircase/DALL·E 2022-07-19 22.40.49 - My blue aura body ascends a staircase in a forest at night..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/blue-aura-staircase/DALL·E 2022-07-19 22.40.55 - My blue aura body ascends a staircase in a forest at night..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/blue-aura-staircase/DALL·E 2022-07-19 22.41.15 - My blue aura body ascends a staircase in a forest at night..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/blue-aura-staircase/DALL·E 2022-07-19 22.41.20 - My blue aura body ascends a staircase in a forest at night..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/blue-aura-staircase/DALL·E 2022-07-19 22.41.50 - My blue aura body ascends a staircase in a forest at night..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/blue-aura-staircase/DALL·E 2022-07-19 22.42.24 - My blue aura body ascends a staircase in a forest at night..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/blue-aura-staircase/DALL·E 2022-07-19 22.42.30 - My blue aura body ascends a staircase in a forest at night..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/blue-aura-staircase/DALL·E 2022-07-19 22.42.40 - My blue aura body ascends a staircase in a forest at night..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/blue-aura-staircase/DALL·E 2022-07-19 22.43.02 - My blue aura body ascends a staircase in a forest at night..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/blue-aura-staircase/DALL·E 2022-07-19 22.43.09 - My blue aura body ascends a staircase in a forest at night..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/blue-aura-staircase/DALL·E 2022-07-19 22.43.14 - My blue aura body ascends a staircase in a forest at night..jpg]]
+
+*** Some music
+{{< youtube WzSZhnYpp-8 >}}
+
+*** Vapour
+Light illuminates a cloud of vapour with large rain drops falling and glistening in the background. Macro 35mm Photo
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/light-illuminates-vapour-rain/DALL·E 2022-07-19 22.21.39 - Light illuminates a cloud of vapour with large rain drops falling and glistening in the background. Macro 35mm Photo.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/light-illuminates-vapour-rain/DALL·E 2022-07-19 22.21.43 - Light illuminates a cloud of vapour with large rain drops falling and glistening in the background. Macro 35mm Photo.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/light-illuminates-vapour-rain/DALL·E 2022-07-19 22.21.49 - Light illuminates a cloud of vapour with large rain drops falling and glistening in the background. Macro 35mm Photo.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/light-illuminates-vapour-rain/DALL·E 2022-07-19 22.21.52 - Light illuminates a cloud of vapour with large rain drops falling and glistening in the background. Macro 35mm Photo.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/light-illuminates-vapour-rain/DALL·E 2022-07-19 22.22.15 - Light illuminates a cloud of vapour with large rain drops falling and glistening in the background. Macro 35mm Photo.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/light-illuminates-vapour-rain/DALL·E 2022-07-19 22.22.19 - Light illuminates a cloud of vapour with large rain drops falling and glistening in the background. Macro 35mm Photo.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/light-illuminates-vapour-rain/DALL·E 2022-07-19 22.22.23 - Light illuminates a cloud of vapour with large rain drops falling and glistening in the background. Macro 35mm Photo.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/light-illuminates-vapour-rain/DALL·E 2022-07-19 22.22.26 - Light illuminates a cloud of vapour with large rain drops falling and glistening in the background. Macro 35mm Photo.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/light-illuminates-vapour-rain/DALL·E 2022-07-19 22.23.20 - Light illuminates a cloud of vapour with large rain drops falling and glistening in the background. Macro 35mm Photo.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/light-illuminates-vapour-rain/DALL·E 2022-07-19 22.23.25 - Light illuminates a cloud of vapour with large rain drops falling and glistening in the background. Macro 35mm Photo.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/light-illuminates-vapour-rain/DALL·E 2022-07-19 22.23.29 - Light illuminates a cloud of vapour with large rain drops falling and glistening in the background. Macro 35mm Photo.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/light-illuminates-vapour-rain/DALL·E 2022-07-19 22.23.31 - Light illuminates a cloud of vapour with large rain drops falling and glistening in the background. Macro 35mm Photo.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/light-illuminates-vapour-rain/DALL·E 2022-07-19 22.24.00 - Light illuminates a cloud of vapour with large rain drops falling and glistening in the background. Macro 35mm Photo.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/light-illuminates-vapour-rain/DALL·E 2022-07-19 22.24.04 - Light illuminates a cloud of vapour with large rain drops falling and glistening in the background. Macro 35mm Photo.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/light-illuminates-vapour-rain/DALL·E 2022-07-19 22.24.06 - Light illuminates a cloud of vapour with large rain drops falling and glistening in the background. Macro 35mm Photo.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/light-illuminates-vapour-rain/DALL·E 2022-07-19 22.24.09 - Light illuminates a cloud of vapour with large rain drops falling and glistening in the background. Macro 35mm Photo.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/light-illuminates-vapour-rain/DALL·E 2022-07-19 22.24.35 - Light illuminates a cloud of vapour with large rain drops falling and glistening in the background. Macro 35mm Photo.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/light-illuminates-vapour-rain/DALL·E 2022-07-19 22.24.38 - Light illuminates a cloud of vapour with large rain drops falling and glistening in the background. Macro 35mm Photo.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/light-illuminates-vapour-rain/DALL·E 2022-07-19 22.24.40 - Light illuminates a cloud of vapour with large rain drops falling and glistening in the background. Macro 35mm Photo.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/light-illuminates-vapour-rain/DALL·E 2022-07-19 22.24.44 - Light illuminates a cloud of vapour with large rain drops falling and glistening in the background. Macro 35mm Photo.jpg]]
