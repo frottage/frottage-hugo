@@ -47,6 +47,11 @@ The back wall of the balcony was for board games.
 {{< /highlight >}}
 
 
+## Inspiration {#inspiration}
+
+{{< youtube wu9FW7EBoZQ >}}
+
+
 ## Prompt {#prompt}
 
 {{< highlight text "linenos=table, linenostart=1" >}}
