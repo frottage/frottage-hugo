@@ -9,7 +9,7 @@ weight = 10
 +++
 
 Water, fire and light
-: {{< figure src="./water-fire-light.png" >}}
+: {{< figure src="https://mullikine.github.io/ox-hugo/water-fire-light.png" >}}
 
 This night, as I was walking home, I passed upwards through the forest.
 Upon entering the forest, my vibrational energy started increasing.
