@@ -1,4 +1,4 @@
-#+HUGO_BASE_DIR: $HOME/var/smulliga/source/git/frottage/frottage-hugo
+#+HUGO_BASE_DIR: /home/shane/var/smulliga/source/git/frottage/frottage-hugo
 #+HUGO_SECTION: ./portfolio
 
 #+TITLE: The Most Surreal Day
