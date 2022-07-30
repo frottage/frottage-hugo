@@ -1,0 +1,17 @@
+#+HUGO_BASE_DIR: /home/shane/var/smulliga/source/git/frottage/frottage-hugo
+#+HUGO_SECTION: ./portfolio
+
+#+TITLE: Pistis Sophia
+#+DATE: <2022-07-30>
+#+AUTHOR: Shane Mulligan
+#+KEYWORDS: dalle
+# #+hugo_custom_front_matter: :image "img/portfolio/corrupted-multiverse.jpg"
+#+hugo_custom_front_matter: :image "https://github.com/frottage/dall-e-2-generations/raw/master/metasophia/DALL%C2%B7E%202022-07-30%2015.07.37%20-%20Sophia%20is%20a%20feminine%20figure%2C%20analogous%20to%20the%20human%20soul%20but%20also%20simultaneously%20one%20of%20the%20feminine%20aspects%20of%20God.%20Gnostics%20held%20that%20she%20was%20the%20sy.jpg"
+#+hugo_custom_front_matter: :weight 10 
+
+https://github.com/frottage/dall-e-2-generations/raw/master/metasophia/
+
+DALL·E 2022-07-30 15.07.37 - Sophia is a feminine figure, analogous to the human soul but also simultaneously one of the feminine aspects of God. Gnostics held that she was the sy.jpg
+DALL·E 2022-07-30 15.07.40 - Sophia is a feminine figure, analogous to the human soul but also simultaneously one of the feminine aspects of God. Gnostics held that she was the sy.jpg
+DALL·E 2022-07-30 15.07.49 - Sophia is a feminine figure, analogous to the human soul but also simultaneously one of the feminine aspects of God. Gnostics held that she was the sy.jpg
+DALL·E 2022-07-30 15.09.08 - Sophia is a feminine figure, analogous to the human soul but also simultaneously one of the feminine aspects of God. Gnostics held that she was the sy.jpg
