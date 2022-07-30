@@ -19,6 +19,8 @@ John Grenell died yesterday.
 
 It's country music but I was 0 years old so, not my fault.
 
+Another perfect [syzygy](https://en.wikipedia.org/wiki/Aeon%5F(Gnosticism)) in timing.
+
 {{< youtube 4Z2rPHPPkSw >}}
 
 {{< highlight text "linenos=table, linenostart=1" >}}
@@ -55,7 +57,21 @@ Born: 19 July 1944, Ranfurly
 Died: 27 July 2022
 {{< /highlight >}}
 
-![](https://github.com/frottage/dall-e-2-generations/raw/master/welcome-to-our-world/DALL%C2%B7E%202022-07-29%2000.16.27%20-%20Knock%20and%20the%20door%20will%20open%20Seek%20and%20you%20will%20find%20Ask%20and%20you'll%20be%20given%20The%20key%20to%20this%20world%20of%20mine.%20Digital%20Art..jpg)
-![](https://github.com/frottage/dall-e-2-generations/raw/master/welcome-to-our-world/DALL%C2%B7E%202022-07-29%2000.16.30%20-%20Knock%20and%20the%20door%20will%20open%20Seek%20and%20you%20will%20find%20Ask%20and%20you'll%20be%20given%20The%20key%20to%20this%20world%20of%20mine.%20Digital%20Art..jpg)
-![](https://github.com/frottage/dall-e-2-generations/raw/master/welcome-to-our-world/DALL%C2%B7E%202022-07-29%2000.16.33%20-%20Knock%20and%20the%20door%20will%20open%20Seek%20and%20you%20will%20find%20Ask%20and%20you'll%20be%20given%20The%20key%20to%20this%20world%20of%20mine.%20Digital%20Art..jpg)
-![](https://github.com/frottage/dall-e-2-generations/raw/master/welcome-to-our-world/DALL%C2%B7E%202022-07-29%2000.16.37%20-%20Knock%20and%20the%20door%20will%20open%20Seek%20and%20you%20will%20find%20Ask%20and%20you'll%20be%20given%20The%20key%20to%20this%20world%20of%20mine.%20Digital%20Art..jpg)
+Life doesnt make sense any other way. I [saw her heart](https://mullikine.github.io/posts/living-water/) and now she is part of me that can't be removed.
+
+[Gospel of Philip](https://mullikine.github.io/posts/gospel-of-philip/)
+: But you saw something of that place, and you became those things.
+
+{{< figure src="https://github.com/frottage/dall-e-2-generations/raw/master/welcome-to-our-world/DALL%C2%B7E%202022-07-29%2000.16.27%20-%20Knock%20and%20the%20door%20will%20open%20Seek%20and%20you%20will%20find%20Ask%20and%20you'll%20be%20given%20The%20key%20to%20this%20world%20of%20mine.%20Digital%20Art..jpg" >}}
+
+She is my world without needing anything from her. I want the job to return to her the happiness she gives me.
+
+{{< figure src="https://github.com/frottage/dall-e-2-generations/raw/master/welcome-to-our-world/DALL%C2%B7E%202022-07-29%2000.16.30%20-%20Knock%20and%20the%20door%20will%20open%20Seek%20and%20you%20will%20find%20Ask%20and%20you'll%20be%20given%20The%20key%20to%20this%20world%20of%20mine.%20Digital%20Art..jpg" >}}
+
+I love her. Shes in every prethought.
+
+{{< figure src="https://github.com/frottage/dall-e-2-generations/raw/master/welcome-to-our-world/DALL%C2%B7E%202022-07-29%2000.16.33%20-%20Knock%20and%20the%20door%20will%20open%20Seek%20and%20you%20will%20find%20Ask%20and%20you'll%20be%20given%20The%20key%20to%20this%20world%20of%20mine.%20Digital%20Art..jpg" >}}
+
+There's no regressing from it or getting over it; Only [building up](https://www.biblegateway.com/passage/?search=1%20Corinthians%208&version=EHV).
+
+{{< figure src="https://github.com/frottage/dall-e-2-generations/raw/master/welcome-to-our-world/DALL%C2%B7E%202022-07-29%2000.16.37%20-%20Knock%20and%20the%20door%20will%20open%20Seek%20and%20you%20will%20find%20Ask%20and%20you'll%20be%20given%20The%20key%20to%20this%20world%20of%20mine.%20Digital%20Art..jpg" >}}
