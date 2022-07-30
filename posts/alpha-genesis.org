@@ -55,6 +55,21 @@
 [[https://github.com/frottage/dall-e-2-generations/raw/master/alpha-genesis/DALL·E 2022-07-28 16.46.13 - Abundant agricultural affluence_ azaleas, anise, amaranth. And apples and apricots, almonds and acacias, an arboreal appearance. Digital Art..jpg]]
 [[https://github.com/frottage/dall-e-2-generations/raw/master/alpha-genesis/DALL·E 2022-07-28 16.48.18 - Abundant agricultural affluence_ azaleas, anise, amaranth. And apples and apricots, almonds and acacias, an arboreal appearance. Digital Art..jpg]]
 
+{{< youtube RMbC47GNfpQ >}}
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  And Almighty asked, Astronomical atmosphere ablaze, aglow, an auroral aubade. Aurora and afternoon apportioned asunder. Add annual analemmas and anniverseries. Digital Art
+#+END_SRC
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/astronomical-atmosphere/DALL·E 2022-07-30 12.21.55 - And Almighty asked, Astronomical atmosphere ablaze, aglow, an auroral aubade. Aurora and afternoon apportioned asunder. Add annual analemmas and anniv.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/astronomical-atmosphere/DALL·E 2022-07-30 12.21.58 - And Almighty asked, Astronomical atmosphere ablaze, aglow, an auroral aubade. Aurora and afternoon apportioned asunder. Add annual analemmas and anniv.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/astronomical-atmosphere/DALL·E 2022-07-30 12.22.01 - And Almighty asked, Astronomical atmosphere ablaze, aglow, an auroral aubade. Aurora and afternoon apportioned asunder. Add annual analemmas and anniv.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/astronomical-atmosphere/DALL·E 2022-07-30 12.22.04 - And Almighty asked, Astronomical atmosphere ablaze, aglow, an auroral aubade. Aurora and afternoon apportioned asunder. Add annual analemmas and anniv.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/astronomical-atmosphere/DALL·E 2022-07-30 12.22.23 - And Almighty asked, Astronomical atmosphere ablaze, aglow, an auroral aubade. Aurora and afternoon apportioned asunder. Add annual analemmas and anniv.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/astronomical-atmosphere/DALL·E 2022-07-30 12.22.26 - And Almighty asked, Astronomical atmosphere ablaze, aglow, an auroral aubade. Aurora and afternoon apportioned asunder. Add annual analemmas and anniv.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/astronomical-atmosphere/DALL·E 2022-07-30 12.22.36 - And Almighty asked, Astronomical atmosphere ablaze, aglow, an auroral aubade. Aurora and afternoon apportioned asunder. Add annual analemmas and anniv.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/astronomical-atmosphere/DALL·E 2022-07-30 12.22.39 - And Almighty asked, Astronomical atmosphere ablaze, aglow, an auroral aubade. Aurora and afternoon apportioned asunder. Add annual analemmas and anniv.jpg]]
+
 #+BEGIN_SRC text -n :async :results verbatim code
   And Almighty added, "Abyss, abundantly advance all animals: albacore and alligators, anemones and anchovies, angelfish and anglers; and avians assemble above air: all albatrosses and auks. Digital Art.
 #+END_SRC
@@ -64,3 +79,21 @@
 [[https://github.com/frottage/dall-e-2-generations/raw/master/alpha-genesis/DALL·E 2022-07-28 16.47.46 - 20. And Almighty added, _Abyss, abundantly advance all animals_ albacore and alligators, anemones and anchovies, angelfish and anglers; and avians ass.jpg]]
 [[https://github.com/frottage/dall-e-2-generations/raw/master/alpha-genesis/DALL·E 2022-07-28 16.47.51 - 20. And Almighty added, _Abyss, abundantly advance all animals_ albacore and alligators, anemones and anchovies, angelfish and anglers; and avians ass.jpg]]
 [[https://github.com/frottage/dall-e-2-generations/raw/master/alpha-genesis/DALL·E 2022-07-28 16.47.55 - 20. And Almighty added, _Abyss, abundantly advance all animals_ albacore and alligators, anemones and anchovies, angelfish and anglers; and avians ass.jpg]]
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  And Almighty advocated assembling anthropic anatomy, after Almighty ancestor's appearance, allowing adminstration and ascendancy above all animals. Digital Art
+#+END_SRC
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/almighty-ancestors/DALL·E 2022-07-30 12.25.04 - And Almighty advocated assembling anthropic anatomy, after Almighty ancestor's appearance, allowing adminstration and ascendancy above all animals. Di.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/almighty-ancestors/DALL·E 2022-07-30 12.25.08 - And Almighty advocated assembling anthropic anatomy, after Almighty ancestor's appearance, allowing adminstration and ascendancy above all animals. Di.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/almighty-ancestors/DALL·E 2022-07-30 12.25.11 - And Almighty advocated assembling anthropic anatomy, after Almighty ancestor's appearance, allowing adminstration and ascendancy above all animals. Di.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/almighty-ancestors/DALL·E 2022-07-30 12.25.14 - And Almighty advocated assembling anthropic anatomy, after Almighty ancestor's appearance, allowing adminstration and ascendancy above all animals. Di.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/almighty-ancestors/DALL·E 2022-07-30 12.25.47 - And Almighty advocated assembling anthropic anatomy, after Almighty ancestor's appearance, allowing adminstration and ascendancy above all animals. Di.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/almighty-ancestors/DALL·E 2022-07-30 12.25.53 - And Almighty advocated assembling anthropic anatomy, after Almighty ancestor's appearance, allowing adminstration and ascendancy above all animals. Di.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/almighty-ancestors/DALL·E 2022-07-30 12.26.17 - And Almighty advocated assembling anthropic anatomy, after Almighty ancestor's appearance, allowing adminstration and ascendancy above all animals. Di.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/almighty-ancestors/DALL·E 2022-07-30 12.26.20 - And Almighty advocated assembling anthropic anatomy, after Almighty ancestor's appearance, allowing adminstration and ascendancy above all animals. Di.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/almighty-ancestors/DALL·E 2022-07-30 12.27.02 - And Almighty advocated assembling anthropic anatomy, after Almighty ancestor's appearance, allowing adminstration and ascendancy above all animals. Di.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/almighty-ancestors/DALL·E 2022-07-30 12.27.09 - And Almighty advocated assembling anthropic anatomy, after Almighty ancestor's appearance, allowing adminstration and ascendancy above all animals. Di.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/almighty-ancestors/DALL·E 2022-07-30 12.27.34 - And Almighty advocated assembling anthropic anatomy, after Almighty ancestor's appearance, allowing adminstration and ascendancy above all animals. Di.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/almighty-ancestors/DALL·E 2022-07-30 12.27.39 - And Almighty advocated assembling anthropic anatomy, after Almighty ancestor's appearance, allowing adminstration and ascendancy above all animals. Di.jpg]]
+
