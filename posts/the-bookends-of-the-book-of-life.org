@@ -1,0 +1,25 @@
+#+HUGO_BASE_DIR: /home/shane/var/smulliga/source/git/frottage/frottage-hugo
+#+HUGO_SECTION: ./portfolio
+
+#+TITLE: The Bookends of the Book of Life
+#+DATE: <2022-07-30>
+#+AUTHOR: Shane Mulligan
+#+KEYWORDS: dalle melee
+# #+hugo_custom_front_matter: :image "img/portfolio/corrupted-multiverse.jpg"
+#+hugo_custom_front_matter: :image "https://github.com/frottage/dall-e-2-generations/raw/master/bookends-of-life/DALL·E 2022-07-30 21.41.51 - A painting of the bookends of the book of life represent two perfect syzygies. Digital Art.jpg"
+#+hugo_custom_front_matter: :weight 10 
+
+Two perfect syzygies on each end of July
+At the second half of 2022.
+I entered Heaven on the perfect day.
+
+- [[https://mullikine.github.io/posts/the-most-surreal-day/][Journal: The Most Surreal Day // Bodacious Blog]]
+
+There's only building up from here.
+
+- [[https://mullikine.github.io/posts/welcome-to-our-world/][Welcome to Our World // Bodacious Blog]]
+
+The bookends of the book of life.
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/bookends-of-life/DALL·E 2022-07-30 21.41.51 - A painting of the bookends of the book of life represent two perfect syzygies. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/bookends-of-life/DALL·E 2022-07-30 21.42.28 - The bookends of the book of life. Digital Art.jpg]]
