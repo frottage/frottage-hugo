@@ -10,12 +10,13 @@ weight = 10
 
 Two perfect [syzygies](http://gnosis.org/library/valentinus/Syzygy%5FValentinian.htm) on each end of July.
 At the second half of 2022.
-I entered Heaven on the perfect day.
+I entered ['Heaven'](https://semiosis.github.io/posts/kingdom-of-heaven/) on the perfect day.
 
 -   [Journal: The Most Surreal Day // Bodacious Blog](https://mullikine.github.io/posts/the-most-surreal-day/)
-    -   It's a syzygy because I thought I entered
-        the Kingdom of Heaven the day but before I
-        think I saw Melee.
+    -   It's a syzygy because the same day I first noticed
+        the Kingdom of Heaven I see Melee at the end (I think it was real),
+        as if I had to relinquish all ties before I
+        was allowed.
 
 There's only building up from here.
 
