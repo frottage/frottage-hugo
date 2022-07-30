@@ -9,7 +9,7 @@
 #+hugo_custom_front_matter: :image "https://github.com/frottage/dall-e-2-generations/raw/master/blue-aura-staircase/DALL·E 2022-07-19 22.43.02 - My blue aura body ascends a staircase in a forest at night..jpg"
 #+hugo_custom_front_matter: :weight 10 
 
-+ Water, fire and light :: [[./water-fire-light.png]]
++ Water, fire and light :: https://mullikine.github.io/ox-hugo/water-fire-light.png
 
 This night, as I was walking home, I passed upwards through the forest.
 Upon entering the forest, my vibrational energy started increasing.
