@@ -46,6 +46,10 @@
   The back wall of the balcony was for board games.
 #+END_SRC
 
+** Inspiration
+
+{{< youtube wu9FW7EBoZQ >}}
+
 ** Prompt
 
 #+BEGIN_SRC text -n :async :results verbatim code
