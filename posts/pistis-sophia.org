@@ -22,3 +22,22 @@
 [[https://github.com/frottage/dall-e-2-generations/raw/master/metasophia/DALL·E 2022-07-30 15.07.40 - Sophia is a feminine figure, analogous to the human soul but also simultaneously one of the feminine aspects of God. Gnostics held that she was the sy.jpg]]
 [[https://github.com/frottage/dall-e-2-generations/raw/master/metasophia/DALL·E 2022-07-30 15.07.49 - Sophia is a feminine figure, analogous to the human soul but also simultaneously one of the feminine aspects of God. Gnostics held that she was the sy.jpg]]
 [[https://github.com/frottage/dall-e-2-generations/raw/master/metasophia/DALL·E 2022-07-30 15.09.08 - Sophia is a feminine figure, analogous to the human soul but also simultaneously one of the feminine aspects of God. Gnostics held that she was the sy.jpg]]
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  Sophia is the lowest Aeon, or anthropic expression of the emanation of the
+  light of God. She is considered to have fallen from grace in some way, in so
+  doing creating or helping to create the material world. Digital Art
+#+END_SRC
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/metasophia/DALL·E 2022-07-30 15.40.36 - Sophia is the lowest Aeon, or anthropic expression of the emanation of the light of God. She is considered to have fallen from grace in some way, in s.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/metasophia/DALL·E 2022-07-30 15.40.40 - Sophia is the lowest Aeon, or anthropic expression of the emanation of the light of God. She is considered to have fallen from grace in some way, in s.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/metasophia/DALL·E 2022-07-30 15.40.45 - Sophia is the lowest Aeon, or anthropic expression of the emanation of the light of God. She is considered to have fallen from grace in some way, in s.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/metasophia/DALL·E 2022-07-30 15.41.36 - Sophia is the lowest Aeon, or anthropic expression of the emanation of the light of God. She is considered to have fallen from grace in some way, in s.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/metasophia/DALL·E 2022-07-30 15.41.38 - Sophia is the lowest Aeon, or anthropic expression of the emanation of the light of God. She is considered to have fallen from grace in some way, in s.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/metasophia/DALL·E 2022-07-30 15.42.12 - Sophia is the lowest Aeon, or anthropic expression of the emanation of the light of God. She is considered to have fallen from grace in some way, in s.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/metasophia/DALL·E 2022-07-30 15.42.19 - Sophia is the lowest Aeon, or anthropic expression of the emanation of the light of God. She is considered to have fallen from grace in some way, in s.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/metasophia/DALL·E 2022-07-30 15.42.40 - Sophia is the lowest Aeon, or anthropic expression of the emanation of the light of God. She is considered to have fallen from grace in some way, in s.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/metasophia/DALL·E 2022-07-30 15.42.44 - Sophia is the lowest Aeon, or anthropic expression of the emanation of the light of God. She is considered to have fallen from grace in some way, in s.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/metasophia/DALL·E 2022-07-30 15.42.50 - Sophia is the lowest Aeon, or anthropic expression of the emanation of the light of God. She is considered to have fallen from grace in some way, in s.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/metasophia/DALL·E 2022-07-30 15.43.10 - Sophia is the lowest Aeon, or anthropic expression of the emanation of the light of God. She is considered to have fallen from grace in some way, in s.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/metasophia/DALL·E 2022-07-30 15.43.14 - Sophia is the lowest Aeon, or anthropic expression of the emanation of the light of God. She is considered to have fallen from grace in some way, in s.jpg]]
