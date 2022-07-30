@@ -13,7 +13,7 @@
 
 ---
 
-+ Water, fire and light :: [[./water-fire-light.png]]
++ Water, fire and light :: https://mullikine.github.io/ox-hugo/water-fire-light.png
 
 I bought the glass pendent so I can put [[https://mullikine.github.io/posts/describing-melee-s-paintings-with-alephalpha/][Melee's paintings]] in it to keep her close to me.
 
