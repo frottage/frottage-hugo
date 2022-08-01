@@ -8,6 +8,11 @@ image = "https://github.com/frottage/dall-e-2-generations/raw/master/hobnail-boo
 weight = 10
 +++
 
+{{< youtube IgkXfhnYP68 >}}
+
+<https://www.youtube.com/watch?v=IgkXfhnYP68>
+
+
 ## Prompt {#prompt}
 
 {{< highlight text "linenos=table, linenostart=1" >}}
