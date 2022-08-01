@@ -9,6 +9,10 @@
 #+hugo_custom_front_matter: :image "https://github.com/frottage/dall-e-2-generations/raw/master/hobnail-boots-multicoloured-mirrors/DALL·E 2022-07-26 12.11.52 - The man in the crowd with the multicoloured mirrors on his hobnail boots. Digital Art.jpg"
 #+hugo_custom_front_matter: :weight 10 
 
+{{< youtube IgkXfhnYP68 >}}
+
+https://www.youtube.com/watch?v=IgkXfhnYP68
+
 ** Prompt
 #+BEGIN_SRC text -n :async :results verbatim code
   The man in the crowd with the multicoloured mirrors on his hobnail boots. Digital Art
