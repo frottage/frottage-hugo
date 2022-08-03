@@ -2,9 +2,9 @@
 title = "Henosis: Alchemical Union"
 author = ["Shane Mulligan"]
 date = 2022-08-03T00:00:00+12:00
-keywords = ["dalle"]
+keywords = ["dalle", "melee"]
 draft = false
-image = "https://github.com/frottage/dall-e-2-generations/raw/master/henosis/DALL·E 2022-08-03 11.57.26 - The alchemical union of two angels, and two lions. Digital art.jpg"
+image = "https://raw.githubusercontent.com/frottage/dall-e-2-generations/master/union-lions-angels/pencil-watercolour/DALL%C2%B7E%202022-08-03%2012.31.50%20-%20The%20alchemical%20union%20of%20two%20angels%2C%20and%20two%20lions.%20Pencil%20and%20Watercolour.jpg"
 weight = 10
 +++
 
