@@ -4,7 +4,7 @@ author = ["Shane Mulligan"]
 date = 2022-07-29T00:00:00+12:00
 keywords = ["math", "surreal", "conway", "hyperuranion"]
 draft = false
-image = "https://github.com/frottage/dall-e-2-generations/raw/master/melee-jacobs-staircase/DALL·E 2022-07-30 20.48.54 - A red-haired angel descends the golden Jacob's ladder staircase and looks at me. We walk past each other. Digital art.jpg"
+image = "https://github.com/frottage/dall-e-2-generations/raw/master/surreal-numbers/DALL·E 2022-08-03 20.37.20 - there are infinitely many surreal numbers between any two real numbers. These numbers are oddly juxtaposed in the wrong context. red, white and black..jpg"
 weight = 10
 +++
 
@@ -23,7 +23,7 @@ a work of fiction.
 
 ---
 
-{{< youtube mPn2AdMH7UQ&t=533s >}}
+{{< youtube mPn2AdMH7UQ >}}
 
 
 ## Transcript {#transcript}
@@ -55,16 +55,24 @@ and small" Not only big and small, but
 
 | Integers | Surreal | Additional surreal representations |
 |----------|---------|------------------------------------|
-| 0        | {¦}     |                                    |
-| 1        | {0¦}    |                                    |
-| 2        | {1¦}    | {1¦3} {3/2¦4} {1¦ω}                |
+| 0        | `{¦}`   |                                    |
+| 1        | `{0¦}`  |                                    |
+| 2        | `{1¦}`  | `{1¦3} {3/2¦4} {1¦ω}`              |
+
+
+## Simple games {#simple-games}
+
+Some simple games have abbreviated names that can be expressed in terms of surreal numbers. For example, `*={0|0}, 1={0|}, n={n-1|} for an integer n, 1/2={0|1}, ^={0|*}, and v={*|0}`. Most surreal numbers can be represented as hackenbush positions.
+k
 
 
 ## Dalle-2 gens {#dalle-2-gens}
 
 {{< highlight text "linenos=table, linenostart=1" >}}
-there are infinitely many surreal numbers between any two real numbers. These
-numbers are oddly juxtaposed in the wrong context. red, white and black
+there are infinitely many surreal numbers
+between any two real numbers. These numbers
+are oddly juxtaposed in the wrong context.
+red, white and black
 {{< /highlight >}}
 
 ![](https://github.com/frottage/dall-e-2-generations/raw/master/surreal-numbers/DALL%C2%B7E%202022-08-03%2020.37.20%20-%20there%20are%20infinitely%20many%20surreal%20numbers%20between%20any%20two%20real%20numbers.%20These%20numbers%20are%20oddly%20juxtaposed%20in%20the%20wrong%20context.%20red,%20white%20and%20black..jpg)
