@@ -4,7 +4,7 @@
 #+TITLE: Henosis: Alchemical Union
 #+DATE: <2022-08-03>
 #+AUTHOR: Shane Mulligan
-#+KEYWORDS: dalle
+#+KEYWORDS: dalle melee
 # #+hugo_custom_front_matter: :image "img/portfolio/corrupted-multiverse.jpg"
 #+hugo_custom_front_matter: :image "https://raw.githubusercontent.com/frottage/dall-e-2-generations/master/union-lions-angels/pencil-watercolour/DALL%C2%B7E%202022-08-03%2012.31.50%20-%20The%20alchemical%20union%20of%20two%20angels%2C%20and%20two%20lions.%20Pencil%20and%20Watercolour.jpg"
 #+hugo_custom_front_matter: :weight 10 
