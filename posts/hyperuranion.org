@@ -6,7 +6,7 @@
 #+AUTHOR: Shane Mulligan
 #+KEYWORDS: metaverse creation melee gnostic valentinian
 # #+hugo_custom_front_matter: :image "img/portfolio/corrupted-multiverse.jpg"
-#+hugo_custom_front_matter: :image "https://github.com/frottage/dall-e-2-generations/raw/master/across-the-universe/DALL·E 2022-07-25 01.40.34 - a couple embracing within a splat of paint in the shape of a strawberry in space. stars in the background. Across the universe. Digital Art.jpg"
+#+hugo_custom_front_matter: :image "https://raw.githubusercontent.com/frottage/dall-e-2-generations/master/hyperuranion/DALL%C2%B7E%202022-08-03%2019.24.37%20-%20This%20is%20the%20Hyperuranion%3B%20The%20place%20beyond%20heaven%20where%20the%20ideal%20forms%20exsit.%20Platonic%20solids%20and%20mathematical%20forms%20swirl%20around%20in%20mathematical%20pre.jpg"
 #+hugo_custom_front_matter: :weight 10 
 
 #+LATEX_HEADER: \usepackage[margin=0.5in]{geometry}
