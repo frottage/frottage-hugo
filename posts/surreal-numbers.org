@@ -6,7 +6,7 @@
 #+AUTHOR: Shane Mulligan
 #+KEYWORDS: math surreal conway hyperuranion
 # #+hugo_custom_front_matter: :image "img/portfolio/corrupted-multiverse.jpg"
-#+hugo_custom_front_matter: :image "https://github.com/frottage/dall-e-2-generations/raw/master/melee-jacobs-staircase/DALL·E 2022-07-30 20.48.54 - A red-haired angel descends the golden Jacob's ladder staircase and looks at me. We walk past each other. Digital art.jpg"
+#+hugo_custom_front_matter: :image "https://github.com/frottage/dall-e-2-generations/raw/master/surreal-numbers/DALL·E 2022-08-03 20.37.20 - there are infinitely many surreal numbers between any two real numbers. These numbers are oddly juxtaposed in the wrong context. red, white and black..jpg"
 #+hugo_custom_front_matter: :weight 10 
 
 #+LATEX_HEADER: \usepackage[margin=0.5in]{geometry}
@@ -27,7 +27,7 @@ a work of fiction.
 
 ---
 
-{{< youtube mPn2AdMH7UQ&t=533s >}}
+{{< youtube mPn2AdMH7UQ >}}
 
 ** Transcript
 #+BEGIN_SRC text -n :async :results verbatim code
@@ -54,21 +54,25 @@ a work of fiction.
 
 ** Examples:
 
+# Can also use ~ instead of =. Might be a useful way to use = within =
+
 | Integers | Surreal | Additional surreal representations |
 |----------+---------+------------------------------------|
-|        0 | {¦}     |                                    |
-|        1 | {0¦}    |                                    |
-|        2 | {1¦}    | {1¦3} {3/2¦4} {1¦ω}                |
+|        0 | ={¦}= |                                    |
+|        1 | ={0¦}= |                                    |
+|        2 | ={1¦}=  | ={1¦3} {3/2¦4} {1¦ω}=             |
 
-# ** Simple games
+** Simple games
 
-# Some simple games have abbreviated names that can be expressed in terms of surreal numbers. For example, *={0|0}, 1={0|}, n={n-1|} for an integer n, 1/2={0|1}, ^={0|*}, and v={*|0}. Most surreal numbers can be represented as hackenbush positions.
-
+Some simple games have abbreviated names that can be expressed in terms of surreal numbers. For example, ~*={0|0}, 1={0|}, n={n-1|} for an integer n, 1/2={0|1}, ^={0|*}, and v={*|0}~. Most surreal numbers can be represented as hackenbush positions.
+k
 ** Dalle-2 gens
 
 #+BEGIN_SRC text -n :async :results verbatim code
-  there are infinitely many surreal numbers between any two real numbers. These
-  numbers are oddly juxtaposed in the wrong context. red, white and black
+  there are infinitely many surreal numbers
+  between any two real numbers. These numbers
+  are oddly juxtaposed in the wrong context.
+  red, white and black
 #+END_SRC
 
 [[https://github.com/frottage/dall-e-2-generations/raw/master/surreal-numbers/DALL·E 2022-08-03 20.37.20 - there are infinitely many surreal numbers between any two real numbers. These numbers are oddly juxtaposed in the wrong context. red, white and black..jpg]]
