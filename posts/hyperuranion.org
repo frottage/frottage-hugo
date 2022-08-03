@@ -1,0 +1,107 @@
+#+LATEX_HEADER: \usepackage[margin=0.5in]{geometry}
+#+OPTIONS: toc:nil
+
+#+HUGO_BASE_DIR: /home/shane/var/smulliga/source/git/frottage/frottage-hugo
+#+HUGO_SECTION: ./portfolio
+
+#+TITLE: Hyperuranion - The place beyond heaven
+#+DATE: <2022-08-03>
+#+AUTHOR: Shane Mulligan
+#+KEYWORDS: metaverse creation melee gnostic valentinian
+
++ Disclaimer :: I'm talking about the metaverse here, not my faith; It's a heavy burden to keep this separate in my mind.
+
+** Hyperuranion (Platonic realm)
+
+This is place in heaven where all
+ideas of real things are collected together.
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/across-the-universe/DALL·E 2022-07-25 01.40.34 - a couple embracing within a splat of paint in the shape of a strawberry in space. stars in the background. Across the universe. Digital Art.jpg]]
+
+Following in the designs of [[https://semiosis.github.io/creation/][creation]], in building the metaverse, this
+is where inspiration takes place for creation.
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  idea of a phenomenon
+      Beyond the realm of real phenomena and
+      that everything we experience in our lives
+      is merely a copy of the perfect model that
+      exists in the hyperuranion.
+#+END_SRC
+
+Plato is talking about ideas preceding
+reality. This are where the ideas are
+birthed; I will call it the 'ideological' [[https://semiosis.github.io/philosophy/simulacra-simulation/][precession of simulacra]].
+
+It is described as higher than the gods since
+their divinity depended on the knowledge of
+the hyperuranion beings.
+
+** Creation
+- [[https://mullikine.github.io/posts/creation/][Creation // Bodacious Blog]]
+
+*** Demi-Urge
+- https://github.com/demi-urge
+
+** Aeons
+The superstructure of the celestial system,
+the celestial world of Aeons, is here
+developed in the most complicated way.
+
+These Aeons belong to the purely ideal,
+noumenal, intelligible, or supersensible
+world; they are immaterial, they are
+hypostatic ideas.
+
+Together with the source from which they
+emanate they form the Pleroma.
+
+The transition from the immaterial to the
+material, from the noumenal to the sensible,
+is brought about by a flaw, or a passion, or a
+sin, in the female [[https://mullikine.github.io/posts/pistis-sophia/][Aeon Sophia]].
+
+- [[https://mullikine.github.io/posts/aeonology/][Aeonology // Bodacious Blog]]
+
+*** Sophia
+In Valentinianism, Sophia always stands
+absolutely at the center of the system, and in
+some sense she seems to represent the supreme
+female principle.
+
+Sophia is the youngest of the Aeons.
+
+- [[https://mullikine.github.io/posts/thomas-22/][Thomas 22 // Bodacious Blog]]
+- [[https://mullikine.github.io/posts/pistis-sophia/][Pistis Sophia - The Wisdom of Faith // Bodacious Blog]]
+
+I like this because Melee is literally [[https://mullikine.github.io/posts/pistis-sophia/][the Pearl]] at the center.
+
+** Dalle-2
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/hyperuranion/DALL·E 2022-08-03 19.23.19 - This is the Hyperuranion; The place beyond heaven where the ideal forms exsit. Platonic solids and mathematical forms swirl around in mathematical pre.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/hyperuranion/DALL·E 2022-08-03 19.23.24 - This is the Hyperuranion; The place beyond heaven where the ideal forms exsit. Platonic solids and mathematical forms swirl around in mathematical pre.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/hyperuranion/DALL·E 2022-08-03 19.23.26 - This is the Hyperuranion; The place beyond heaven where the ideal forms exsit. Platonic solids and mathematical forms swirl around in mathematical pre.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/hyperuranion/DALL·E 2022-08-03 19.23.29 - This is the Hyperuranion; The place beyond heaven where the ideal forms exsit. Platonic solids and mathematical forms swirl around in mathematical pre.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/hyperuranion/DALL·E 2022-08-03 19.24.10 - This is the Hyperuranion; The place beyond heaven where the ideal forms exsit. Platonic solids and mathematical forms swirl around in mathematical pre.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/hyperuranion/DALL·E 2022-08-03 19.24.12 - This is the Hyperuranion; The place beyond heaven where the ideal forms exsit. Platonic solids and mathematical forms swirl around in mathematical pre.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/hyperuranion/DALL·E 2022-08-03 19.24.15 - This is the Hyperuranion; The place beyond heaven where the ideal forms exsit. Platonic solids and mathematical forms swirl around in mathematical pre.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/hyperuranion/DALL·E 2022-08-03 19.24.19 - This is the Hyperuranion; The place beyond heaven where the ideal forms exsit. Platonic solids and mathematical forms swirl around in mathematical pre.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/hyperuranion/DALL·E 2022-08-03 19.24.37 - This is the Hyperuranion; The place beyond heaven where the ideal forms exsit. Platonic solids and mathematical forms swirl around in mathematical pre.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/hyperuranion/DALL·E 2022-08-03 19.24.39 - This is the Hyperuranion; The place beyond heaven where the ideal forms exsit. Platonic solids and mathematical forms swirl around in mathematical pre.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/hyperuranion/DALL·E 2022-08-03 19.24.42 - This is the Hyperuranion; The place beyond heaven where the ideal forms exsit. Platonic solids and mathematical forms swirl around in mathematical pre.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/hyperuranion/DALL·E 2022-08-03 19.24.45 - This is the Hyperuranion; The place beyond heaven where the ideal forms exsit. Platonic solids and mathematical forms swirl around in mathematical pre.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/hyperuranion/DALL·E 2022-08-03 19.25.01 - This is the Hyperuranion; The place beyond heaven where the ideal forms exsit. Platonic solids and mathematical forms swirl around in mathematical pre.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/hyperuranion/DALL·E 2022-08-03 19.25.05 - This is the Hyperuranion; The place beyond heaven where the ideal forms exsit. Platonic solids and mathematical forms swirl around in mathematical pre.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/hyperuranion/DALL·E 2022-08-03 19.25.09 - This is the Hyperuranion; The place beyond heaven where the ideal forms exsit. Platonic solids and mathematical forms swirl around in mathematical pre.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/hyperuranion/DALL·E 2022-08-03 19.25.12 - This is the Hyperuranion; The place beyond heaven where the ideal forms exsit. Platonic solids and mathematical forms swirl around in mathematical pre.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/hyperuranion/DALL·E 2022-08-03 19.25.30 - This is the Hyperuranion; The place beyond heaven where the ideal forms exsit. Platonic solids and mathematical forms swirl around in mathematical pre.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/hyperuranion/DALL·E 2022-08-03 19.25.32 - This is the Hyperuranion; The place beyond heaven where the ideal forms exsit. Platonic solids and mathematical forms swirl around in mathematical pre.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/hyperuranion/DALL·E 2022-08-03 19.25.35 - This is the Hyperuranion; The place beyond heaven where the ideal forms exsit. Platonic solids and mathematical forms swirl around in mathematical pre.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/hyperuranion/DALL·E 2022-08-03 19.25.37 - This is the Hyperuranion; The place beyond heaven where the ideal forms exsit. Platonic solids and mathematical forms swirl around in mathematical pre.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/hyperuranion/DALL·E 2022-08-03 19.25.58 - This is the Hyperuranion; The place beyond heaven where the ideal forms exsit. Platonic solids and mathematical forms swirl around in mathematical pre.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/hyperuranion/DALL·E 2022-08-03 19.26.00 - This is the Hyperuranion; The place beyond heaven where the ideal forms exsit. Platonic solids and mathematical forms swirl around in mathematical pre.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/hyperuranion/DALL·E 2022-08-03 19.26.04 - This is the Hyperuranion; The place beyond heaven where the ideal forms exsit. Platonic solids and mathematical forms swirl around in mathematical pre.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/hyperuranion/DALL·E 2022-08-03 19.26.24 - This is the Hyperuranion; The place beyond heaven where the ideal forms exsit. Platonic solids and mathematical forms swirl around in mathematical pre.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/hyperuranion/DALL·E 2022-08-03 19.26.26 - This is the Hyperuranion; The place beyond heaven where the ideal forms exsit. Platonic solids and mathematical forms swirl around in mathematical pre.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/hyperuranion/DALL·E 2022-08-03 19.26.29 - This is the Hyperuranion; The place beyond heaven where the ideal forms exsit. Platonic solids and mathematical forms swirl around in mathematical pre.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/hyperuranion/DALL·E 2022-08-03 19.26.31 - This is the Hyperuranion; The place beyond heaven where the ideal forms exsit. Platonic solids and mathematical forms swirl around in mathematical pre.jpg]]
