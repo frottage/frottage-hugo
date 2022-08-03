@@ -1,0 +1,106 @@
+#+HUGO_BASE_DIR: /home/shane/var/smulliga/source/git/frottage/frottage-hugo
+#+HUGO_SECTION: ./portfolio
+
+#+TITLE: Surreal Numbers - Les nombres sur ordinaux
+#+DATE: <2022-07-29>
+#+AUTHOR: Shane Mulligan
+#+KEYWORDS: math surreal conway hyperuranion
+# #+hugo_custom_front_matter: :image "img/portfolio/corrupted-multiverse.jpg"
+#+hugo_custom_front_matter: :image "https://github.com/frottage/dall-e-2-generations/raw/master/melee-jacobs-staircase/DALL·E 2022-07-30 20.48.54 - A red-haired angel descends the golden Jacob's ladder staircase and looks at me. We walk past each other. Digital art.jpg"
+#+hugo_custom_front_matter: :weight 10 
+
+#+LATEX_HEADER: \usepackage[margin=0.5in]{geometry}
+#+OPTIONS: toc:nil
+
+Surreal numbers are the most natural
+collection of numbers which includes both the
+real numbers and the infinite ordinal numbers
+of Georg Cantor.
+
+They were invented by John H. Conway in 1969.
+
+Every real number is surrounded by surreals,
+which are closer to it than any real number.
+
+Knuth (1974) describes the surreal numbers in
+a work of fiction.
+
+---
+
+{{< youtube mPn2AdMH7UQ&t=533s >}}
+
+** Transcript
+#+BEGIN_SRC text -n :async :results verbatim code
+  The name actually came to me in the middle of
+  the night; I have no idea...
+  
+  I have a vague recollection that I saw, at one
+  point, a French paper that talked about
+  'nombres sur ordinaux' I don't pronounce it
+  well, but sort of sur- ordinal numbers I've
+  never been able to track down that paper and I
+  don't know if I heard about it before or after
+  I thought of the name "surreal" but you'll see
+  that it's a great name after you understand
+  what surreal numbers are.
+  
+  John Conway invented the concept, and his
+  first description of it was "All numbers great
+  and small" Not only big and small, but
+  *inside* and everything.
+#+END_SRC
+
+- There are ∞ sureal numbers between any two real numbers
+
+** Examples:
+
+| Integers | Surreal | Additional surreal representations |
+|----------+---------+------------------------------------|
+|        0 | {¦}     |                                    |
+|        1 | {0¦}    |                                    |
+|        2 | {1¦}    | {1¦3} {3/2¦4} {1¦ω}                |
+
+# ** Simple games
+
+# Some simple games have abbreviated names that can be expressed in terms of surreal numbers. For example, *={0|0}, 1={0|}, n={n-1|} for an integer n, 1/2={0|1}, ^={0|*}, and v={*|0}. Most surreal numbers can be represented as hackenbush positions.
+
+** Dalle-2 gens
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  there are infinitely many surreal numbers between any two real numbers. These
+  numbers are oddly juxtaposed in the wrong context. red, white and black
+#+END_SRC
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/surreal-numbers/DALL·E 2022-08-03 20.37.20 - there are infinitely many surreal numbers between any two real numbers. These numbers are oddly juxtaposed in the wrong context. red, white and black..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/surreal-numbers/DALL·E 2022-08-03 20.37.24 - there are infinitely many surreal numbers between any two real numbers. These numbers are oddly juxtaposed in the wrong context. red, white and black..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/surreal-numbers/DALL·E 2022-08-03 20.37.27 - there are infinitely many surreal numbers between any two real numbers. These numbers are oddly juxtaposed in the wrong context. red, white and black..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/surreal-numbers/DALL·E 2022-08-03 20.37.30 - there are infinitely many surreal numbers between any two real numbers. These numbers are oddly juxtaposed in the wrong context. red, white and black..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/surreal-numbers/DALL·E 2022-08-03 20.37.48 - there are infinitely many surreal numbers between any two real numbers. These numbers are oddly juxtaposed in the wrong context. red, white and black..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/surreal-numbers/DALL·E 2022-08-03 20.37.52 - there are infinitely many surreal numbers between any two real numbers. These numbers are oddly juxtaposed in the wrong context. red, white and black..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/surreal-numbers/DALL·E 2022-08-03 20.37.56 - there are infinitely many surreal numbers between any two real numbers. These numbers are oddly juxtaposed in the wrong context. red, white and black..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/surreal-numbers/DALL·E 2022-08-03 20.38.00 - there are infinitely many surreal numbers between any two real numbers. These numbers are oddly juxtaposed in the wrong context. red, white and black..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/surreal-numbers/DALL·E 2022-08-03 20.38.21 - there are infinitely many surreal numbers between any two real numbers. These numbers are oddly juxtaposed in the wrong context. red, white and black..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/surreal-numbers/DALL·E 2022-08-03 20.38.24 - there are infinitely many surreal numbers between any two real numbers. These numbers are oddly juxtaposed in the wrong context. red, white and black..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/surreal-numbers/DALL·E 2022-08-03 20.38.47 - there are infinitely many surreal numbers between any two real numbers. These numbers are oddly juxtaposed in the wrong context. red, white and black..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/surreal-numbers/DALL·E 2022-08-03 20.38.53 - there are infinitely many surreal numbers between any two real numbers. These numbers are oddly juxtaposed in the wrong context. red, white and black..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/surreal-numbers/DALL·E 2022-08-03 20.39.16 - there are infinitely many surreal numbers between any two real numbers. These numbers are oddly juxtaposed in the wrong context. red, white and black..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/surreal-numbers/DALL·E 2022-08-03 20.39.21 - there are infinitely many surreal numbers between any two real numbers. These numbers are oddly juxtaposed in the wrong context. red, white and black..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/surreal-numbers/DALL·E 2022-08-03 20.39.39 - there are infinitely many surreal numbers between any two real numbers. These numbers are oddly juxtaposed in the wrong context. red, white and black..jpg]]
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  there are infinitely many surreal numbers between any two real numbers. This is
+  an artist's depiction of surreal numbers
+#+END_SRC
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/surreal-numbers/DALL·E 2022-08-03 20.32.15 - there are infinitely many surreal numbers between any two real numbers. This is an artist's depiction of surreal numbers.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/surreal-numbers/DALL·E 2022-08-03 20.32.21 - there are infinitely many surreal numbers between any two real numbers. This is an artist's depiction of surreal numbers.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/surreal-numbers/DALL·E 2022-08-03 20.32.41 - there are infinitely many surreal numbers between any two real numbers. This is an artist's depiction of surreal numbers.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/surreal-numbers/DALL·E 2022-08-03 20.32.47 - there are infinitely many surreal numbers between any two real numbers. This is an artist's depiction of surreal numbers.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/surreal-numbers/DALL·E 2022-08-03 20.33.11 - there are infinitely many surreal numbers between any two real numbers. This is an artist's depiction of surreal numbers.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/surreal-numbers/DALL·E 2022-08-03 20.34.20 - there are infinitely many surreal numbers between any two real numbers. This is an artist's depiction of surreal numbers.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/surreal-numbers/DALL·E 2022-08-03 20.34.24 - there are infinitely many surreal numbers between any two real numbers. This is an artist's depiction of surreal numbers.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/surreal-numbers/DALL·E 2022-08-03 20.34.29 - there are infinitely many surreal numbers between any two real numbers. This is an artist's depiction of surreal numbers.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/surreal-numbers/DALL·E 2022-08-03 20.34.54 - there are infinitely many surreal numbers between any two real numbers. This is an artist's depiction of surreal numbers.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/surreal-numbers/DALL·E 2022-08-03 20.35.04 - there are infinitely many surreal numbers between any two real numbers. This is an artist's depiction of surreal numbers.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/surreal-numbers/DALL·E 2022-08-03 20.35.42 - there are infinitely many surreal numbers between any two real numbers. These numbers looks like different animals. This is an artist's depiction of s.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/surreal-numbers/DALL·E 2022-08-03 20.36.39 - there are infinitely many surreal numbers between any two real numbers. These numbers look like strange objects. This is an artist's depiction of surr.jpg]]
