@@ -6,7 +6,7 @@
 #+AUTHOR: Shane Mulligan
 #+KEYWORDS: dalle melee
 # #+hugo_custom_front_matter: :image "img/portfolio/corrupted-multiverse.jpg"
-#+hugo_custom_front_matter: :image "https://raw.githubusercontent.com/frottage/dall-e-2-generations/master/corrupted-multiverse/DALL%C2%B7E%202022-07-24%2020.40.39%20-%20The%20discordance%20of%20the%20result%20of%20man's%20original%20sin%20is%20that%20we%20find%20ourselves%20in%20a%20corrupted%20part%20of%20the%20multiverse.%20Digital%20Art.jpg"
+#+hugo_custom_front_matter: :image "https://github.com/frottage/dall-e-2-generations/raw/master/aioniou/pencil-watercolour/DALL·E 2022-08-04 16.36.33 - This is an artist's impression of eternal, everlasting, forevermore. Pencil and Watercolour.jpg"
 #+hugo_custom_front_matter: :weight 10 
 
 ** dalle gens
