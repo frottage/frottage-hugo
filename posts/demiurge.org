@@ -9,6 +9,10 @@
 #+hugo_custom_front_matter: :image "https://github.com/frottage/dall-e-2-generations/raw/master/demiurge/DALL·E 2022-08-01 18.48.56 - The demiurge, like an artisan fashions the physical universe from harmonia, the numerical ratios in mathematics. Digital Art.jpg"
 #+hugo_custom_front_matter: :weight 10 
 
+Links:
+- https://semiosis.github.io/creation/
+- https://github.com/demioergos
+
 The word means literally a public worker,
 demioergós, demiourgós, and was originally
 used to designate any craftsman plying his
