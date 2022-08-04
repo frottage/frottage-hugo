@@ -1,0 +1,49 @@
+#+HUGO_BASE_DIR: /home/shane/var/smulliga/source/git/frottage/frottage-hugo
+#+HUGO_SECTION: ./portfolio
+
+#+TITLE: Demiurge
+#+DATE: <2022-08-04>
+#+AUTHOR: Shane Mulligan
+#+KEYWORDS: dalle
+# #+hugo_custom_front_matter: :image "img/portfolio/corrupted-multiverse.jpg"
+#+hugo_custom_front_matter: :image "https://raw.githubusercontent.com/frottage/dall-e-2-generations/master/corrupted-multiverse/DALL%C2%B7E%202022-07-24%2020.40.39%20-%20The%20discordance%20of%20the%20result%20of%20man's%20original%20sin%20is%20that%20we%20find%20ourselves%20in%20a%20corrupted%20part%20of%20the%20multiverse.%20Digital%20Art.jpg"
+#+hugo_custom_front_matter: :weight 10 
+
+The word means literally a public worker,
+demioergós, demiourgós, and was originally
+used to designate any craftsman plying his
+craft or trade for the use of the public.
+Soon, however, technítes and other words began
+to be used to designate the common artisan
+while demiurge was set aside for the Great
+Artificer or Fabricator, the Architect of the
+universe. At first the words toû kósmou were
+added to distinguish the great Workman from
+others, but gradually demiourgós became the
+technical term for the Maker of heaven and
+earth. In this sense it is used frequently by
+Plato in his "Timæus". Although often loosely
+employed by the Fathers and others to indicate
+the Creator, the word never strictly meant
+"one who produces out of nothing" (for this
+the Greeks used ktístes), but only "one who
+fashions, shapes, and models".
+
+** Gens
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  The demiurge, like an artisan fashions the physical universe from harmonia, the
+  numerical ratios in mathematics. Digital Art
+#+END_SRC
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/demiurge/DALL·E 2022-08-01 18.48.56 - The demiurge, like an artisan fashions the physical universe from harmonia, the numerical ratios in mathematics. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/demiurge/DALL·E 2022-08-01 18.49.02 - The demiurge, like an artisan fashions the physical universe from harmonia, the numerical ratios in mathematics. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/demiurge/DALL·E 2022-08-01 18.49.07 - The demiurge, like an artisan fashions the physical universe from harmonia, the numerical ratios in mathematics. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/demiurge/DALL·E 2022-08-01 18.50.03 - The demiurge, like an artisan fashions the physical universe from harmonia, the numerical ratios in mathematics. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/demiurge/DALL·E 2022-08-01 18.50.08 - The demiurge, like an artisan fashions the physical universe from harmonia, the numerical ratios in mathematics. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/demiurge/DALL·E 2022-08-01 18.50.27 - The demiurge, like an artisan fashions the physical universe from harmonia, the numerical ratios in mathematics. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/demiurge/DALL·E 2022-08-01 18.50.32 - The demiurge, like an artisan fashions the physical universe from harmonia, the numerical ratios in mathematics. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/demiurge/DALL·E 2022-08-01 18.50.36 - The demiurge, like an artisan fashions the physical universe from harmonia, the numerical ratios in mathematics. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/demiurge/DALL·E 2022-08-01 18.51.12 - The demiurge, like an artisan fashions the physical universe from harmonia, the numerical ratios in mathematics. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/demiurge/DALL·E 2022-08-01 18.51.39 - The demiurge, like an artisan fashions the physical universe from harmonia, the numerical ratios in mathematics. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/demiurge/DALL·E 2022-08-01 18.52.04 - The demiurge, like an artisan fashions the physical universe from harmonia, the numerical ratios in mathematics. Digital Art.jpg]]
