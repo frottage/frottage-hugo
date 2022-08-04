@@ -8,6 +8,17 @@ image = "https://github.com/frottage/dall-e-2-generations/raw/master/surreal-num
 weight = 10
 +++
 
+{{< highlight text "linenos=table, linenostart=1" >}}
+I hope that this paper may glorify
+God by showing – once again – the beauty of
+His world, a beauty that is demonstrated here
+by the wealth that springs out of pure logic. -- Claus Tøndering
+{{< /highlight >}}
+
+-   <https://www.tondering.dk/download/sur16.pdf>
+
+---
+
 Surreal numbers are the most natural
 collection of numbers which includes both the
 real numbers and the infinite ordinal numbers
