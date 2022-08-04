@@ -1,0 +1,33 @@
+#+LATEX_HEADER: \usepackage[margin=0.5in]{geometry}
+#+OPTIONS: toc:nil
+
+#+HUGO_BASE_DIR: /home/shane/var/smulliga/source/git/frottage/frottage-hugo
+#+HUGO_SECTION: ./portfolio
+
+#+TITLE: Victory Song
+#+DATE: <2022-08-04>
+#+AUTHOR: Shane Mulligan
+#+KEYWORDS: bible
+
++ [[https://www.churchofjesuschrist.org/study/scriptures/nt/rev/15?lang=eng&id=2#p2][Revelation 15:2]] :: 2 And I saw as it were a asea of glass mingled with fire: and them that had gotten the victory over the beast, and over his image, and over his mark, and over the number of his name, stand on the sea of glass, having the harps of God.
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/revelation-of-john/victory-sea-of-glass-fire-harps/DALL·E 2022-08-04 19.36.32 - Standing on a sea of glass and fire, holding the harp of God. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/revelation-of-john/victory-sea-of-glass-fire-harps/DALL·E 2022-08-04 19.36.36 - Standing on a sea of glass and fire, holding the harp of God. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/revelation-of-john/victory-sea-of-glass-fire-harps/DALL·E 2022-08-04 19.36.45 - Standing on a sea of glass and fire, holding the harp of God. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/revelation-of-john/victory-sea-of-glass-fire-harps/DALL·E 2022-08-04 19.36.55 - Standing on a sea of glass and fire, holding the harp of God. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/revelation-of-john/victory-sea-of-glass-fire-harps/DALL·E 2022-08-04 19.37.16 - Standing on a sea of glass and fire, holding the harp of God. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/revelation-of-john/victory-sea-of-glass-fire-harps/DALL·E 2022-08-04 19.37.23 - Standing on a sea of glass and fire, holding the harp of God. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/revelation-of-john/victory-sea-of-glass-fire-harps/DALL·E 2022-08-04 19.37.29 - Standing on a sea of glass and fire, holding the harp of God. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/revelation-of-john/victory-sea-of-glass-fire-harps/DALL·E 2022-08-04 19.37.57 - Standing on a sea of glass and fire, holding the harp of God. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/revelation-of-john/victory-sea-of-glass-fire-harps/DALL·E 2022-08-04 19.38.04 - Standing on a sea of glass and fire, holding the harp of God. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/revelation-of-john/victory-sea-of-glass-fire-harps/DALL·E 2022-08-04 19.38.35 - Standing on a sea of glass and fire, holding the harp of God. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/revelation-of-john/victory-sea-of-glass-fire-harps/DALL·E 2022-08-04 19.38.38 - Standing on a sea of glass and fire, holding the harp of God. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/revelation-of-john/victory-sea-of-glass-fire-harps/DALL·E 2022-08-04 19.38.43 - Standing on a sea of glass and fire, holding the harp of God. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/revelation-of-john/victory-sea-of-glass-fire-harps/DALL·E 2022-08-04 19.38.46 - Standing on a sea of glass and fire, holding the harp of God. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/revelation-of-john/victory-sea-of-glass-fire-harps/DALL·E 2022-08-04 19.39.07 - Standing on a sea of glass and fire, holding the harp of God. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/revelation-of-john/victory-sea-of-glass-fire-harps/DALL·E 2022-08-04 19.39.12 - Standing on a sea of glass and fire, holding the harp of God. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/revelation-of-john/victory-sea-of-glass-fire-harps/DALL·E 2022-08-04 19.39.16 - Standing on a sea of glass and fire, holding the harp of God. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/revelation-of-john/victory-sea-of-glass-fire-harps/DALL·E 2022-08-04 19.39.28 - Standing on a sea of glass and fire, holding the harp of God. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/revelation-of-john/victory-sea-of-glass-fire-harps/DALL·E 2022-08-04 19.40.28 - Standing on a sea of glass and fire, holding the harp of God. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/revelation-of-john/victory-sea-of-glass-fire-harps/DALL·E 2022-08-04 19.40.36 - Standing on a sea of glass and fire, holding the harp of God. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/revelation-of-john/victory-sea-of-glass-fire-harps/DALL·E 2022-08-04 19.40.40 - Standing on a sea of glass and fire, holding the harp of God. Digital Art.jpg]]
