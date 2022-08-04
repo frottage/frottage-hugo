@@ -12,6 +12,17 @@
 #+LATEX_HEADER: \usepackage[margin=0.5in]{geometry}
 #+OPTIONS: toc:nil
 
+#+BEGIN_SRC text -n :async :results verbatim code
+  I hope that this paper may glorify
+  God by showing – once again – the beauty of
+  His world, a beauty that is demonstrated here
+  by the wealth that springs out of pure logic. -- Claus Tøndering
+#+END_SRC
+
+- https://www.tondering.dk/download/sur16.pdf
+
+---
+
 Surreal numbers are the most natural
 collection of numbers which includes both the
 real numbers and the infinite ordinal numbers
