@@ -4,6 +4,8 @@ author = ["Shane Mulligan"]
 date = 2022-08-04T00:00:00+12:00
 keywords = ["bible"]
 draft = false
+image = "https://raw.githubusercontent.com/frottage/dall-e-2-generations/master/fiery-red-girl/DALL%C2%B7E%202022-07-14%2013.27.00%20-%20A%20girl%20believes%20she%20must%20prepare%20for%20her%20photo%20to%20be%20taken.%20So%20she%20wears%20a%20low%20cut%2C%20frilly%20garment%2C%20and%20splays%20her%20fiery%20red%20hair%2C%20which%20she%20put%20great.jpg"
+weight = 10
 +++
 
 [Revelation 15:2](https://www.churchofjesuschrist.org/study/scriptures/nt/rev/15?lang=eng&id=2#p2)
