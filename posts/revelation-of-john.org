@@ -1,0 +1,60 @@
+#+HUGO_BASE_DIR: /home/shane/var/smulliga/source/git/frottage/frottage-hugo
+#+HUGO_SECTION: ./portfolio
+
+#+TITLE: Revelation of John
+#+DATE: <2022-08-04>
+#+AUTHOR: Shane Mulligan
+#+KEYWORDS: dalle
+# #+hugo_custom_front_matter: :image "img/portfolio/corrupted-multiverse.jpg"
+#+hugo_custom_front_matter: :image "https://github.com/frottage/dall-e-2-generations/raw/master/revelation-of-john/locusts/DALL·E 2022-08-04 13.53.43 - locusts with human faces, with crowns of gold and women's hair. they march for battle, like horses. Digital Art.jpg"
+#+hugo_custom_front_matter: :weight 10 
+
+** [[https://www.biblegateway.com/passage/?search=Revelation%209%3A7&version=KJV][Revelation 9:7]]
+#+BEGIN_SRC text -n :async :results verbatim code
+  7 And the shapes of the locusts were like unto horses prepared unto battle; and
+  on their heads were as it were crowns like gold, and their faces were as the
+  faces of men. 8 And they had hair as the hair of women, and their teeth were as
+  the ateeth of lions.
+#+END_SRC
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  locusts with human faces, like horses preparing for battle. they wore crowns of
+  gold. they had women's hair
+#+END_SRC
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/revelation-of-john/locusts/DALL·E 2022-08-04 13.51.30 - locusts with human faces, like horses preparing for battle. they wore crowns of gold. they had women's hair. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/revelation-of-john/locusts/DALL·E 2022-08-04 13.51.32 - locusts with human faces, like horses preparing for battle. they wore crowns of gold. they had women's hair. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/revelation-of-john/locusts/DALL·E 2022-08-04 13.51.56 - locusts with human faces, like horses preparing for battle. they wore crowns of gold. they had women's hair. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/revelation-of-john/locusts/DALL·E 2022-08-04 13.52.00 - locusts with human faces, like horses preparing for battle. they wore crowns of gold. they had women's hair. Digital Art.jpg]]
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  locusts with human faces, with crowns of gold and women's hair. they march for
+  battle, like horses.Digital Art
+#+END_SRC
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/revelation-of-john/locusts/DALL·E 2022-08-04 13.53.11 - locusts with human faces, with crowns of gold and women's hair. they march for battle, like horses.Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/revelation-of-john/locusts/DALL·E 2022-08-04 13.53.16 - locusts with human faces, with crowns of gold and women's hair. they march for battle, like horses.Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/revelation-of-john/locusts/DALL·E 2022-08-04 13.53.20 - locusts with human faces, with crowns of gold and women's hair. they march for battle, like horses.Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/revelation-of-john/locusts/DALL·E 2022-08-04 13.53.24 - locusts with human faces, with crowns of gold and women's hair. they march for battle, like horses.Digital Art.jpg]]
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  locusts with human faces, with crowns of gold and women's hair. they march for
+  battle, like horses. Digital Art
+#+END_SRC
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/revelation-of-john/locusts/DALL·E 2022-08-04 13.53.43 - locusts with human faces, with crowns of gold and women's hair. they march for battle, like horses. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/revelation-of-john/locusts/DALL·E 2022-08-04 13.53.47 - locusts with human faces, with crowns of gold and women's hair. they march for battle, like horses. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/revelation-of-john/locusts/DALL·E 2022-08-04 13.53.50 - locusts with human faces, with crowns of gold and women's hair. they march for battle, like horses. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/revelation-of-john/locusts/DALL·E 2022-08-04 13.54.30 - locusts with human faces, with crowns of gold and women's hair. they march for battle, like horses. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/revelation-of-john/locusts/DALL·E 2022-08-04 13.54.37 - locusts with human faces, with crowns of gold and women's hair. they march for battle, like horses. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/revelation-of-john/locusts/DALL·E 2022-08-04 13.54.44 - locusts with human faces, with crowns of gold and women's hair. they march for battle, like horses. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/revelation-of-john/locusts/DALL·E 2022-08-04 13.54.48 - locusts with human faces, with crowns of gold and women's hair. they march for battle, like horses. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/revelation-of-john/locusts/DALL·E 2022-08-04 13.55.07 - locusts with human faces, with crowns of gold and women's hair. they march for battle, like horses. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/revelation-of-john/locusts/DALL·E 2022-08-04 13.55.10 - locusts with human faces, with crowns of gold and women's hair. they march for battle, like horses. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/revelation-of-john/locusts/DALL·E 2022-08-04 13.55.13 - locusts with human faces, with crowns of gold and women's hair. they march for battle, like horses. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/revelation-of-john/locusts/DALL·E 2022-08-04 13.55.16 - locusts with human faces, with crowns of gold and women's hair. they march for battle, like horses. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/revelation-of-john/locusts/DALL·E 2022-08-04 13.55.38 - locusts with human faces, with crowns of gold and women's hair. they march for battle, like horses. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/revelation-of-john/locusts/DALL·E 2022-08-04 13.55.44 - locusts with human faces, with crowns of gold and women's hair. they march for battle, like horses. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/revelation-of-john/locusts/DALL·E 2022-08-04 13.55.49 - locusts with human faces, with crowns of gold and women's hair. they march for battle, like horses. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/revelation-of-john/locusts/DALL·E 2022-08-04 13.56.06 - locusts with human faces, with crowns of gold and women's hair. they march for battle, like horses. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/revelation-of-john/locusts/DALL·E 2022-08-04 13.56.10 - locusts with human faces, with crowns of gold and women's hair. they march for battle, like horses. Digital Art.jpg]]
