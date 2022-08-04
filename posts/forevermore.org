@@ -1,0 +1,29 @@
+#+HUGO_BASE_DIR: /home/shane/var/smulliga/source/git/frottage/frottage-hugo
+#+HUGO_SECTION: ./portfolio
+
+#+TITLE: Forevermore
+#+DATE: <2022-08-04>
+#+AUTHOR: Shane Mulligan
+#+KEYWORDS: dalle melee
+# #+hugo_custom_front_matter: :image "img/portfolio/corrupted-multiverse.jpg"
+#+hugo_custom_front_matter: :image "https://raw.githubusercontent.com/frottage/dall-e-2-generations/master/corrupted-multiverse/DALL%C2%B7E%202022-07-24%2020.40.39%20-%20The%20discordance%20of%20the%20result%20of%20man's%20original%20sin%20is%20that%20we%20find%20ourselves%20in%20a%20corrupted%20part%20of%20the%20multiverse.%20Digital%20Art.jpg"
+#+hugo_custom_front_matter: :weight 10 
+
+** dalle gens
+*** Pencil and Watercolour
+[[https://github.com/frottage/dall-e-2-generations/raw/master/aioniou/pencil-watercolour/DALL·E 2022-08-04 16.36.33 - This is an artist's impression of eternal, everlasting, forevermore. Pencil and Watercolour.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/aioniou/pencil-watercolour/DALL·E 2022-08-04 16.36.37 - This is an artist's impression of eternal, everlasting, forevermore. Pencil and Watercolour.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/aioniou/pencil-watercolour/DALL·E 2022-08-04 16.36.58 - This is an artist's impression of eternal, everlasting, forevermore. Pencil and Watercolour.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/aioniou/pencil-watercolour/DALL·E 2022-08-04 16.37.04 - This is an artist's impression of eternal, everlasting, forevermore. Pencil and Watercolour.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/aioniou/pencil-watercolour/DALL·E 2022-08-04 16.37.21 - This is an artist's impression of eternal, everlasting, forevermore. Pencil and Watercolour.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/aioniou/pencil-watercolour/DALL·E 2022-08-04 16.37.27 - This is an artist's impression of eternal, everlasting, forevermore. Pencil and Watercolour.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/aioniou/pencil-watercolour/DALL·E 2022-08-04 16.38.14 - This is an artist's impression of eternal, everlasting, forevermore. Pencil and Watercolour.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/aioniou/pencil-watercolour/DALL·E 2022-08-04 16.38.18 - This is an artist's impression of eternal, everlasting, forevermore. Pencil and Watercolour.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/aioniou/pencil-watercolour/DALL·E 2022-08-04 16.38.45 - This is an artist's impression of eternal, everlasting, forevermore. Pencil and Watercolour.jpg]]
+
+*** Digital art
+[[https://github.com/frottage/dall-e-2-generations/raw/master/aioniou/digital-art/DALL·E 2022-08-04 16.35.33 - This is an artist's impression of eternal, everlasting, forevermore. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/aioniou/digital-art/DALL·E 2022-08-04 16.35.37 - This is an artist's impression of eternal, everlasting, forevermore. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/aioniou/digital-art/DALL·E 2022-08-04 16.35.40 - This is an artist's impression of eternal, everlasting, forevermore. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/aioniou/digital-art/DALL·E 2022-08-04 16.36.02 - This is an artist's impression of eternal, everlasting, forevermore. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/aioniou/digital-art/DALL·E 2022-08-04 16.36.07 - This is an artist's impression of eternal, everlasting, forevermore. Digital Art.jpg]]
