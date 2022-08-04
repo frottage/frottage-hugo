@@ -1,6 +1,3 @@
-#+LATEX_HEADER: \usepackage[margin=0.5in]{geometry}
-#+OPTIONS: toc:nil
-
 #+HUGO_BASE_DIR: /home/shane/var/smulliga/source/git/frottage/frottage-hugo
 #+HUGO_SECTION: ./portfolio
 
@@ -8,6 +5,9 @@
 #+DATE: <2022-08-04>
 #+AUTHOR: Shane Mulligan
 #+KEYWORDS: bible
+# #+hugo_custom_front_matter: :image "img/portfolio/corrupted-multiverse.jpg"
+#+hugo_custom_front_matter: :image "https://raw.githubusercontent.com/frottage/dall-e-2-generations/master/fiery-red-girl/DALL%C2%B7E%202022-07-14%2013.27.00%20-%20A%20girl%20believes%20she%20must%20prepare%20for%20her%20photo%20to%20be%20taken.%20So%20she%20wears%20a%20low%20cut%2C%20frilly%20garment%2C%20and%20splays%20her%20fiery%20red%20hair%2C%20which%20she%20put%20great.jpg"
+#+hugo_custom_front_matter: :weight 10 
 
 + [[https://www.churchofjesuschrist.org/study/scriptures/nt/rev/15?lang=eng&id=2#p2][Revelation 15:2]] :: 2 And I saw as it were a asea of glass mingled with fire: and them that had gotten the victory over the beast, and over his image, and over his mark, and over the number of his name, stand on the sea of glass, having the harps of God.
 
