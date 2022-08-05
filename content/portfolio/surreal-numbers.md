@@ -15,7 +15,22 @@ His world, a beauty that is demonstrated here
 by the wealth that springs out of pure logic. -- Claus Tøndering
 {{< /highlight >}}
 
--   <https://www.tondering.dk/download/sur16.pdf>
+-   [Surreal Numbers: How two ex-students turned on to pure mathematics and found total happiness](https://people.math.harvard.edu/~knill/teaching/mathe320%5F2015%5Ffall/blog15/surreal1.pdf)
+    -   A story.
+-   [Surreal Numbers – An Introduction](https://www.tondering.dk/download/sur16.pdf)
+
+A. I mean - here we are on the edge of the
+Indian Ocean, miles away from civilization.
+It's been months since we ran off to avoid
+getting swept up in the system, and "to [find ourselves](https://mullikine.github.io/posts/the-tapestry-of-truth/)." I'm just wondering if you think
+we've done it.
+
+[Gospel of Thomas](https://mullikine.github.io/posts/gospel-of-thomas/)
+: "When you know yourselves then you will become known, and you will understand that you are the sons of the living father.
+
+B. Actually, Alice, I've been thinking about the same thing. These
+past months together have been really great-we're completely
+free, we know each other, and we feel like real people again [instead of like machines](https://mullikine.github.io/posts/the-tapestry-of-truth/).
 
 ---
 
