@@ -17,9 +17,14 @@ His world, a beauty that is demonstrated here
 by the wealth that springs out of pure logic. -- Claus Tøndering
 {{< /highlight >}}
 
--   [Surreal Numbers: How two ex-students turned on to pure mathematics and found total happiness](https://people.math.harvard.edu/~knill/teaching/mathe320%5F2015%5Ffall/blog15/surreal1.pdf)
+-   [Surreal Numbers and Games - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/Surreal%5FNumbers%5Fand%5FGames)
+    -   [Surreal Numbers and Games/The Beginning - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/Surreal%5FNumbers%5Fand%5FGames/The%5FBeginning)
+    -   [Surreal Numbers and Games/Simple Arithmetic - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/Surreal%5FNumbers%5Fand%5FGames/Simple%5FArithmetic)
+    -   [Surreal Numbers and Games/Games - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/Surreal%5FNumbers%5Fand%5FGames/Games)
+-   PDF: [Surreal Numbers and Games](https://web.mit.edu/sp.268/www/2010/surreal.pdf)
+-   PDF: [Surreal Numbers: How two ex-students turned on to pure mathematics and found total happiness](https://people.math.harvard.edu/~knill/teaching/mathe320%5F2015%5Ffall/blog15/surreal1.pdf)
     -   A story.
--   [Surreal Numbers – An Introduction](https://www.tondering.dk/download/sur16.pdf)
+-   PDF: [Surreal Numbers – An Introduction](https://www.tondering.dk/download/sur16.pdf)
 
 ---
 
