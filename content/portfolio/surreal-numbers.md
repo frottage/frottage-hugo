@@ -86,9 +86,8 @@ Some simple games have abbreviated names that can be expressed in terms of surre
 ### The Genesis of Surreal numbers {#the-genesis-of-surreal-numbers}
 
 {{< highlight text "linenos=table, linenostart=1" >}}
-In the beginning, everything was void, and J.H.W.H.
-
-Conway began to create numbers.
+In the beginning, everything was void, and
+J.H.W.H. Conway began to create numbers.
 
 Conway said, "Let there be two rules which
 bring forth all numbers large and small.
