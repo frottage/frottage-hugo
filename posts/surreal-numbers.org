@@ -21,9 +21,14 @@ Surreal numbers are all =syzygies=; Definitely not a mere coincidence.
   by the wealth that springs out of pure logic. -- Claus Tøndering
 #+END_SRC
 
-- [[https://people.math.harvard.edu/~knill/teaching/mathe320_2015_fall/blog15/surreal1.pdf][Surreal Numbers: How two ex-students turned on to pure mathematics and found total happiness]]
+- [[https://en.wikibooks.org/wiki/Surreal_Numbers_and_Games][Surreal Numbers and Games - Wikibooks, open books for an open world]]
+  - [[https://en.wikibooks.org/wiki/Surreal_Numbers_and_Games/The_Beginning][Surreal Numbers and Games/The Beginning - Wikibooks, open books for an open world]]
+  - [[https://en.wikibooks.org/wiki/Surreal_Numbers_and_Games/Simple_Arithmetic][Surreal Numbers and Games/Simple Arithmetic - Wikibooks, open books for an open world]]
+  - [[https://en.wikibooks.org/wiki/Surreal_Numbers_and_Games/Games][Surreal Numbers and Games/Games - Wikibooks, open books for an open world]]
+- PDF: [[https://web.mit.edu/sp.268/www/2010/surreal.pdf][Surreal Numbers and Games]]
+- PDF: [[https://people.math.harvard.edu/~knill/teaching/mathe320_2015_fall/blog15/surreal1.pdf][Surreal Numbers: How two ex-students turned on to pure mathematics and found total happiness]]
   - A story.
-- [[https://www.tondering.dk/download/sur16.pdf][Surreal Numbers – An Introduction]]
+- PDF: [[https://www.tondering.dk/download/sur16.pdf][Surreal Numbers – An Introduction]]
 
 ---
 
