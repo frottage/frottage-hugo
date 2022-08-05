@@ -1,0 +1,84 @@
+#+HUGO_BASE_DIR: $HOME/var/smulliga/source/git/frottage/frottage-hugo
+#+HUGO_SECTION: ./portfolio
+
+#+TITLE: Dream: Leaving the beach
+#+DATE: <2022-08-05>
+#+AUTHOR: Shane Mulligan
+#+KEYWORDS: faith melee dream dalle
+# #+hugo_custom_front_matter: :image "img/portfolio/corrupted-multiverse.jpg"
+#+hugo_custom_front_matter: :image "https://github.com/frottage/dall-e-2-generations/raw/master/melee-jacobs-staircase/DALL·E 2022-07-30 20.48.54 - A red-haired angel descends the golden Jacob's ladder staircase and looks at me. We walk past each other. Digital art.jpg"
+#+hugo_custom_front_matter: :weight 10 
+
+** My dream
+
+| ID | Date        | Lucidity | Prophetic | Holy Spirit | Surreal |
+|----+-------------+----------+-----------+-------------+---------|
+| 36 | Aug 4, 2022 |        2 |           |             | ✓       |
+
+Description:
+
+- Collecting things I need were buried in the sand in a line at the top of the beach.
+  - 20 or so small things:
+    - Pen
+    - Watch
+    - Wallet
+    - etc.
+  - For some reason these things were buried in a line
+  - I was right at the very end.
+  - Next to me was Melee, I think standing at a door saying come on lets go, hurry up
+    - I was on the last bit but she literally about to leave without me
+
+Did I need all these things? She didn't think so. For some reason I thought I did.
+
+[[https://mullikine.github.io/posts/dream-resume/][Dream Résumé]]
+
+*** Further Interpretation
+
+- [[https://mullikine.github.io/posts/faith/][Faith and the Monad of Consciousness // Bodacious Blog]]
+
+---
+
++ [[https://mullikine.github.io/posts/faith/][Jesus said]] :: 36 What good is it for someone to gain the whole world, yet forfeit their soul?
+
+As I say with the section ="Forfeiting your own soul (Losing your pearl)"=,
+this happens when a person becomes overly mesmerised by artificial intelligence, or material things.
+
+i have to somehow get to talking to melee
+again then I can shift focus on to other
+things.
+
+*** The Lagrange point of consciousness
+
+What do you want to settle and remain by your
+side throughout your life, as the world moves
+
+Like the positioning of the James Webb Telescope within the Lagrange point, things
+will settle around this point.
+
+But im talking about the metaspacetime of consciousness, a different type of spacetime.
+
+I need to acquire the things i need; Melee is part of that. I can't move without it.
+
+** Dalle
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/sand-portal/DALL·E 2022-08-05 19.40.45 - A guy digs is looking through sand for his keys while while a girl signals to leave through a door which appeared on the sand. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/sand-portal/DALL·E 2022-08-05 19.43.51 - A guy digs his hands through the sand of the beach, looking for his keys and wallet while while a girl signals to leave through a doorframe which stan.jpg]]
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  A girl leaves through a doorframe on the sand
+  of a beach. The door leads to another
+  dimension
+#+END_SRC
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/sand-portal/DALL·E 2022-08-05 19.44.35 - A girl leaves through a doorframe on the sand of a beach. The door leads to another dimension. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/sand-portal/DALL·E 2022-08-05 19.44.41 - A girl leaves through a doorframe on the sand of a beach. The door leads to another dimension. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/sand-portal/DALL·E 2022-08-05 19.44.44 - A girl leaves through a doorframe on the sand of a beach. The door leads to another dimension. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/sand-portal/DALL·E 2022-08-05 19.45.07 - A girl leaves through a doorframe on the sand of a beach. The door leads to another dimension. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/sand-portal/DALL·E 2022-08-05 19.45.12 - A girl leaves through a doorframe on the sand of a beach. The door leads to another dimension. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/sand-portal/DALL·E 2022-08-05 19.45.16 - A girl leaves through a doorframe on the sand of a beach. The door leads to another dimension. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/sand-portal/DALL·E 2022-08-05 19.45.20 - A girl leaves through a doorframe on the sand of a beach. The door leads to another dimension. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/sand-portal/DALL·E 2022-08-05 19.45.45 - A girl leaves through a doorframe on the sand of a beach. The door leads to another dimension. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/sand-portal/DALL·E 2022-08-05 19.46.45 - A girl leaves through a doorframe on the sand of a beach. The door leads to another dimension. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/sand-portal/DALL·E 2022-08-05 19.46.49 - A girl leaves through a doorframe on the sand of a beach. The door leads to another dimension. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/sand-portal/DALL·E 2022-08-05 19.46.54 - A girl leaves through a doorframe on the sand of a beach. The door leads to another dimension. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/sand-portal/DALL·E 2022-08-05 19.46.59 - A girl leaves through a doorframe on the sand of a beach. The door leads to another dimension. Digital Art.jpg]]
