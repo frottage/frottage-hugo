@@ -9,7 +9,7 @@
 #+hugo_custom_front_matter: :image "https://github.com/frottage/dall-e-2-generations/raw/master/sand-portal/DALL·E 2022-08-05 19.45.07 - A girl leaves through a doorframe on the sand of a beach. The door leads to another dimension. Digital Art.jpg"
 #+hugo_custom_front_matter: :weight 10 
 
-[[https://github.com/frottage/dall-e-2-generations/raw/master/sand-portal/DALL·E 2022-08-05 19.45.07 - A girl leaves through a doorframe on the sand of a beach. The door leads to another dimension. Digital Art.jpg]]
+# [[https://github.com/frottage/dall-e-2-generations/raw/master/sand-portal/DALL·E 2022-08-05 19.45.07 - A girl leaves through a doorframe on the sand of a beach. The door leads to another dimension. Digital Art.jpg]]
 
 ** My dream
 
