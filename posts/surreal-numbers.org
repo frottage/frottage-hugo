@@ -19,7 +19,21 @@
   by the wealth that springs out of pure logic. -- Claus Tøndering
 #+END_SRC
 
-- https://www.tondering.dk/download/sur16.pdf
+- [[https://people.math.harvard.edu/~knill/teaching/mathe320_2015_fall/blog15/surreal1.pdf][Surreal Numbers: How two ex-students turned on to pure mathematics and found total happiness]]
+  - A story.
+- [[https://www.tondering.dk/download/sur16.pdf][Surreal Numbers – An Introduction]]
+
+A. I mean - here we are on the edge of the
+Indian Ocean, miles away from civilization.
+It's been months since we ran off to avoid
+getting swept up in the system, and "to [[https://mullikine.github.io/posts/the-tapestry-of-truth/][find ourselves]]." I'm just wondering if you think
+we've done it.
+
++ [[https://mullikine.github.io/posts/gospel-of-thomas/][Gospel of Thomas]] :: "When you know yourselves then you will become known, and you will understand that you are the sons of the living father.
+
+B. Actually, Alice, I've been thinking about the same thing. These
+past months together have been really great-we're completely
+free, we know each other, and we feel like real people again [[https://mullikine.github.io/posts/the-tapestry-of-truth/][instead of like machines]].
 
 ---
 
