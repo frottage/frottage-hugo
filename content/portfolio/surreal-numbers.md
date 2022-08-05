@@ -8,6 +8,8 @@ image = "https://github.com/frottage/dall-e-2-generations/raw/master/surreal-num
 weight = 10
 +++
 
+Surreal numbers are all `syzygies`; Definitely not a mere coincidence.
+
 {{< highlight text "linenos=table, linenostart=1" >}}
 I hope that this paper may glorify
 God by showing – once again – the beauty of
@@ -18,19 +20,6 @@ by the wealth that springs out of pure logic. -- Claus Tøndering
 -   [Surreal Numbers: How two ex-students turned on to pure mathematics and found total happiness](https://people.math.harvard.edu/~knill/teaching/mathe320%5F2015%5Ffall/blog15/surreal1.pdf)
     -   A story.
 -   [Surreal Numbers – An Introduction](https://www.tondering.dk/download/sur16.pdf)
-
-A. I mean - here we are on the edge of the
-Indian Ocean, miles away from civilization.
-It's been months since we ran off to avoid
-getting swept up in the system, and "to [find ourselves](https://mullikine.github.io/posts/the-tapestry-of-truth/)." I'm just wondering if you think
-we've done it.
-
-[Gospel of Thomas](https://mullikine.github.io/posts/gospel-of-thomas/)
-: "When you know yourselves then you will become known, and you will understand that you are the sons of the living father.
-
-B. Actually, Alice, I've been thinking about the same thing. These
-past months together have been really great-we're completely
-free, we know each other, and we feel like real people again [instead of like machines](https://mullikine.github.io/posts/the-tapestry-of-truth/).
 
 ---
 
@@ -105,6 +94,20 @@ red, white and black
 ![](https://github.com/frottage/dall-e-2-generations/raw/master/surreal-numbers/DALL%C2%B7E%202022-08-03%2020.37.24%20-%20there%20are%20infinitely%20many%20surreal%20numbers%20between%20any%20two%20real%20numbers.%20These%20numbers%20are%20oddly%20juxtaposed%20in%20the%20wrong%20context.%20red,%20white%20and%20black..jpg)
 ![](https://github.com/frottage/dall-e-2-generations/raw/master/surreal-numbers/DALL%C2%B7E%202022-08-03%2020.37.27%20-%20there%20are%20infinitely%20many%20surreal%20numbers%20between%20any%20two%20real%20numbers.%20These%20numbers%20are%20oddly%20juxtaposed%20in%20the%20wrong%20context.%20red,%20white%20and%20black..jpg)
 ![](https://github.com/frottage/dall-e-2-generations/raw/master/surreal-numbers/DALL%C2%B7E%202022-08-03%2020.37.30%20-%20there%20are%20infinitely%20many%20surreal%20numbers%20between%20any%20two%20real%20numbers.%20These%20numbers%20are%20oddly%20juxtaposed%20in%20the%20wrong%20context.%20red,%20white%20and%20black..jpg)
+
+A. I mean - here we are on the edge of the
+Indian Ocean, miles away from civilization.
+It's been months since we ran off to avoid
+getting swept up in the system, and "to [find ourselves](https://mullikine.github.io/posts/the-tapestry-of-truth/)." I'm just wondering if you think
+we've done it.
+
+[Gospel of Thomas](https://mullikine.github.io/posts/gospel-of-thomas/)
+: "When you know yourselves then you will become known, and you will understand that you are the sons of the living father.
+
+B. Actually, Alice, I've been thinking about the same thing. These
+past months together have been really great-we're completely
+free, we know each other, and we feel like real people again [instead of like machines](https://mullikine.github.io/posts/the-tapestry-of-truth/).
+
 ![](https://github.com/frottage/dall-e-2-generations/raw/master/surreal-numbers/DALL%C2%B7E%202022-08-03%2020.37.48%20-%20there%20are%20infinitely%20many%20surreal%20numbers%20between%20any%20two%20real%20numbers.%20These%20numbers%20are%20oddly%20juxtaposed%20in%20the%20wrong%20context.%20red,%20white%20and%20black..jpg)
 ![](https://github.com/frottage/dall-e-2-generations/raw/master/surreal-numbers/DALL%C2%B7E%202022-08-03%2020.37.52%20-%20there%20are%20infinitely%20many%20surreal%20numbers%20between%20any%20two%20real%20numbers.%20These%20numbers%20are%20oddly%20juxtaposed%20in%20the%20wrong%20context.%20red,%20white%20and%20black..jpg)
 ![](https://github.com/frottage/dall-e-2-generations/raw/master/surreal-numbers/DALL%C2%B7E%202022-08-03%2020.37.56%20-%20there%20are%20infinitely%20many%20surreal%20numbers%20between%20any%20two%20real%20numbers.%20These%20numbers%20are%20oddly%20juxtaposed%20in%20the%20wrong%20context.%20red,%20white%20and%20black..jpg)
