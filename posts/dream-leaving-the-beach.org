@@ -1,4 +1,4 @@
-#+HUGO_BASE_DIR: $HOME/var/smulliga/source/git/frottage/frottage-hugo
+#+HUGO_BASE_DIR: /home/shane/var/smulliga/source/git/frottage/frottage-hugo
 #+HUGO_SECTION: ./portfolio
 
 #+TITLE: Dream: Leaving the beach
@@ -6,14 +6,16 @@
 #+AUTHOR: Shane Mulligan
 #+KEYWORDS: faith melee dream dalle
 # #+hugo_custom_front_matter: :image "img/portfolio/corrupted-multiverse.jpg"
-#+hugo_custom_front_matter: :image "https://github.com/frottage/dall-e-2-generations/raw/master/melee-jacobs-staircase/DALL·E 2022-07-30 20.48.54 - A red-haired angel descends the golden Jacob's ladder staircase and looks at me. We walk past each other. Digital art.jpg"
+#+hugo_custom_front_matter: :image "https://github.com/frottage/dall-e-2-generations/raw/master/sand-portal/DALL·E 2022-08-05 19.45.07 - A girl leaves through a doorframe on the sand of a beach. The door leads to another dimension. Digital Art.jpg"
 #+hugo_custom_front_matter: :weight 10 
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/sand-portal/DALL·E 2022-08-05 19.45.07 - A girl leaves through a doorframe on the sand of a beach. The door leads to another dimension. Digital Art.jpg]]
 
 ** My dream
 
 | ID | Date        | Lucidity | Prophetic | Holy Spirit | Surreal |
 |----+-------------+----------+-----------+-------------+---------|
-| 36 | Aug 4, 2022 |        2 |           |             | ✓       |
+| 36 | Aug 4, 2022 |        2 | ?         | ?           | ✓       |
 
 Description:
 
@@ -31,6 +33,8 @@ Description:
 Did I need all these things? She didn't think so. For some reason I thought I did.
 
 [[https://mullikine.github.io/posts/dream-resume/][Dream Résumé]]
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/sand-portal/DALL·E 2022-08-05 19.45.07 - A girl leaves through a doorframe on the sand of a beach. The door leads to another dimension. Digital Art.jpg]]
 
 *** Further Interpretation
 
