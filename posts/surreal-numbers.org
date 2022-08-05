@@ -87,9 +87,8 @@ Some simple games have abbreviated names that can be expressed in terms of surre
 *** The Genesis of Surreal numbers
 
 #+BEGIN_SRC text -n :async :results verbatim code
-  In the beginning, everything was void, and J.H.W.H.
-  
-  Conway began to create numbers.
+  In the beginning, everything was void, and
+  J.H.W.H. Conway began to create numbers.
   
   Conway said, "Let there be two rules which
   bring forth all numbers large and small.
