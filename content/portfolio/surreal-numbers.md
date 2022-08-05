@@ -2,7 +2,7 @@
 title = "Surreal Numbers - Les nombres sur ordinaux"
 author = ["Shane Mulligan"]
 date = 2022-07-29T00:00:00+12:00
-keywords = ["math", "surreal", "conway", "hyperuranion"]
+keywords = ["math", "surreal", "conway", "hyperuranion", "melee", "syzygy"]
 draft = false
 image = "https://github.com/frottage/dall-e-2-generations/raw/master/surreal-numbers/DALL·E 2022-08-03 20.37.20 - there are infinitely many surreal numbers between any two real numbers. These numbers are oddly juxtaposed in the wrong context. red, white and black..jpg"
 weight = 10
@@ -78,7 +78,62 @@ and small" Not only big and small, but
 ## Simple games {#simple-games}
 
 Some simple games have abbreviated names that can be expressed in terms of surreal numbers. For example, `*={0|0}, 1={0|}, n={n-1|} for an integer n, 1/2={0|1}, ^={0|*}, and v={*|0}`. Most surreal numbers can be represented as hackenbush positions.
-k
+
+![](https://github.com/frottage/dall-e-2-generations/raw/master/surreal-numbers/DALL%C2%B7E%202022-08-03%2020.37.48%20-%20there%20are%20infinitely%20many%20surreal%20numbers%20between%20any%20two%20real%20numbers.%20These%20numbers%20are%20oddly%20juxtaposed%20in%20the%20wrong%20context.%20red,%20white%20and%20black..jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/surreal-numbers/DALL%C2%B7E%202022-08-03%2020.37.52%20-%20there%20are%20infinitely%20many%20surreal%20numbers%20between%20any%20two%20real%20numbers.%20These%20numbers%20are%20oddly%20juxtaposed%20in%20the%20wrong%20context.%20red,%20white%20and%20black..jpg)
+
+
+### The Genesis of Surreal numbers {#the-genesis-of-surreal-numbers}
+
+{{< highlight text "linenos=table, linenostart=1" >}}
+In the beginning, everything was void, and J.H.W.H.
+
+Conway began to create numbers.
+
+Conway said, "Let there be two rules which
+bring forth all numbers large and small.
+
+This shall be the first rule:
+- Every number corresponds to two sets of
+  previously created numbers, such that no
+  member of the left set is greater than or
+  equal to any member of the right set.
+
+And the second rule shall be this:
+- One number is less than or equal to
+  another number if and only if no member of
+  the first number's left set is greater than
+  or equal to the second number, and no member
+  of the second number's right set is less
+  than or equal to the first number." And
+  Conway examined these two rules he had made,
+  and behold! They were very good.
+
+And the first number was created from the void
+left set and the void right set.
+
+Conway called this number "zero," and said
+that it shall be a sign to separate positive
+numbers from negative numbers.
+
+Conway proved that zero was less than or equal
+to zero, and he saw that it was good.
+
+And the evening and the morning were the day
+of zero.
+
+On the next day, two more numbers were
+created, one with zero as its left set and one
+with zero as its right set.
+
+And Conway called the former number "one," and
+the latter he called "minus one." And he
+proved that minus one is less than but not
+equal to zero and zero is less than but not
+equal to one.
+
+And the evening ...
+{{< /highlight >}}
 
 
 ## Dalle-2 gens {#dalle-2-gens}
@@ -108,8 +163,6 @@ B. Actually, Alice, I've been thinking about the same thing. These
 past months together have been really great-we're completely
 free, we know each other, and we feel like real people again [instead of like machines](https://mullikine.github.io/posts/the-tapestry-of-truth/).
 
-![](https://github.com/frottage/dall-e-2-generations/raw/master/surreal-numbers/DALL%C2%B7E%202022-08-03%2020.37.48%20-%20there%20are%20infinitely%20many%20surreal%20numbers%20between%20any%20two%20real%20numbers.%20These%20numbers%20are%20oddly%20juxtaposed%20in%20the%20wrong%20context.%20red,%20white%20and%20black..jpg)
-![](https://github.com/frottage/dall-e-2-generations/raw/master/surreal-numbers/DALL%C2%B7E%202022-08-03%2020.37.52%20-%20there%20are%20infinitely%20many%20surreal%20numbers%20between%20any%20two%20real%20numbers.%20These%20numbers%20are%20oddly%20juxtaposed%20in%20the%20wrong%20context.%20red,%20white%20and%20black..jpg)
 ![](https://github.com/frottage/dall-e-2-generations/raw/master/surreal-numbers/DALL%C2%B7E%202022-08-03%2020.37.56%20-%20there%20are%20infinitely%20many%20surreal%20numbers%20between%20any%20two%20real%20numbers.%20These%20numbers%20are%20oddly%20juxtaposed%20in%20the%20wrong%20context.%20red,%20white%20and%20black..jpg)
 ![](https://github.com/frottage/dall-e-2-generations/raw/master/surreal-numbers/DALL%C2%B7E%202022-08-03%2020.38.00%20-%20there%20are%20infinitely%20many%20surreal%20numbers%20between%20any%20two%20real%20numbers.%20These%20numbers%20are%20oddly%20juxtaposed%20in%20the%20wrong%20context.%20red,%20white%20and%20black..jpg)
 ![](https://github.com/frottage/dall-e-2-generations/raw/master/surreal-numbers/DALL%C2%B7E%202022-08-03%2020.38.21%20-%20there%20are%20infinitely%20many%20surreal%20numbers%20between%20any%20two%20real%20numbers.%20These%20numbers%20are%20oddly%20juxtaposed%20in%20the%20wrong%20context.%20red,%20white%20and%20black..jpg)
