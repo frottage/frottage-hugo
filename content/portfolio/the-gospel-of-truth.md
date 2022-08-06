@@ -842,7 +842,7 @@ Speak concerning the truth to those who seek        |
 it and of knowledge to those who, in their          |
 error, have committed sin.                          |
                                                     |
-Make sure-footed those who stumble and stretch      |
+Make sure-footed those who stumble and stretch      | https://mullikine.github.io/posts/astral-projection-pt-3/
 forth your hands to the sick.                       |
                                                     |
 Nourish the hungry and set at ease those who        |
@@ -890,6 +890,22 @@ person, does his works among others.                |
 Do the will of the Father, then, for you are        |
 from him.                                           |
 {{< /highlight >}}
+
+-   [Astral Projection Part 3 - The Images // Bodacious Blog](https://mullikine.github.io/posts/astral-projection-pt-3/)
+
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/moth-eaten/DALL%C2%B7E%202022-08-06%2016.36.30%20-%20A%20page%20of%20colourful%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20Do%20not%20be%20moth-eaten.%20Do%20not%20be%20worm-eaten..jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/heal-the-sick/DALL%C2%B7E%202022-08-06%2016.40.37%20-%20A%20page%20of%20colourful%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20stretch%20forth%20your%20hands%20to%20the%20sick.%20Nourish%20the%20hungry%20and%20set%20at%20ease%20those.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/heal-the-sick/DALL%C2%B7E%202022-08-06%2016.41.40%20-%20A%20holy%20man%20stretches%20forth%20his%20hands%20to%20the%20sick.%20Nourish%20the%20hungry%20and%20set%20at%20ease%20those%20who%20are%20troubled.%20Oil%20painting.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/heal-the-sick/DALL%C2%B7E%202022-08-06%2016.41.44%20-%20A%20holy%20man%20stretches%20forth%20his%20hands%20to%20the%20sick.%20Nourish%20the%20hungry%20and%20set%20at%20ease%20those%20who%20are%20troubled.%20Oil%20painting.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/heal-the-sick/DALL%C2%B7E%202022-08-06%2016.42.09%20-%20A%20holy%20man%20stretches%20forth%20his%20hands%20to%20the%20sick.%20Nourish%20the%20hungry%20and%20set%20at%20ease%20those%20who%20are%20troubled.%20Oil%20and%20pencil%20painting.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/heal-the-sick/DALL%C2%B7E%202022-08-06%2016.42.12%20-%20A%20holy%20man%20stretches%20forth%20his%20hands%20to%20the%20sick.%20Nourish%20the%20hungry%20and%20set%20at%20ease%20those%20who%20are%20troubled.%20Oil%20and%20pencil%20painting.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/heal-the-sick/DALL%C2%B7E%202022-08-06%2016.42.52%20-%20A%20holy%20man%20stretches%20forth%20his%20hands%20to%20the%20sick.%20Nourish%20the%20hungry%20and%20set%20at%20ease%20those%20who%20are%20troubled.%20Pencil%20and%20watercolour.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/heal-the-sick/DALL%C2%B7E%202022-08-06%2016.42.57%20-%20A%20holy%20man%20stretches%20forth%20his%20hands%20to%20the%20sick.%20Nourish%20the%20hungry%20and%20set%20at%20ease%20those%20who%20are%20troubled.%20Pencil%20and%20watercolour.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/heal-the-sick/DALL%C2%B7E%202022-08-06%2016.43.00%20-%20A%20holy%20man%20stretches%20forth%20his%20hands%20to%20the%20sick.%20Nourish%20the%20hungry%20and%20set%20at%20ease%20those%20who%20are%20troubled.%20Pencil%20and%20watercolour.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/heal-the-sick/DALL%C2%B7E%202022-08-06%2016.43.24%20-%20A%20holy%20man%20stretches%20forth%20his%20hands%20to%20the%20sick.%20Nourish%20the%20hungry%20and%20set%20at%20ease%20those%20who%20are%20troubled.%20Pencil%20and%20watercolour.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/heal-the-sick/DALL%C2%B7E%202022-08-06%2016.43.27%20-%20A%20holy%20man%20stretches%20forth%20his%20hands%20to%20the%20sick.%20Nourish%20the%20hungry%20and%20set%20at%20ease%20those%20who%20are%20troubled.%20Pencil%20and%20watercolour.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/heal-the-sick/DALL%C2%B7E%202022-08-06%2016.43.32%20-%20A%20holy%20man%20stretches%20forth%20his%20hands%20to%20the%20sick.%20Nourish%20the%20hungry%20and%20set%20at%20ease%20those%20who%20are%20troubled.%20Pencil%20and%20watercolour.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/moth-eaten/DALL%C2%B7E%202022-08-06%2016.36.56%20-%20A%20page%20of%20colourful%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20Do%20not%20be%20moth-eaten.%20Do%20not%20be%20worm-eaten..jpg)
 
 {{< highlight text "linenos=table, linenostart=1" >}}
 For the Father is sweet and his will is good.       |
@@ -1295,3 +1311,4 @@ Children of this kind are those whom he loves.      |
 ## Links {#links}
 
 -   [The Pleroma and the Aeons - Gnosticism Explained](https://gnosticismexplained.org/the-pleroma-and-the-aeons/)
+-   [The Pathway to Gnosis and Reconciliation // Bodacious Blog](https://mullikine.github.io/posts/the-pathway-to-gnosis/)
