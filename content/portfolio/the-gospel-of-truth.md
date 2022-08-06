@@ -166,6 +166,11 @@ For what is it that the All lacked, if not the      |
 knowledge of the Father?                            |
 {{< /highlight >}}
 
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/found-in-himself/DALL%C2%B7E%202022-08-06%2014.02.33%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule.%20And%20as%20for%20him,%20them%20he%20found%20in%20himself,%20and%20him%20they%20found%20in%20themselves,%20that%20ill.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/found-in-himself/DALL%C2%B7E%202022-08-06%2014.02.37%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule.%20And%20as%20for%20him,%20them%20he%20found%20in%20himself,%20and%20him%20they%20found%20in%20themselves,%20that%20ill.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/found-in-himself/DALL%C2%B7E%202022-08-06%2014.02.41%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule.%20And%20as%20for%20him,%20them%20he%20found%20in%20himself,%20and%20him%20they%20found%20in%20themselves,%20that%20ill.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/found-in-himself/DALL%C2%B7E%202022-08-06%2014.02.44%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule.%20And%20as%20for%20him,%20them%20he%20found%20in%20himself,%20and%20him%20they%20found%20in%20themselves,%20that%20ill.jpg%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20)
+
 {{< highlight text "linenos=table, linenostart=1" >}}
 He became a guide, quiet and in leisure.            |
                                                     |
@@ -198,6 +203,11 @@ from before the foundation of the All, is in        |
 that incomprehensible part of him.                  |
 {{< /highlight >}}
 
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/school-teacher/DALL%C2%B7E%202022-08-06%2014.03.59%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule.%20He%20became%20a%20guide,%20quiet%20and%20in%20leisure.%20In%20the%20middle%20of%20a%20school%20he%20came%20and%20spoke.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/school-teacher/DALL%C2%B7E%202022-08-06%2014.04.03%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule.%20He%20became%20a%20guide,%20quiet%20and%20in%20leisure.%20In%20the%20middle%20of%20a%20school%20he%20came%20and%20spoke.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/school-teacher/DALL%C2%B7E%202022-08-06%2014.04.05%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule.%20He%20became%20a%20guide,%20quiet%20and%20in%20leisure.%20In%20the%20middle%20of%20a%20school%20he%20came%20and%20spoke.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/school-teacher/DALL%C2%B7E%202022-08-06%2014.04.09%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule.%20He%20became%20a%20guide,%20quiet%20and%20in%20leisure.%20In%20the%20middle%20of%20a%20school%20he%20came%20and%20spoke.jpg)
+
 {{< highlight text "linenos=table, linenostart=1" >}}
 This is the book which no one found possible        |
 to take, since it was reserved for him who          |
@@ -229,6 +239,12 @@ He was nailed to a cross.                           |
 He affixed the edict of the Father to the           |
 cross.                                              |
 {{< /highlight >}}
+
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/jesus-cross/DALL%C2%B7E%202022-08-06%2014.05.54%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule.%20For%20this%20reason%20Jesus%20appeared.%20He%20took%20that%20book%20as%20his%20own.%20He%20was%20nailed%20to%20a%20cro.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/jesus-cross/DALL%C2%B7E%202022-08-06%2014.05.58%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule.%20For%20this%20reason%20Jesus%20appeared.%20He%20took%20that%20book%20as%20his%20own.%20He%20was%20nailed%20to%20a%20cro.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/jesus-cross/DALL%C2%B7E%202022-08-06%2014.06.20%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule.%20For%20this%20reason%20Jesus%20appeared.%20He%20took%20that%20book%20as%20his%20own.%20He%20was%20nailed%20to%20a%20cro.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/jesus-cross/DALL%C2%B7E%202022-08-06%2014.06.25%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule.%20For%20this%20reason%20Jesus%20appeared.%20He%20took%20that%20book%20as%20his%20own.%20He%20was%20nailed%20to%20a%20cro.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/jesus-cross/DALL%C2%B7E%202022-08-06%2014.06.37%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule.%20For%20this%20reason%20Jesus%20appeared.%20He%20took%20that%20book%20as%20his%20own.%20He%20was%20nailed%20to%20a%20cro.jpg%20%20%20%20%20)
 
 {{< highlight text "linenos=table, linenostart=1" >}}
 Oh, such great teaching! He abases himself          |
