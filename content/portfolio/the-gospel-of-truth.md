@@ -65,7 +65,6 @@ unperturbed and completely beautiful.               |
 ![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/error-became-strong/DALL%C2%B7E%202022-08-06%2013.50.10%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule.%20error%20became%20strong.%20But%20it%20worked%20on%20its%20hylic%20substance%20vainly,%20because%20it%20did%20not.png)
 ![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/error-became-strong/DALL%C2%B7E%202022-08-06%2013.50.15%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule.%20error%20became%20strong.%20But%20it%20worked%20on%20its%20hylic%20substance%20vainly,%20because%20it%20did%20not.png)
 ![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/error-became-strong/DALL%C2%B7E%202022-08-06%2013.50.23%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule.%20error%20became%20strong.%20But%20it%20worked%20on%20its%20hylic%20substance%20vainly,%20because%20it%20did%20not.png)
-![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/error-became-strong/DALL%C2%B7E%202022-08-06%2013.50.28%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule.%20error%20became%20strong.%20But%20it%20worked%20on%20its%20hylic%20substance%20vainly,%20because%20it%20did%20not.png)
 
 {{< highlight text "linenos=table, linenostart=1" >}}
 For this reason, do not take error too              |
@@ -340,6 +339,11 @@ and having come to himself, has restored what       |
 is his own.                                         |
 {{< /highlight >}}
 
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/turned-from-drunkenness/DALL%C2%B7E%202022-08-06%2014.45.22%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20He%20knows%20it%20as%20a%20person%20who,%20having%20become%20intoxicated,%20has%20turned%20fro.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/turned-from-drunkenness/DALL%C2%B7E%202022-08-06%2014.45.25%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20He%20knows%20it%20as%20a%20person%20who,%20having%20become%20intoxicated,%20has%20turned%20fro.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/turned-from-drunkenness/DALL%C2%B7E%202022-08-06%2014.45.29%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20He%20knows%20it%20as%20a%20person%20who,%20having%20become%20intoxicated,%20has%20turned%20fro.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/turned-from-drunkenness/DALL%C2%B7E%202022-08-06%2014.45.33%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20He%20knows%20it%20as%20a%20person%20who,%20having%20become%20intoxicated,%20has%20turned%20fro.jpg)
+
 {{< highlight text "linenos=table, linenostart=1" >}}
 He has turned many from error.                      |
                                                     |
@@ -373,6 +377,11 @@ of the unity, since the Father wrote them for       |
 the Aeons, so that they by means of his             |
 letters might come to know the Father.              |
 {{< /highlight >}}
+
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/turned-many-from-error/DALL%C2%B7E%202022-08-06%2014.46.47%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20He%20has%20turned%20many%20from%20error..jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/turned-many-from-error/DALL%C2%B7E%202022-08-06%2014.46.51%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20He%20has%20turned%20many%20from%20error..jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/turned-many-from-error/DALL%C2%B7E%202022-08-06%2014.46.54%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20He%20has%20turned%20many%20from%20error..jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/turned-many-from-error/DALL%C2%B7E%202022-08-06%2014.46.57%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20He%20has%20turned%20many%20from%20error..jpg%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20)
 
 {{< highlight text "linenos=table, linenostart=1" >}}
 While his wisdom mediates on the logos, and         |
@@ -448,6 +457,23 @@ diversity with a view towards unity, devouring      |
 matter within itself like fire and darkness by      |
 light, death by life.                               |
 {{< /highlight >}}
+
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/father-holy-spirit/DALL%C2%B7E%202022-08-06%2014.49.16%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20%20The%20Father%20opens%20his%20bosom,%20but%20his%20bosom%20is%20the%20Holy%20Spirit.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/father-holy-spirit/DALL%C2%B7E%202022-08-06%2014.49.19%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20%20The%20Father%20opens%20his%20bosom,%20but%20his%20bosom%20is%20the%20Holy%20Spirit.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/father-holy-spirit/DALL%C2%B7E%202022-08-06%2014.49.23%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20%20The%20Father%20opens%20his%20bosom,%20but%20his%20bosom%20is%20the%20Holy%20Spirit.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/father-holy-spirit/DALL%C2%B7E%202022-08-06%2014.49.26%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20%20The%20Father%20opens%20his%20bosom,%20but%20his%20bosom%20is%20the%20Holy%20Spirit.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/father-holy-spirit/DALL%C2%B7E%202022-08-06%2014.49.44%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20%20The%20Father%20opens%20his%20bosom,%20but%20his%20bosom%20is%20the%20Holy%20Spirit.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/father-holy-spirit/DALL%C2%B7E%202022-08-06%2014.49.47%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20%20The%20Father%20opens%20his%20bosom,%20but%20his%20bosom%20is%20the%20Holy%20Spirit.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/father-holy-spirit/DALL%C2%B7E%202022-08-06%2014.49.49%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20%20The%20Father%20opens%20his%20bosom,%20but%20his%20bosom%20is%20the%20Holy%20Spirit.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/father-holy-spirit/DALL%C2%B7E%202022-08-06%2014.49.52%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20%20The%20Father%20opens%20his%20bosom,%20but%20his%20bosom%20is%20the%20Holy%20Spirit.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/father-holy-spirit/DALL%C2%B7E%202022-08-06%2014.50.12%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20%20The%20Father%20opens%20his%20bosom,%20but%20his%20bosom%20is%20the%20Holy%20Spirit.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/father-holy-spirit/DALL%C2%B7E%202022-08-06%2014.50.15%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20%20The%20Father%20opens%20his%20bosom,%20but%20his%20bosom%20is%20the%20Holy%20Spirit.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/father-holy-spirit/DALL%C2%B7E%202022-08-06%2014.50.18%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20%20The%20Father%20opens%20his%20bosom,%20but%20his%20bosom%20is%20the%20Holy%20Spirit.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/father-holy-spirit/DALL%C2%B7E%202022-08-06%2014.50.22%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20%20The%20Father%20opens%20his%20bosom,%20but%20his%20bosom%20is%20the%20Holy%20Spirit.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/father-holy-spirit/DALL%C2%B7E%202022-08-06%2014.50.41%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20%20The%20Father%20opens%20his%20bosom,%20but%20his%20bosom%20is%20the%20Holy%20Spirit.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/father-holy-spirit/DALL%C2%B7E%202022-08-06%2014.50.44%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20%20The%20Father%20opens%20his%20bosom,%20but%20his%20bosom%20is%20the%20Holy%20Spirit.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/father-holy-spirit/DALL%C2%B7E%202022-08-06%2014.50.47%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20%20The%20Father%20opens%20his%20bosom,%20but%20his%20bosom%20is%20the%20Holy%20Spirit.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/father-holy-spirit/DALL%C2%B7E%202022-08-06%2014.50.49%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20%20The%20Father%20opens%20his%20bosom,%20but%20his%20bosom%20is%20the%20Holy%20Spirit.jpg)
 
 {{< highlight text "linenos=table, linenostart=1" >}}
 Certainly, if these things have happened to         |
@@ -1178,3 +1204,8 @@ name, because he is the Father.                     |
                                                     |
 Children of this kind are those whom he loves.      |
 {{< /highlight >}}
+
+
+## Links {#links}
+
+-   [The Pleroma and the Aeons - Gnosticism Explained](https://gnosticismexplained.org/the-pleroma-and-the-aeons/)
