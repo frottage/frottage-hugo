@@ -168,7 +168,11 @@
   For what is it that the All lacked, if not the      |
   knowledge of the Father?                            |
 #+END_SRC
-                                                     
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/found-in-himself/DALL·E 2022-08-06 14.02.33 - A page of colourful gnostic scripture with caligraphy, majuscule. And as for him, them he found in himself, and him they found in themselves, that ill.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/found-in-himself/DALL·E 2022-08-06 14.02.37 - A page of colourful gnostic scripture with caligraphy, majuscule. And as for him, them he found in himself, and him they found in themselves, that ill.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/found-in-himself/DALL·E 2022-08-06 14.02.41 - A page of colourful gnostic scripture with caligraphy, majuscule. And as for him, them he found in himself, and him they found in themselves, that ill.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/found-in-himself/DALL·E 2022-08-06 14.02.44 - A page of colourful gnostic scripture with caligraphy, majuscule. And as for him, them he found in himself, and him they found in themselves, that ill.jpg                                                     ]]
                                                      
 #+BEGIN_SRC text -n :async :results verbatim code
   He became a guide, quiet and in leisure.            |
@@ -201,7 +205,11 @@
   from before the foundation of the All, is in        |
   that incomprehensible part of him.                  |
 #+END_SRC
-                                                     
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/school-teacher/DALL·E 2022-08-06 14.03.59 - A page of colourful gnostic scripture with caligraphy, majuscule. He became a guide, quiet and in leisure. In the middle of a school he came and spoke.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/school-teacher/DALL·E 2022-08-06 14.04.03 - A page of colourful gnostic scripture with caligraphy, majuscule. He became a guide, quiet and in leisure. In the middle of a school he came and spoke.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/school-teacher/DALL·E 2022-08-06 14.04.05 - A page of colourful gnostic scripture with caligraphy, majuscule. He became a guide, quiet and in leisure. In the middle of a school he came and spoke.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/school-teacher/DALL·E 2022-08-06 14.04.09 - A page of colourful gnostic scripture with caligraphy, majuscule. He became a guide, quiet and in leisure. In the middle of a school he came and spoke.jpg]]
                                                      
 #+BEGIN_SRC text -n :async :results verbatim code
   This is the book which no one found possible        |
@@ -234,7 +242,12 @@
   He affixed the edict of the Father to the           |
   cross.                                              |
 #+END_SRC
-                                                     
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/jesus-cross/DALL·E 2022-08-06 14.05.54 - A page of colourful gnostic scripture with caligraphy, majuscule. For this reason Jesus appeared. He took that book as his own. He was nailed to a cro.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/jesus-cross/DALL·E 2022-08-06 14.05.58 - A page of colourful gnostic scripture with caligraphy, majuscule. For this reason Jesus appeared. He took that book as his own. He was nailed to a cro.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/jesus-cross/DALL·E 2022-08-06 14.06.20 - A page of colourful gnostic scripture with caligraphy, majuscule. For this reason Jesus appeared. He took that book as his own. He was nailed to a cro.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/jesus-cross/DALL·E 2022-08-06 14.06.25 - A page of colourful gnostic scripture with caligraphy, majuscule. For this reason Jesus appeared. He took that book as his own. He was nailed to a cro.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/jesus-cross/DALL·E 2022-08-06 14.06.37 - A page of colourful gnostic scripture with caligraphy, majuscule. For this reason Jesus appeared. He took that book as his own. He was nailed to a cro.jpg     ]]
                                                      
 #+BEGIN_SRC text -n :async :results verbatim code
   Oh, such great teaching! He abases himself          |
