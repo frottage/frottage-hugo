@@ -269,6 +269,12 @@ for themselves, receiving instructions from         |
 the Father, turning to him again.                   |
 {{< /highlight >}}
 
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/living-turn-faces/DALL%C2%B7E%202022-08-06%2014.30.12%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20the%20living%20who%20are%20inscribed%20in%20the%20book%20of%20the%20living,%20learn%20for%20them.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/living-turn-faces/DALL%C2%B7E%202022-08-06%2014.30.15%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20the%20living%20who%20are%20inscribed%20in%20the%20book%20of%20the%20living,%20learn%20for%20them.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/living-turn-faces/DALL%C2%B7E%202022-08-06%2014.30.24%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20the%20living%20who%20are%20inscribed%20in%20the%20book%20of%20the%20living,%20learn%20for%20them.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/living-turn-faces/DALL%C2%B7E%202022-08-06%2014.30.44%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20the%20living%20who%20are%20inscribed%20in%20the%20book%20of%20the%20living,%20learn%20for%20them.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/living-turn-faces/DALL%C2%B7E%202022-08-06%2014.30.49%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20the%20living%20who%20are%20inscribed%20in%20the%20book%20of%20the%20living,%20learn%20for%20them.jpg)
+
 {{< highlight text "linenos=table, linenostart=1" >}}
 Since the perfection of the All is in the           |
 Father, it is necessary for the All to ascend       |
@@ -289,6 +295,13 @@ which are his.                                      |
 He registered them first, having prepared them      |
 to be given to those who came from him.             |
 {{< /highlight >}}
+
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/all-ascention/DALL%C2%B7E%202022-08-06%2014.20.59%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule.%20%20it%20is%20necessary%20for%20the%20All%20to%20ascend%20to%20him%20and%20for%20each%20one%20to%20get%20the%20things%20whi.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/all-ascention/DALL%C2%B7E%202022-08-06%2014.21.09%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule.%20%20it%20is%20necessary%20for%20the%20All%20to%20ascend%20to%20him%20and%20for%20each%20one%20to%20get%20the%20things%20whi.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/all-ascention/DALL%C2%B7E%202022-08-06%2014.28.34%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20%20it%20is%20necessary%20for%20the%20All%20to%20ascend%20to%20him%20and%20for%20each%20one%20to%20get%20.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/all-ascention/DALL%C2%B7E%202022-08-06%2014.28.37%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20%20it%20is%20necessary%20for%20the%20All%20to%20ascend%20to%20him%20and%20for%20each%20one%20to%20get%20.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/all-ascention/DALL%C2%B7E%202022-08-06%2014.28.41%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20%20it%20is%20necessary%20for%20the%20All%20to%20ascend%20to%20him%20and%20for%20each%20one%20to%20get%20.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/all-ascention/DALL%C2%B7E%202022-08-06%2014.28.45%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20%20it%20is%20necessary%20for%20the%20All%20to%20ascend%20to%20him%20and%20for%20each%20one%20to%20get%20.jpg%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20)
 
 {{< highlight text "linenos=table, linenostart=1" >}}
 Those whose name he knew first were called          |
