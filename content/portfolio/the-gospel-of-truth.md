@@ -680,6 +680,10 @@ Indeed, blessed is he who has opened the eyes       |
 of the blind.                                       |
 {{< /highlight >}}
 
+-   [The Robbers of Light // Bodacious Blog](https://mullikine.github.io/posts/the-robbers/)
+-   [The Jail of the Mind and Loss of Lifeforce // Bodacious Blog](https://mullikine.github.io/posts/jail-of-the-mind/)
+-   [The Tapestry of Truth // Bodacious Blog](https://mullikine.github.io/posts/the-tapestry-of-truth/)
+
 ![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/shadows-and-phantoms/DALL%C2%B7E%202022-08-06%2015.24.17%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20I%20am%20like%20the%20shadows%20and%20phantoms%20of%20the%20night..jpg)
 ![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/shadows-and-phantoms/DALL%C2%B7E%202022-08-06%2015.24.24%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20I%20am%20like%20the%20shadows%20and%20phantoms%20of%20the%20night..jpg)
 ![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/shadows-and-phantoms/DALL%C2%B7E%202022-08-06%2015.24.46%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20I%20am%20like%20the%20shadows%20and%20phantoms%20of%20the%20night..jpg)
@@ -707,6 +711,10 @@ For when they saw it and listened to it, he         |
 permitted them to take a taste of and to smell      |
 and to grasp the beloved son.                       |
 {{< /highlight >}}
+
+-   [Thy Bridal Chamber // Bodacious Blog](https://mullikine.github.io/posts/thy-bridal-chamber/)
+-   [Astral Projection Part 1 - Death with Jesus // Bodacious Blog](https://mullikine.github.io/posts/astral-projection/)
+-   [Astral Projection Part 2 - Sacred Kiss, Healing, Resurrection // Bodacious Blog](https://mullikine.github.io/posts/astral-projection-pt-2/)
 
 ![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/hand-to-the-prone/DALL%C2%B7E%202022-08-06%2015.46.27%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20Having%20given%20its%20hand%20to%20the%20one%20lying%20prone%20on%20the%20ground,%20it%20placed%20.jpg)
 ![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/hand-to-the-prone/DALL%C2%B7E%202022-08-06%2015.47.27%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20And%20the%20Spirit%20came%20to%20him%20in%20haste%20when%20it%20raised%20him.%20Having%20given%20i.jpg)
@@ -762,6 +770,15 @@ for those who tremble, a purity for those who       |
 were defiled.                                       |
 {{< /highlight >}}
 
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/path-for-astray/DALL%C2%B7E%202022-08-06%2016.08.00%20-%20%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20a%20path%20for%20those%20who%20went%20astray.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/path-for-astray/DALL%C2%B7E%202022-08-06%2016.08.27%20-%20%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20a%20path%20for%20those%20who%20went%20astray.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/path-for-astray/DALL%C2%B7E%202022-08-06%2016.08.56%20-%20%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20a%20path%20for%20those%20who%20went%20astray.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/path-for-astray/DALL%C2%B7E%202022-08-06%2016.08.59%20-%20%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20a%20path%20for%20those%20who%20went%20astray.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/path-for-astray/DALL%C2%B7E%202022-08-06%2016.09.28%20-%20%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20a%20path%20for%20those%20who%20went%20astray.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/path-for-astray/DALL%C2%B7E%202022-08-06%2016.10.17%20-%20%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20a%20path%20for%20those%20who%20went%20astray.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/path-for-astray/DALL%C2%B7E%202022-08-06%2016.10.34%20-%20%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20a%20path%20for%20those%20who%20went%20astray.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/path-for-astray/DALL%C2%B7E%202022-08-06%2016.10.45%20-%20%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20a%20path%20for%20those%20who%20went%20astray.jpg)
+
 {{< highlight text "linenos=table, linenostart=1" >}}
 He is the shepherd who left behind the ninety-      |
 nine sheep which had not strayed and went in        |
@@ -786,6 +803,16 @@ hundred.                                            |
 This number signifies the Father.                   |
 {{< /highlight >}}
 
+-   [God's Voice // Bodacious Blog](https://mullikine.github.io/posts/god-s-voice/)
+
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/lost-sheep/DALL%C2%B7E%202022-08-06%2016.12.16%20-%20%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20shepherd%20who%20left%20behind%20the%20ninety-nine%20sheep%20which%20had%20not%20strayed%20.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/lost-sheep/DALL%C2%B7E%202022-08-06%2016.12.19%20-%20%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20shepherd%20who%20left%20behind%20the%20ninety-nine%20sheep%20which%20had%20not%20strayed%20.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/lost-sheep/DALL%C2%B7E%202022-08-06%2016.12.50%20-%20%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20shepherd%20who%20left%20behind%20the%20ninety-nine%20sheep%20which%20had%20not%20strayed%20.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/lost-sheep/DALL%C2%B7E%202022-08-06%2016.12.53%20-%20%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20shepherd%20who%20left%20behind%20the%20ninety-nine%20sheep%20which%20had%20not%20strayed%20.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/lost-sheep/DALL%C2%B7E%202022-08-06%2016.13.47%20-%20%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20shepherd%20who%20left%20behind%20the%20ninety-nine%20sheep%20which%20had%20not%20strayed%20.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/lost-sheep/DALL%C2%B7E%202022-08-06%2016.14.25%20-%20%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20shepherd%20who%20left%20behind%20the%20ninety-nine%20sheep%20which%20had%20not%20strayed%20.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/lost-sheep/DALL%C2%B7E%202022-08-06%2016.15.07%20-%20%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20shepherd%20who%20left%20behind%20the%20ninety-nine%20sheep%20which%20had%20not%20strayed%20.jpg)
+
 {{< highlight text "linenos=table, linenostart=1" >}}
 He labored even on the Sabbath for the sheep        |
 which he found fallen into the pit.                 |
@@ -805,6 +832,10 @@ Say then in your heart that you are this            |
 perfect day and that in you the light which         |
 does not fail dwells.                               |
 {{< /highlight >}}
+
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/sheep-pit-sabbath/DALL%C2%B7E%202022-08-06%2016.16.39%20-%20%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20he%20sheep%20which%20he%20found%20fallen%20into%20the%20pit.%20He%20saved%20the%20life%20of%20tha.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/sheep-pit-sabbath/DALL%C2%B7E%202022-08-06%2016.16.51%20-%20%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20he%20sheep%20which%20he%20found%20fallen%20into%20the%20pit.%20He%20saved%20the%20life%20of%20tha.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/sheep-pit-sabbath/DALL%C2%B7E%202022-08-06%2016.18.00%20-%20%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20he%20sheep%20which%20he%20found%20fallen%20into%20the%20pit.%20He%20saved%20the%20life%20of%20tha.jpg)
 
 {{< highlight text "linenos=table, linenostart=1" >}}
 Speak concerning the truth to those who seek        |
