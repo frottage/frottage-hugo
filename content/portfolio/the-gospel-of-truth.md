@@ -154,10 +154,10 @@ given to the all.                                   |
                                                     |
 The Father was not jealous.                         |
                                                     |
-What jealousy, indeed, is there between him         |
+What jealousy, indeed, is there between him         | https://mullikine.github.io/posts/the-tapestry-of-truth/
 and his members? For, even if the Aeon had          |
-received their perfection, they would not have      |
-been able to approach the perfection of the         |
+received their perfection, they would not have      | Understand that by becoming spiritually True,
+been able to approach the perfection of the         | you become a part of the Father.
 Father, because he retained their perfection        |
 in himself, giving it to them as a way to           |
 return to him and as a knowledge unique in          |
@@ -910,13 +910,13 @@ from him.                                           |
 {{< highlight text "linenos=table, linenostart=1" >}}
 For the Father is sweet and his will is good.       |
                                                     |
-He knows the things that are yours, so that         |
+He knows the things that are yours, so that         | https://mullikine.github.io/posts/thomas-22/
 you may rest yourselves in them.                    |
-                                                    |
-For by the fruits one knows the things that         |
-are yours, that they are the children of the        |
+                                                    | https://mullikine.github.io/posts/naphtali/
+For by the fruits one knows the things that         | You see, God provides evidence.
+are yours, that they are the children of the        | One merely now must live in the Truth.
 Father, and one knows his aroma, that you           |
-originate from the grace of his countenance.        |
+originate from the grace of his countenance.        |  https://mullikine.github.io/posts/pistis-sophia/
                                                     |
 For this reason, the Father loved his aroma;        |
 and it manifests itself in every place; and         |
@@ -935,7 +935,7 @@ He is, indeed, the place for it, and he takes       |
 it to the place from which it has come, in the      |
 first aroma which is cold.                          |
                                                     |
-It is something in a psychic form, resembling       |
+It is something in a psychic form, resembling       | https://mullikine.github.io/posts/living-water/
 cold water which is [...] since it is in soil       |
 which is not hard, of which those who see it        |
 think, "It is earth." Afterwards, it becomes        |
@@ -945,21 +945,26 @@ If a breath is taken, it is usually hot.            |
                                                     |
 The cold aromas, then, are from the division.       |
                                                     |
-For this reason, God came and destroyed the         |
-division and he brought the hot Pleroma of          |
+For this reason, God came and destroyed the         | https://mullikine.github.io/posts/thy-bridal-chamber/
+division and he brought the hot Pleroma of          | This is when the division was destroyed for me.
 love, so that the cold may not return, but the      |
 unity of the Perfect Thought prevail.               |
 {{< /highlight >}}
+
+-   [Living Water of Truth // Bodacious Blog](https://mullikine.github.io/posts/living-water/)
+-   [Thy Bridal Chamber // Bodacious Blog](https://mullikine.github.io/posts/thy-bridal-chamber/)
+
+<!--listend-->
 
 {{< highlight text "linenos=table, linenostart=1" >}}
 This is the word of the Gospel of the finding       |
 of the Pleroma for those who wait for the           |
 salvation which comes from above.                   |
-                                                    |
-When their hope, for which they are waiting,        |
-is waiting - they whose likeness is the light       |
-in which there is no shadow, then at that time      |
-the Pleroma is about to come.                       |
+                                                    | The Kingdom of Light without any bad memories
+When their hope, for which they are waiting,        | https://mullikine.github.io/posts/astral-projection-pt-3/
+is waiting - they whose likeness is the light       | https://mullikine.github.io/posts/the-dimension-of-light/
+in which there is no shadow, then at that time      | Angels without shadow:
+the Pleroma is about to come.                       | https://mullikine.github.io/posts/gospel-of-philip/
                                                     |
 The deficiency of matter, however, is not           |
 because of the limitlessness of the Father who      |
@@ -976,6 +981,12 @@ being readily set upright at the finding of         |
 that one who has come to him who will turn          |
 back.                                               |
 {{< /highlight >}}
+
+-   [Astral Projection Part 3 - The Images // Bodacious Blog](https://mullikine.github.io/posts/astral-projection-pt-3/)
+-   [The Dimension of Light // Bodacious Blog](https://mullikine.github.io/posts/the-dimension-of-light/)
+-   [Gospel of Philip - The Bridal Chamber and the Restoration // Bodacious Blog](https://mullikine.github.io/posts/gospel-of-philip/)
+
+<!--listend-->
 
 {{< highlight text "linenos=table, linenostart=1" >}}
 For this turning back is called "repentance".       |
@@ -1020,11 +1031,11 @@ speak about Christ in their midst so that they      |
 may receive a return and he may anoint them         |
 with the ointment.                                  |
                                                     |
-The ointment is the pity of the Father, who         |
-will have mercy on them.                            |
+The ointment is the pity of the Father, who         | https://mullikine.github.io/posts/the-pathway-to-gnosis/
+will have mercy on them.                            | At spiritual bankrupcy, ask God for help.
                                                     |
-But those whom he has anointed are those who        |
-are perfect.                                        |
+But those whom he has anointed are those who        | https://mullikine.github.io/posts/astral-projection-pt-2/
+are perfect.                                        | https://mullikine.github.io/posts/dream-discernment-of-judgement/
                                                     |
 For the filled vessels are those which are          |
 customarily used for anointing.                     |
@@ -1050,6 +1061,8 @@ who has planted them in his Paradise.               |
                                                     |
 And his Paradise is his place of rest.              |
 {{< /highlight >}}
+
+A page of colourful scripture with caligraphy, majuscule, and pictures.
 
 {{< highlight text "linenos=table, linenostart=1" >}}
 This is the perfection in the thought of the        |
@@ -1277,6 +1290,16 @@ leisure for themselves, they in whom he will        |
 find his root, and he will suffer no loss to        |
 his soul.                                           |
 {{< /highlight >}}
+
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/paradise-rest/DALL%C2%B7E%202022-08-06%2017.21.35%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20Paradise%20is%20his%20place%20of%20rest.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/paradise-rest/DALL%C2%B7E%202022-08-06%2017.21.48%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20Paradise%20is%20his%20place%20of%20rest.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/paradise-rest/DALL%C2%B7E%202022-08-06%2017.21.56%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20Paradise%20is%20his%20place%20of%20rest.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/paradise-rest/DALL%C2%B7E%202022-08-06%2017.22.22%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20Paradise%20is%20his%20place%20of%20rest.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/paradise-rest/DALL%C2%B7E%202022-08-06%2017.22.26%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20Paradise%20is%20his%20place%20of%20rest.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/paradise-rest/DALL%C2%B7E%202022-08-06%2017.22.31%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20Paradise%20is%20his%20place%20of%20rest.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/paradise-rest/DALL%C2%B7E%202022-08-06%2017.22.35%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20Paradise%20is%20his%20place%20of%20rest.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/paradise-rest/DALL%C2%B7E%202022-08-06%2017.22.53%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20Paradise%20is%20his%20place%20of%20rest.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/paradise-rest/DALL%C2%B7E%202022-08-06%2017.22.56%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20Paradise%20is%20his%20place%20of%20rest.jpg)
 
 {{< highlight text "linenos=table, linenostart=1" >}}
 Such is the place of the blessed; this is           |
