@@ -271,7 +271,12 @@
   for themselves, receiving instructions from         |
   the Father, turning to him again.                   |
 #+END_SRC
-                                                     
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/living-turn-faces/DALL·E 2022-08-06 14.30.12 - A page of colourful gnostic scripture with caligraphy, majuscule, and pictures. the living who are inscribed in the book of the living, learn for them.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/living-turn-faces/DALL·E 2022-08-06 14.30.15 - A page of colourful gnostic scripture with caligraphy, majuscule, and pictures. the living who are inscribed in the book of the living, learn for them.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/living-turn-faces/DALL·E 2022-08-06 14.30.24 - A page of colourful gnostic scripture with caligraphy, majuscule, and pictures. the living who are inscribed in the book of the living, learn for them.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/living-turn-faces/DALL·E 2022-08-06 14.30.44 - A page of colourful gnostic scripture with caligraphy, majuscule, and pictures. the living who are inscribed in the book of the living, learn for them.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/living-turn-faces/DALL·E 2022-08-06 14.30.49 - A page of colourful gnostic scripture with caligraphy, majuscule, and pictures. the living who are inscribed in the book of the living, learn for them.jpg]]
                                                      
 #+BEGIN_SRC text -n :async :results verbatim code
   Since the perfection of the All is in the           |
@@ -293,7 +298,13 @@
   He registered them first, having prepared them      |
   to be given to those who came from him.             |
 #+END_SRC
-                                                     
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/all-ascention/DALL·E 2022-08-06 14.20.59 - A page of colourful gnostic scripture with caligraphy, majuscule.  it is necessary for the All to ascend to him and for each one to get the things whi.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/all-ascention/DALL·E 2022-08-06 14.21.09 - A page of colourful gnostic scripture with caligraphy, majuscule.  it is necessary for the All to ascend to him and for each one to get the things whi.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/all-ascention/DALL·E 2022-08-06 14.28.34 - A page of colourful gnostic scripture with caligraphy, majuscule, and pictures.  it is necessary for the All to ascend to him and for each one to get .jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/all-ascention/DALL·E 2022-08-06 14.28.37 - A page of colourful gnostic scripture with caligraphy, majuscule, and pictures.  it is necessary for the All to ascend to him and for each one to get .jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/all-ascention/DALL·E 2022-08-06 14.28.41 - A page of colourful gnostic scripture with caligraphy, majuscule, and pictures.  it is necessary for the All to ascend to him and for each one to get .jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/all-ascention/DALL·E 2022-08-06 14.28.45 - A page of colourful gnostic scripture with caligraphy, majuscule, and pictures.  it is necessary for the All to ascend to him and for each one to get .jpg                                                     ]]
                                                      
 #+BEGIN_SRC text -n :async :results verbatim code
   Those whose name he knew first were called          |
