@@ -842,7 +842,7 @@
   it and of knowledge to those who, in their          |
   error, have committed sin.                          |
                                                       |
-  Make sure-footed those who stumble and stretch      |
+  Make sure-footed those who stumble and stretch      | https://mullikine.github.io/posts/astral-projection-pt-3/
   forth your hands to the sick.                       |
                                                       |
   Nourish the hungry and set at ease those who        |
@@ -890,7 +890,22 @@
   Do the will of the Father, then, for you are        |
   from him.                                           |
 #+END_SRC
-                                                     
+
+- [[https://mullikine.github.io/posts/astral-projection-pt-3/][Astral Projection Part 3 - The Images // Bodacious Blog]]
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/moth-eaten/DALL·E 2022-08-06 16.36.30 - A page of colourful scripture with caligraphy, majuscule, and pictures. Do not be moth-eaten. Do not be worm-eaten..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/heal-the-sick/DALL·E 2022-08-06 16.40.37 - A page of colourful scripture with caligraphy, majuscule, and pictures. stretch forth your hands to the sick. Nourish the hungry and set at ease those.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/heal-the-sick/DALL·E 2022-08-06 16.41.40 - A holy man stretches forth his hands to the sick. Nourish the hungry and set at ease those who are troubled. Oil painting.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/heal-the-sick/DALL·E 2022-08-06 16.41.44 - A holy man stretches forth his hands to the sick. Nourish the hungry and set at ease those who are troubled. Oil painting.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/heal-the-sick/DALL·E 2022-08-06 16.42.09 - A holy man stretches forth his hands to the sick. Nourish the hungry and set at ease those who are troubled. Oil and pencil painting.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/heal-the-sick/DALL·E 2022-08-06 16.42.12 - A holy man stretches forth his hands to the sick. Nourish the hungry and set at ease those who are troubled. Oil and pencil painting.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/heal-the-sick/DALL·E 2022-08-06 16.42.52 - A holy man stretches forth his hands to the sick. Nourish the hungry and set at ease those who are troubled. Pencil and watercolour.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/heal-the-sick/DALL·E 2022-08-06 16.42.57 - A holy man stretches forth his hands to the sick. Nourish the hungry and set at ease those who are troubled. Pencil and watercolour.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/heal-the-sick/DALL·E 2022-08-06 16.43.00 - A holy man stretches forth his hands to the sick. Nourish the hungry and set at ease those who are troubled. Pencil and watercolour.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/heal-the-sick/DALL·E 2022-08-06 16.43.24 - A holy man stretches forth his hands to the sick. Nourish the hungry and set at ease those who are troubled. Pencil and watercolour.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/heal-the-sick/DALL·E 2022-08-06 16.43.27 - A holy man stretches forth his hands to the sick. Nourish the hungry and set at ease those who are troubled. Pencil and watercolour.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/heal-the-sick/DALL·E 2022-08-06 16.43.32 - A holy man stretches forth his hands to the sick. Nourish the hungry and set at ease those who are troubled. Pencil and watercolour.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/moth-eaten/DALL·E 2022-08-06 16.36.56 - A page of colourful scripture with caligraphy, majuscule, and pictures. Do not be moth-eaten. Do not be worm-eaten..jpg]]
                                                      
 #+BEGIN_SRC text -n :async :results verbatim code
   For the Father is sweet and his will is good.       |
@@ -1303,3 +1318,4 @@
 
 ** Links
 - [[https://gnosticismexplained.org/the-pleroma-and-the-aeons/][The Pleroma and the Aeons - Gnosticism Explained]]
+- [[https://mullikine.github.io/posts/the-pathway-to-gnosis/][The Pathway to Gnosis and Reconciliation // Bodacious Blog]]
