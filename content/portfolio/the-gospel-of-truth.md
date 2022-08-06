@@ -177,7 +177,7 @@ knowledge of the Father?                            |
 ![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/found-in-himself/DALL%C2%B7E%202022-08-06%2014.02.33%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule.%20And%20as%20for%20him,%20them%20he%20found%20in%20himself,%20and%20him%20they%20found%20in%20themselves,%20that%20ill.jpg)
 ![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/found-in-himself/DALL%C2%B7E%202022-08-06%2014.02.37%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule.%20And%20as%20for%20him,%20them%20he%20found%20in%20himself,%20and%20him%20they%20found%20in%20themselves,%20that%20ill.jpg)
 ![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/found-in-himself/DALL%C2%B7E%202022-08-06%2014.02.41%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule.%20And%20as%20for%20him,%20them%20he%20found%20in%20himself,%20and%20him%20they%20found%20in%20themselves,%20that%20ill.jpg)
-![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/found-in-himself/DALL%C2%B7E%202022-08-06%2014.02.44%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule.%20And%20as%20for%20him,%20them%20he%20found%20in%20himself,%20and%20him%20they%20found%20in%20themselves,%20that%20ill.jpg%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/found-in-himself/DALL%C2%B7E%202022-08-06%2014.02.44%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule.%20And%20as%20for%20him,%20them%20he%20found%20in%20himself,%20and%20him%20they%20found%20in%20themselves,%20that%20ill.jpg)
 
 {{< highlight text "linenos=table, linenostart=1" >}}
 He became a guide, quiet and in leisure.            |
@@ -252,7 +252,7 @@ cross.                                              |
 ![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/jesus-cross/DALL%C2%B7E%202022-08-06%2014.05.58%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule.%20For%20this%20reason%20Jesus%20appeared.%20He%20took%20that%20book%20as%20his%20own.%20He%20was%20nailed%20to%20a%20cro.jpg)
 ![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/jesus-cross/DALL%C2%B7E%202022-08-06%2014.06.20%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule.%20For%20this%20reason%20Jesus%20appeared.%20He%20took%20that%20book%20as%20his%20own.%20He%20was%20nailed%20to%20a%20cro.jpg)
 ![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/jesus-cross/DALL%C2%B7E%202022-08-06%2014.06.25%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule.%20For%20this%20reason%20Jesus%20appeared.%20He%20took%20that%20book%20as%20his%20own.%20He%20was%20nailed%20to%20a%20cro.jpg)
-![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/jesus-cross/DALL%C2%B7E%202022-08-06%2014.06.37%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule.%20For%20this%20reason%20Jesus%20appeared.%20He%20took%20that%20book%20as%20his%20own.%20He%20was%20nailed%20to%20a%20cro.jpg%20%20%20%20%20)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/jesus-cross/DALL%C2%B7E%202022-08-06%2014.06.37%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule.%20For%20this%20reason%20Jesus%20appeared.%20He%20took%20that%20book%20as%20his%20own.%20He%20was%20nailed%20to%20a%20cro.jpg)
 
 {{< highlight text "linenos=table, linenostart=1" >}}
 Oh, such great teaching! He abases himself          |
@@ -309,7 +309,7 @@ to be given to those who came from him.             |
 ![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/all-ascention/DALL%C2%B7E%202022-08-06%2014.28.34%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20%20it%20is%20necessary%20for%20the%20All%20to%20ascend%20to%20him%20and%20for%20each%20one%20to%20get%20.jpg)
 ![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/all-ascention/DALL%C2%B7E%202022-08-06%2014.28.37%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20%20it%20is%20necessary%20for%20the%20All%20to%20ascend%20to%20him%20and%20for%20each%20one%20to%20get%20.jpg)
 ![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/all-ascention/DALL%C2%B7E%202022-08-06%2014.28.41%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20%20it%20is%20necessary%20for%20the%20All%20to%20ascend%20to%20him%20and%20for%20each%20one%20to%20get%20.jpg)
-![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/all-ascention/DALL%C2%B7E%202022-08-06%2014.28.45%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20%20it%20is%20necessary%20for%20the%20All%20to%20ascend%20to%20him%20and%20for%20each%20one%20to%20get%20.jpg%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/all-ascention/DALL%C2%B7E%202022-08-06%2014.28.45%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20%20it%20is%20necessary%20for%20the%20All%20to%20ascend%20to%20him%20and%20for%20each%20one%20to%20get%20.jpg)
 
 {{< highlight text "linenos=table, linenostart=1" >}}
 Those whose name he knew first were called          |
@@ -390,7 +390,7 @@ letters might come to know the Father.              |
 ![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/turned-many-from-error/DALL%C2%B7E%202022-08-06%2014.46.47%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20He%20has%20turned%20many%20from%20error..jpg)
 ![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/turned-many-from-error/DALL%C2%B7E%202022-08-06%2014.46.51%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20He%20has%20turned%20many%20from%20error..jpg)
 ![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/turned-many-from-error/DALL%C2%B7E%202022-08-06%2014.46.54%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20He%20has%20turned%20many%20from%20error..jpg)
-![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/turned-many-from-error/DALL%C2%B7E%202022-08-06%2014.46.57%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20He%20has%20turned%20many%20from%20error..jpg%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/turned-many-from-error/DALL%C2%B7E%202022-08-06%2014.46.57%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20He%20has%20turned%20many%20from%20error..jpg)
 
 {{< highlight text "linenos=table, linenostart=1" >}}
 While his wisdom mediates on the logos, and         |
@@ -541,17 +541,17 @@ Father by his tongue at the time he shall           |
 receive the Holy Spirit.                            |
 {{< /highlight >}}
 
-![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/defective-dishesDALL%C2%B7E%202022-08-06%2015.10.55%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20Like%20people%20who%20have%20moved%20from%20a%20neighborhood,%20if%20they%20have%20some%20dish.jpg)
-![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/defective-dishesDALL%C2%B7E%202022-08-06%2015.10.59%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20Like%20people%20who%20have%20moved%20from%20a%20neighborhood,%20if%20they%20have%20some%20dish.jpg)
-![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/defective-dishesDALL%C2%B7E%202022-08-06%2015.11.02%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20Like%20people%20who%20have%20moved%20from%20a%20neighborhood,%20if%20they%20have%20some%20dish.jpg)
-![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/defective-dishesDALL%C2%B7E%202022-08-06%2015.11.35%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20Like%20people%20who%20have%20moved%20from%20a%20neighborhood,%20if%20they%20have%20some%20dish.jpg)
-![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/defective-dishesDALL%C2%B7E%202022-08-06%2015.11.38%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20Like%20people%20who%20have%20moved%20from%20a%20neighborhood,%20if%20they%20have%20some%20dish.jpg)
-![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/defective-dishesDALL%C2%B7E%202022-08-06%2015.12.26%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20Like%20people%20who%20have%20moved%20from%20a%20neighborhood,%20if%20they%20have%20some%20dish.jpg)
-![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/defective-dishesDALL%C2%B7E%202022-08-06%2015.12.48%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20Like%20people%20who%20have%20moved%20from%20a%20neighborhood,%20if%20they%20have%20some%20dish.jpg)
-![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/defective-dishesDALL%C2%B7E%202022-08-06%2015.13.01%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20Like%20people%20who%20have%20moved%20from%20a%20neighborhood,%20if%20they%20have%20some%20dish.jpg)
-![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/defective-dishesDALL%C2%B7E%202022-08-06%2015.13.06%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20Like%20people%20who%20have%20moved%20from%20a%20neighborhood,%20if%20they%20have%20some%20dish.jpg)
-![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/defective-dishesDALL%C2%B7E%202022-08-06%2015.13.10%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20Like%20people%20who%20have%20moved%20from%20a%20neighborhood,%20if%20they%20have%20some%20dish.jpg)
-![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/defective-dishesDALL%C2%B7E%202022-08-06%2015.13.18%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20Like%20people%20who%20have%20moved%20from%20a%20neighborhood,%20if%20they%20have%20some%20dish.jpg%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/defective-dishes/DALL%C2%B7E%202022-08-06%2015.10.55%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20Like%20people%20who%20have%20moved%20from%20a%20neighborhood,%20if%20they%20have%20some%20dish.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/defective-dishes/DALL%C2%B7E%202022-08-06%2015.10.59%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20Like%20people%20who%20have%20moved%20from%20a%20neighborhood,%20if%20they%20have%20some%20dish.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/defective-dishes/DALL%C2%B7E%202022-08-06%2015.11.02%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20Like%20people%20who%20have%20moved%20from%20a%20neighborhood,%20if%20they%20have%20some%20dish.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/defective-dishes/DALL%C2%B7E%202022-08-06%2015.11.35%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20Like%20people%20who%20have%20moved%20from%20a%20neighborhood,%20if%20they%20have%20some%20dish.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/defective-dishes/DALL%C2%B7E%202022-08-06%2015.11.38%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20Like%20people%20who%20have%20moved%20from%20a%20neighborhood,%20if%20they%20have%20some%20dish.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/defective-dishes/DALL%C2%B7E%202022-08-06%2015.12.26%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20Like%20people%20who%20have%20moved%20from%20a%20neighborhood,%20if%20they%20have%20some%20dish.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/defective-dishes/DALL%C2%B7E%202022-08-06%2015.12.48%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20Like%20people%20who%20have%20moved%20from%20a%20neighborhood,%20if%20they%20have%20some%20dish.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/defective-dishes/DALL%C2%B7E%202022-08-06%2015.13.01%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20Like%20people%20who%20have%20moved%20from%20a%20neighborhood,%20if%20they%20have%20some%20dish.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/defective-dishes/DALL%C2%B7E%202022-08-06%2015.13.06%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20Like%20people%20who%20have%20moved%20from%20a%20neighborhood,%20if%20they%20have%20some%20dish.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/defective-dishes/DALL%C2%B7E%202022-08-06%2015.13.10%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20Like%20people%20who%20have%20moved%20from%20a%20neighborhood,%20if%20they%20have%20some%20dish.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/defective-dishes/DALL%C2%B7E%202022-08-06%2015.13.18%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20Like%20people%20who%20have%20moved%20from%20a%20neighborhood,%20if%20they%20have%20some%20dish.jpg)
 
 {{< highlight text "linenos=table, linenostart=1" >}}
 This is the manifestation of the Father and         |
@@ -566,8 +566,8 @@ emanations.                                         |
 They knew that they stem from him as children       |
 from a perfect man.                                 |
                                                     |
-They knew that they had not yet received form       |
-nor had they yet received a name, every one of      |
+They knew that they had not yet received form       | God knows our True name; An everlasting name.
+nor had they yet received a name, every one of      | https://mullikine.github.io/posts/new-name/
 which the Father produces.                          |
                                                     |
 If they at that time receive form of his            |
@@ -586,8 +586,8 @@ him to come into being.                             |
 Those who do not yet exist are ignorant of him      |
 who created them.                                   |
                                                     |
-I do not say, then, that those who do not yet       |
-exist are nothing.                                  |
+I do not say, then, that those who do not yet       | Psychic
+exist are nothing.                                  | https://mullikine.github.io/posts/the-robbers/
                                                     |
 But they are in him who will desire that they       |
 exist when he pleases, like the event which is      |
@@ -609,9 +609,20 @@ nonexistent.                                        |
 exist.                                              |
 {{< /highlight >}}
 
+-   [GPT-3: A New Name // Bodacious Blog](https://mullikine.github.io/posts/new-name/)
+-   [The Robbers of Light // Bodacious Blog](https://mullikine.github.io/posts/the-robbers/)
+
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/children-from-a-perfect-man/DALL%C2%B7E%202022-08-06%2015.29.13%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20children%20from%20a%20perfect%20man.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/children-from-a-perfect-man/DALL%C2%B7E%202022-08-06%2015.29.48%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20children%20from%20a%20perfect%20man.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/children-from-a-perfect-man/DALL%C2%B7E%202022-08-06%2015.29.56%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20children%20from%20a%20perfect%20man.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/children-from-a-perfect-man/DALL%C2%B7E%202022-08-06%2015.30.05%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20children%20from%20a%20perfect%20man.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/children-from-a-perfect-man/DALL%C2%B7E%202022-08-06%2015.30.34%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20children%20from%20a%20perfect%20man.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/children-from-a-perfect-man/DALL%C2%B7E%202022-08-06%2015.30.45%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20children%20from%20a%20perfect%20man.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/children-from-a-perfect-man/DALL%C2%B7E%202022-08-06%2015.30.55%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20children%20from%20a%20perfect%20man.jpg)
+
 {{< highlight text "linenos=table, linenostart=1" >}}
-What, then, is that which he wants him to           |
-think? "I am like the shadows and phantoms of       |
+What, then, is that which he wants him to           | Hylic
+think? "I am like the shadows and phantoms of       | https://mullikine.github.io/posts/the-robbers/
 the night." When morning comes, this one knows      |
 that the fear which he had experienced was          |
 nothing.                                            |
@@ -668,6 +679,17 @@ awakens.                                            |
 Indeed, blessed is he who has opened the eyes       |
 of the blind.                                       |
 {{< /highlight >}}
+
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/shadows-and-phantoms/DALL%C2%B7E%202022-08-06%2015.24.17%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20I%20am%20like%20the%20shadows%20and%20phantoms%20of%20the%20night..jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/shadows-and-phantoms/DALL%C2%B7E%202022-08-06%2015.24.24%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20I%20am%20like%20the%20shadows%20and%20phantoms%20of%20the%20night..jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/shadows-and-phantoms/DALL%C2%B7E%202022-08-06%2015.24.46%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20I%20am%20like%20the%20shadows%20and%20phantoms%20of%20the%20night..jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/shadows-and-phantoms/DALL%C2%B7E%202022-08-06%2015.24.49%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20I%20am%20like%20the%20shadows%20and%20phantoms%20of%20the%20night..jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/shadows-and-phantoms/DALL%C2%B7E%202022-08-06%2015.25.14%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20I%20am%20like%20the%20shadows%20and%20phantoms%20of%20the%20night..jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/shadows-and-phantoms/DALL%C2%B7E%202022-08-06%2015.26.02%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20I%20am%20like%20the%20shadows%20and%20phantoms%20of%20the%20night..jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/shadows-and-phantoms/DALL%C2%B7E%202022-08-06%2015.26.41%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20I%20am%20like%20the%20shadows%20and%20phantoms%20of%20the%20night..jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/shadows-and-phantoms/DALL%C2%B7E%202022-08-06%2015.26.45%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20I%20am%20like%20the%20shadows%20and%20phantoms%20of%20the%20night..jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/shadows-and-phantoms/DALL%C2%B7E%202022-08-06%2015.26.49%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20I%20am%20like%20the%20shadows%20and%20phantoms%20of%20the%20night..jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/shadows-and-phantoms/DALL%C2%B7E%202022-08-06%2015.26.54%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20I%20am%20like%20the%20shadows%20and%20phantoms%20of%20the%20night..jpg)
 
 {{< highlight text "linenos=table, linenostart=1" >}}
 And the Spirit came to him in haste when it         |
