@@ -11,20 +11,26 @@ weight = 10
 {{< highlight text "linenos=table, linenostart=1" >}}
 The gospel of truth is joy to those who have        |
 received from the Father of truth the gift of       |
-knowing him by the power of the Logos, who has      |
-come from the Pleroma and who is in the             |
+knowing him by the power of the Logos, who has      | The Logos is the aeon of the Word.
+come from the Pleroma and who is in the             | The Pleroma is Heaven.
 thought and the mind of the Father; he it is        |
-who is called "the Savior," since that is the       |
+who is called "the Savior," since that is the       | The Word is Saviour (Jesus).
 name of the work which he must do for the           |
 redemption of those who have not known the          |
 Father.                                             |
 {{< /highlight >}}
 
+The description of the aeons
+: [Aeonology // Bodacious Blog](https://mullikine.github.io/posts/aeonology/)
+
+The light of God is the aeons combined
+: [The Robbers of Light // Bodacious Blog](https://mullikine.github.io/posts/the-robbers/)
+
 {{< figure src="https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/gospel-of-truth-joy/DALL%C2%B7E%202022-08-06%2013.34.57%20-%20The%20gospel%20of%20truth%20is%20joy%20to%20those%20who%20have%20received%20from%20the%20Father%20of%20truth%20the%20gift%20of%20knowing%20him%20by%20the%20power%20of%20the%20Logos,%20who%20has%20come%20from%20th.jpg" >}}
 
 {{< highlight text "linenos=table, linenostart=1" >}}
 For the name of the gospel is the                   |
-manifestation of hope, since that is the            |
+manifestation of hope, since that is the            | Hope, in the Dodecad, is another aeon.
 discovery of those who seek him, because the        |
 All sought him from whom it had come forth.         |
                                                     |
@@ -61,6 +67,9 @@ forgetfulness and this figure of falsehood,         |
 whereas this established truth is unchanging,       |
 unperturbed and completely beautiful.               |
 {{< /highlight >}}
+
+-   [The Jail of the Mind and Loss of Lifeforce // Bodacious Blog](https://mullikine.github.io/posts/jail-of-the-mind/)
+-   [I am Free - Peter Gabriel // Bodacious Blog](https://mullikine.github.io/posts/i-am-free/)
 
 ![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/error-became-strong/DALL%C2%B7E%202022-08-06%2013.50.10%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule.%20error%20became%20strong.%20But%20it%20worked%20on%20its%20hylic%20substance%20vainly,%20because%20it%20did%20not.png)
 ![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/error-became-strong/DALL%C2%B7E%202022-08-06%2013.50.15%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule.%20error%20became%20strong.%20But%20it%20worked%20on%20its%20hylic%20substance%20vainly,%20because%20it%20did%20not.png)
