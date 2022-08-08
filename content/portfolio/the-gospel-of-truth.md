@@ -1335,3 +1335,4 @@ Children of this kind are those whom he loves.      |
 
 -   [The Pleroma and the Aeons - Gnosticism Explained](https://gnosticismexplained.org/the-pleroma-and-the-aeons/)
 -   [The Pathway to Gnosis and Reconciliation // Bodacious Blog](https://mullikine.github.io/posts/the-pathway-to-gnosis/)
+-   [The Gospel of Truth as the Gospel of the Saved Saviors in: Gnosis: Journal of Gnostic Studies Volume 6 Issue 1 {2021}](https://brill.com/view/journals/gnos/6/1/article-p31%5F2.xml)
