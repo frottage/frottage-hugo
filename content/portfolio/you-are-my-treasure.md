@@ -4,7 +4,7 @@ author = ["Shane Mulligan"]
 date = 2022-08-08T00:00:00+12:00
 keywords = ["melee"]
 draft = false
-image = "https://raw.githubusercontent.com/frottage/dall-e-2-generations/master/how-to-draw-a-picture/DALL·E 2022-07-23 19.16.40 - To begin, select a suitable piece of paper for use, and apply pencil to same. Then, select a pencil sharpener and sharpen pencil to a suitable degree..jpg"
+image = "https://raw.githubusercontent.com/frottage/dall-e-2-generations/master/you-my-treasure/pearl-treasure-chest/DALL%C2%B7E%202022-08-09%2004.22.37%20-%20a%20pearl%20on%20the%20sand%20at%20the%20beach%2C%20inside%20a%20treasure%20chest.%20pencil%20and%20watercolour.jpg"
 weight = 10
 +++
 
