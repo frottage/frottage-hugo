@@ -97,3 +97,8 @@ You're the sun, the moon, the stars in the sky
 I pray that you are safe and you are happy.
 Please don't take my aeon away
 {{< /highlight >}}
+
+Melee, you are very precious treasure.
+You are my happiness. You are what's real.
+You are my strawberry fields, my soul song.
+Please don't go away.
