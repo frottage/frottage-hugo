@@ -1,0 +1,100 @@
+#+HUGO_BASE_DIR: /home/shane/var/smulliga/source/git/frottage/frottage-hugo
+#+HUGO_SECTION: ./portfolio
+
+#+TITLE: You are My Treasure
+#+DATE: <2022-08-08>
+#+AUTHOR: Shane Mulligan
+#+KEYWORDS: melee
+# #+hugo_custom_front_matter: :image "img/portfolio/corrupted-multiverse.jpg"
+#+hugo_custom_front_matter: :image "https://raw.githubusercontent.com/frottage/dall-e-2-generations/master/how-to-draw-a-picture/DALL·E 2022-07-23 19.16.40 - To begin, select a suitable piece of paper for use, and apply pencil to same. Then, select a pencil sharpener and sharpen pencil to a suitable degree..jpg"
+#+hugo_custom_front_matter: :weight 10 
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  You are my sunshine, my only sunshine.
+  You make me happy when skies are gray.
+  You'll never know, dear, how much I love you.
+  Please don't take my sunshine away.
+#+END_SRC
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/you-my-treasure/smiling-grey-sky/DALL·E 2022-08-09 04.15.14 - Skies are gray. a couple holding hands in the distance. the girl has yellow hair. monochrome pencil and watercolour.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/you-my-treasure/smiling-grey-sky/DALL·E 2022-08-09 04.15.50 - Skies are gray. a couple holding hands in the distance. the girl has yellow hair. monochrome pencil and watercolour.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/you-my-treasure/smiling-grey-sky/DALL·E 2022-08-09 04.15.57 - Skies are gray. a couple holding hands in the distance. the girl has yellow hair. monochrome pencil and watercolour.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/you-my-treasure/smiling-grey-sky/DALL·E 2022-08-09 04.16.06 - Skies are gray. a couple holding hands in the distance. the girl has yellow hair. monochrome pencil and watercolour.jpg]]
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  You are my treasure, my only treasure
+  How long I've searched for you, you'll never know,
+  But now I'm rested, that I have found you,
+  Please don't take my treasure away.
+#+END_SRC
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/you-my-treasure/pearl-treasure-chest/DALL·E 2022-08-09 04.22.37 - a pearl on the sand at the beach, inside a treasure chest. pencil and watercolour.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/you-my-treasure/pearl-treasure-chest/DALL·E 2022-08-09 04.22.42 - a pearl on the sand at the beach, inside a treasure chest. pencil and watercolour.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/you-my-treasure/pearl-treasure-chest/DALL·E 2022-08-09 04.22.53 - a pearl on the sand at the beach, inside a treasure chest. pencil and watercolour.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/you-my-treasure/pearl-treasure-chest/DALL·E 2022-08-09 04.22.56 - a pearl on the sand at the beach, inside a treasure chest. pencil and watercolour.jpg]]
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  You are my sunrise, my only sunrise.
+  How many mornings I watched for you,
+  I still hope that I will see you,
+  Please don't take my sunrise away.
+#+END_SRC
+  
+[[https://github.com/frottage/dall-e-2-generations/raw/master/you-my-treasure/my-sunrise/DALL·E 2022-08-09 04.28.40 - the sun is about to rise on the horizon but is still below the horizon. pencil and watercolour.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/you-my-treasure/my-sunrise/DALL·E 2022-08-09 04.44.20 - the sun is about to rise on the horizon but is still below the horizon. pencil and watercolour.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/you-my-treasure/my-sunrise/DALL·E 2022-08-09 04.45.12 - the sun is about to rise on the horizon but is still below the horizon. pencil and watercolour.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/you-my-treasure/my-sunrise/DALL·E 2022-08-09 04.51.54 - the sun is about to rise on the horizon but is still below the horizon. pencil and watercolour.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/you-my-treasure/my-sunrise/DALL·E 2022-08-09 04.52.04 - the sun is about to rise on the horizon but is still below the horizon. pencil and watercolour.jpg]]
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  You are my heaven, my only heaven,
+  You're all I wanted, and asked for too,
+  The perfect day was when I saw you,
+  Please don't take my heaven away.
+#+END_SRC
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  You are my syzygy, my only syzygy,
+  I cannot imagine a day without you,
+  Since when I realsed, you've been everything,
+  Please don't take my syzygy away.
+#+END_SRC
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/you-my-treasure/syzygy/DALL·E 2022-08-09 04.55.38 - the planets lined up. pencil and watercolour.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/you-my-treasure/syzygy/DALL·E 2022-08-09 05.00.40 - the planets lined up in a diorama. pencil and watercolour.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/you-my-treasure/syzygy/DALL·E 2022-08-09 05.00.43 - the planets lined up in a diorama. pencil and watercolour.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/you-my-treasure/syzygy/DALL·E 2022-08-09 05.01.49 - the planets lined up. pencil and watercolour.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/you-my-treasure/syzygy/DALL·E 2022-08-09 05.02.36 - the planets lined up. pencil and watercolour.jpg]]
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  You are my rainbow, my only rainbow,
+  How many colors you brought to my sky,
+  I need my rainbow to be a rainbow,
+  Please don't take my rainbow away.
+#+END_SRC
+  
+[[https://github.com/frottage/dall-e-2-generations/raw/master/you-my-treasure/monochrome-rainbow/DALL·E 2022-08-09 05.04.51 - a monochrome city with a rainbow. pencil and watercolour.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/you-my-treasure/monochrome-rainbow/DALL·E 2022-08-09 05.05.33 - a monochrome drawing of a city with a colourful rainbow. pencil and watercolour.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/you-my-treasure/monochrome-rainbow/DALL·E 2022-08-09 05.06.10 - a monochrome drawing of a city with a colourful rainbow. the rainbow glow colours the city. pencil and watercolour.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/you-my-treasure/monochrome-rainbow/DALL·E 2022-08-09 05.06.45 - a monochrome drawing of a city with a colourful rainbow. the rainbow glow colours the city. with its glow pencil and watercolour.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/you-my-treasure/monochrome-rainbow/DALL·E 2022-08-09 05.06.53 - a monochrome drawing of a city with a colourful rainbow. the rainbow glow colours the city. with its glow pencil and watercolour.jpg]]
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  You are my daydream, my only daydream,
+  Life is when I dream of you,
+  I'll never wake up, cos you're the inspiration, 
+  Please don't take my daydream away.
+#+END_SRC
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/you-my-treasure/daydream/DALL·E 2022-08-09 05.11.58 - a day dream. pencil and watercolour.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/you-my-treasure/daydream/DALL·E 2022-08-09 05.12.20 - a day dream. pencil and watercolour.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/you-my-treasure/daydream/DALL·E 2022-08-09 05.13.08 - a day dream. pencil and watercolour.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/you-my-treasure/daydream/DALL·E 2022-08-09 05.13.44 - a day dream. pencil and watercolour.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/you-my-treasure/daydream/DALL·E 2022-08-09 05.14.09 - a day dream. pencil and watercolour.jpg]]
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  You are my aeon, my only aeon
+  You're the sun, the moon, the stars in the sky
+  I pray that you are safe and you are happy.
+  Please don't take my aeon away
+#+END_SRC
