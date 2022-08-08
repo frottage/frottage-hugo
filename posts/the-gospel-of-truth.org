@@ -1334,3 +1334,4 @@ A page of colourful scripture with caligraphy, majuscule, and pictures.
 ** Links
 - [[https://gnosticismexplained.org/the-pleroma-and-the-aeons/][The Pleroma and the Aeons - Gnosticism Explained]]
 - [[https://mullikine.github.io/posts/the-pathway-to-gnosis/][The Pathway to Gnosis and Reconciliation // Bodacious Blog]]
+- [[https://brill.com/view/journals/gnos/6/1/article-p31_2.xml][The Gospel of Truth as the Gospel of the Saved Saviors in: Gnosis: Journal of Gnostic Studies Volume 6 Issue 1 {2021}]]
