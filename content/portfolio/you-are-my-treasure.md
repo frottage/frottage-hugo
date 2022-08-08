@@ -55,7 +55,7 @@ Please don't take my heaven away.
 {{< highlight text "linenos=table, linenostart=1" >}}
 You are my syzygy, my only syzygy,
 I cannot imagine a day without you,
-Since when I realsed, you've been everything,
+Since when I realsed, you've been the beginning,
 Please don't take my syzygy away.
 {{< /highlight >}}
 
