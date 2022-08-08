@@ -20,6 +20,10 @@ Please don't take my sunshine away.
 ![](https://github.com/frottage/dall-e-2-generations/raw/master/you-my-treasure/smiling-grey-sky/DALL%C2%B7E%202022-08-09%2004.15.57%20-%20Skies%20are%20gray.%20a%20couple%20holding%20hands%20in%20the%20distance.%20the%20girl%20has%20yellow%20hair.%20monochrome%20pencil%20and%20watercolour.jpg)
 ![](https://github.com/frottage/dall-e-2-generations/raw/master/you-my-treasure/smiling-grey-sky/DALL%C2%B7E%202022-08-09%2004.16.06%20-%20Skies%20are%20gray.%20a%20couple%20holding%20hands%20in%20the%20distance.%20the%20girl%20has%20yellow%20hair.%20monochrome%20pencil%20and%20watercolour.jpg)
 
+{{< youtube 1moWxHdTkT0 >}}
+
+I made some verses.
+
 {{< highlight text "linenos=table, linenostart=1" >}}
 You are my treasure, my only treasure
 How long I've searched for you, you'll never know,
