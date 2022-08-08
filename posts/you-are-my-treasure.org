@@ -56,7 +56,7 @@
 #+BEGIN_SRC text -n :async :results verbatim code
   You are my syzygy, my only syzygy,
   I cannot imagine a day without you,
-  Since when I realsed, you've been everything,
+  Since when I realsed, you've been the beginning,
   Please don't take my syzygy away.
 #+END_SRC
 
