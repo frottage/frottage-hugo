@@ -6,7 +6,7 @@
 #+AUTHOR: Shane Mulligan
 #+KEYWORDS: melee
 # #+hugo_custom_front_matter: :image "img/portfolio/corrupted-multiverse.jpg"
-#+hugo_custom_front_matter: :image "https://raw.githubusercontent.com/frottage/dall-e-2-generations/master/how-to-draw-a-picture/DALL·E 2022-07-23 19.16.40 - To begin, select a suitable piece of paper for use, and apply pencil to same. Then, select a pencil sharpener and sharpen pencil to a suitable degree..jpg"
+#+hugo_custom_front_matter: :image "https://raw.githubusercontent.com/frottage/dall-e-2-generations/master/you-my-treasure/pearl-treasure-chest/DALL%C2%B7E%202022-08-09%2004.22.37%20-%20a%20pearl%20on%20the%20sand%20at%20the%20beach%2C%20inside%20a%20treasure%20chest.%20pencil%20and%20watercolour.jpg"
 #+hugo_custom_front_matter: :weight 10 
 
 #+BEGIN_SRC text -n :async :results verbatim code
