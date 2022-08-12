@@ -9,3 +9,48 @@
 #+hugo_custom_front_matter: :image "https://raw.githubusercontent.com/frottage/dall-e-2-generations/master/corrupted-multiverse/DALL%C2%B7E%202022-07-24%2020.40.39%20-%20The%20discordance%20of%20the%20result%20of%20man's%20original%20sin%20is%20that%20we%20find%20ourselves%20in%20a%20corrupted%20part%20of%20the%20multiverse.%20Digital%20Art.jpg"
 #+hugo_custom_front_matter: :weight 10 
 
+#+BEGIN_SRC text -n :async :results verbatim code
+  strawberry brownies. Digital Art
+#+END_SRC
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/strawberry-brownies/DALL·E 2022-08-13 11.45.03 - strawberry brownies. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/strawberry-brownies/DALL·E 2022-08-13 11.45.06 - strawberry brownies. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/strawberry-brownies/DALL·E 2022-08-13 11.45.09 - strawberry brownies. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/strawberry-brownies/DALL·E 2022-08-13 11.45.12 - strawberry brownies. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/strawberry-brownies/DALL·E 2022-08-13 11.45.37 - strawberry brownies. Digital Art.jpg]]
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  strawberry brownies on a table under a tree.
+  Birds drink from a teacup hanging from the
+  tree. There is a white rose garden. Digital
+  Art
+#+END_SRC
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/strawberry-brownies/DALL·E 2022-08-13 11.47.32 - strawberry brownies on a table under a tree. Birds drink from a teacup hanging from the tree. There is a white rose garden. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/strawberry-brownies/DALL·E 2022-08-13 11.47.34 - strawberry brownies on a table under a tree. Birds drink from a teacup hanging from the tree. There is a white rose garden. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/strawberry-brownies/DALL·E 2022-08-13 11.47.37 - strawberry brownies on a table under a tree. Birds drink from a teacup hanging from the tree. There is a white rose garden. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/strawberry-brownies/DALL·E 2022-08-13 11.47.40 - strawberry brownies on a table under a tree. Birds drink from a teacup hanging from the tree. There is a white rose garden. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/strawberry-brownies/DALL·E 2022-08-13 11.48.00 - strawberry brownies on a table under a tree. Birds drink from a teacup hanging from the tree. There is a white rose garden. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/strawberry-brownies/DALL·E 2022-08-13 11.48.03 - strawberry brownies on a table under a tree. Birds drink from a teacup hanging from the tree. There is a white rose garden. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/strawberry-brownies/DALL·E 2022-08-13 11.48.07 - strawberry brownies on a table under a tree. Birds drink from a teacup hanging from the tree. There is a white rose garden. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/strawberry-brownies/DALL·E 2022-08-13 11.48.11 - strawberry brownies on a table under a tree. Birds drink from a teacup hanging from the tree. There is a white rose garden. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/strawberry-brownies/DALL·E 2022-08-13 11.48.41 - strawberry brownies on a table under a tree. Birds drink from a teacup hanging from the tree. There is a white rose garden. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/strawberry-brownies/DALL·E 2022-08-13 11.48.44 - strawberry brownies on a table under a tree. Birds drink from a teacup hanging from the tree. There is a white rose garden. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/strawberry-brownies/DALL·E 2022-08-13 11.48.49 - strawberry brownies on a table under a tree. Birds drink from a teacup hanging from the tree. There is a white rose garden. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/strawberry-brownies/DALL·E 2022-08-13 11.48.53 - strawberry brownies on a table under a tree. Birds drink from a teacup hanging from the tree. There is a white rose garden. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/strawberry-brownies/DALL·E 2022-08-13 11.49.13 - strawberry brownies on a table under a tree. Birds drink from a teacup hanging from the tree. There is a white rose garden. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/strawberry-brownies/DALL·E 2022-08-13 11.49.16 - strawberry brownies on a table under a tree. Birds drink from a teacup hanging from the tree. There is a white rose garden. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/strawberry-brownies/DALL·E 2022-08-13 11.49.20 - strawberry brownies on a table under a tree. Birds drink from a teacup hanging from the tree. There is a white rose garden. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/strawberry-brownies/DALL·E 2022-08-13 11.49.23 - strawberry brownies on a table under a tree. Birds drink from a teacup hanging from the tree. There is a white rose garden. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/strawberry-brownies/DALL·E 2022-08-13 11.49.50 - strawberry brownies on a table under a tree. Birds drink from a teacup hanging from the tree. There is a white rose garden. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/strawberry-brownies/DALL·E 2022-08-13 11.49.52 - strawberry brownies on a table under a tree. Birds drink from a teacup hanging from the tree. There is a white rose garden. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/strawberry-brownies/DALL·E 2022-08-13 11.49.55 - strawberry brownies on a table under a tree. Birds drink from a teacup hanging from the tree. There is a white rose garden. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/strawberry-brownies/DALL·E 2022-08-13 11.49.59 - strawberry brownies on a table under a tree. Birds drink from a teacup hanging from the tree. There is a white rose garden. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/strawberry-brownies/DALL·E 2022-08-13 11.50.21 - strawberry brownies on a table under a tree. Birds drink from a teacup hanging from the tree. There is a white rose garden. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/strawberry-brownies/DALL·E 2022-08-13 11.50.23 - strawberry brownies on a table under a tree. Birds drink from a teacup hanging from the tree. There is a white rose garden. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/strawberry-brownies/DALL·E 2022-08-13 11.50.26 - strawberry brownies on a table under a tree. Birds drink from a teacup hanging from the tree. There is a white rose garden. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/strawberry-brownies/DALL·E 2022-08-13 11.50.29 - strawberry brownies on a table under a tree. Birds drink from a teacup hanging from the tree. There is a white rose garden. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/strawberry-brownies/DALL·E 2022-08-13 11.50.54 - strawberry brownies on a table under a tree. Birds drink from a teacup hanging from the tree. There is a white rose garden. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/strawberry-brownies/DALL·E 2022-08-13 11.50.56 - strawberry brownies on a table under a tree. Birds drink from a teacup hanging from the tree. There is a white rose garden. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/strawberry-brownies/DALL·E 2022-08-13 11.50.59 - strawberry brownies on a table under a tree. Birds drink from a teacup hanging from the tree. There is a white rose garden. Digital Art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/strawberry-brownies/DALL·E 2022-08-13 11.51.03 - strawberry brownies on a table under a tree. Birds drink from a teacup hanging from the tree. There is a white rose garden. Digital Art.jpg]]
