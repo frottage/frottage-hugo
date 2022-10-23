@@ -4,6 +4,8 @@ author = ["Shane Mulligan"]
 date = 2022-10-23T00:00:00+13:00
 keywords = ["dalle", "art", "faith"]
 draft = false
+image = "https://raw.githubusercontent.com/frottage/dall-e-2-generations/master/ireland-rain/DALL%C2%B7E%202022-10-23%2012.21.57%20-%20ireland%20rain.%20painting%20in%20a%20gallery.jpg"
+weight = 10
 +++
 
 God can prompt us to do things:
