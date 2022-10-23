@@ -5,14 +5,11 @@
 #+DATE: <2022-08-06>
 #+AUTHOR: Shane Mulligan
 #+KEYWORDS: valentinian faith dalle
-# #+hugo_custom_front_matter: :image "img/portfolio/corrupted-multiverse.jpg"
-#+hugo_custom_front_matter: :image "https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/manifestation-of-hope/DALL·E 2022-08-06 13.46.59 - A page of colourful gnostic scripture with caligraphy, majuscule. the name of the gospel is the manifestation of hope..jpg"
-#+hugo_custom_front_matter: :weight 10 
 
 # Pencil and watercolour. Artist's impression
 
 #+BEGIN_SRC text -n :async :results verbatim code
-  The gospel of truth is joy to those who have        |
+  The gospel of truth is joy to those who have        | https://mullikine.github.io/posts/heavenly-father/
   received from the Father of truth the gift of       |
   knowing him by the power of the Logos, who has      | The Logos is the aeon of the Word.
   come from the Pleroma and who is in the             | The Pleroma is Heaven.
@@ -23,6 +20,7 @@
   Father.                                             |
 #+END_SRC
 
++ If the Jesus is the Word, then the visions come from Him or from the Father through Him :: [[https://mullikine.github.io/posts/visions/][Visions and the Word of God // Bodacious Blog]]
 + The description of the aeons :: [[https://mullikine.github.io/posts/aeonology/][Aeonology // Bodacious Blog]]
 + The light of God is the aeons combined :: [[https://mullikine.github.io/posts/the-robbers/][The Robbers of Light // Bodacious Blog]]
 
@@ -100,6 +98,8 @@
   the Father, from that moment on forgetfulness       |
   will cease to exist.                                |
 #+END_SRC
+
+{{< youtube D-PjhEh0Ws0 >}}
 
 [[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/the-middle/DALL·E 2022-08-06 13.51.51 - A page of colourful gnostic scripture with caligraphy, majuscule. since it had no root, it was in a fog as regards the Father, engaged in preparing wo.jpg]]
 [[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/the-middle/DALL·E 2022-08-06 13.51.54 - A page of colourful gnostic scripture with caligraphy, majuscule. since it had no root, it was in a fog as regards the Father, engaged in preparing wo.jpg]]
@@ -1017,6 +1017,14 @@
   taken hold of.                                      |
 #+END_SRC
 
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/physician/DALL·E 2022-10-20 22.09.31 - A page of colourful gnostic scripture with caligraphy, majuscule, and pictures. The physician hurries to the place in which there is sickness..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/physician/DALL·E 2022-10-20 22.09.35 - A page of colourful gnostic scripture with caligraphy, majuscule, and pictures. The physician hurries to the place in which there is sickness..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/physician/DALL·E 2022-10-20 22.09.39 - A page of colourful gnostic scripture with caligraphy, majuscule, and pictures. The physician hurries to the place in which there is sickness..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/physician/DALL·E 2022-10-20 22.10.59 - The physician hurries to the place in which there is sickness. Gnostic book artwork..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/physician/DALL·E 2022-10-20 22.11.04 - The physician hurries to the place in which there is sickness. Gnostic book artwork..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/physician/DALL·E 2022-10-20 22.11.09 - The physician hurries to the place in which there is sickness. Gnostic book artwork..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/physician/DALL·E 2022-10-20 22.11.26 - The physician hurries to the place in which there is sickness. Gnostic book artwork..jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/physician/DALL·E 2022-10-20 22.11.44 - The physician hurries to the place in which there is sickness. Gnostic book artwork..jpg]]
 
 #+BEGIN_SRC text -n :async :results verbatim code
   He revealed himself as a Pleroma, i.e., the         |
@@ -1059,7 +1067,10 @@
   And his Paradise is his place of rest.              |
 #+END_SRC
 
-A page of colourful scripture with caligraphy, majuscule, and pictures.
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/rest/DALL·E 2022-10-20 22.15.17 - his Paradise is his place of rest. watercolour and pencil.png]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/rest/DALL·E 2022-10-20 22.15.23 - his Paradise is his place of rest. watercolour and pencil.png]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/rest/DALL·E 2022-10-20 22.15.30 - his Paradise is his place of rest. watercolour and pencil.png]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/rest/DALL·E 2022-10-20 22.16.28 - his Paradise is his place of rest. watercolour and pencil.png]]
 
 #+BEGIN_SRC text -n :async :results verbatim code
   This is the perfection in the thought of the        |
@@ -1084,10 +1095,10 @@ A page of colourful scripture with caligraphy, majuscule, and pictures.
   will that the Father is at rest and with which      |
   he is pleased.                                      |
                                                       |
-  Nothing happens without him, nor does anything      |
-  occur without the will of the Father.               |
-                                                      |
-  But his will is incomprehensible.                   |
+  Nothing happens without him, nor does anything      | When the visions cease, I fast and pray.
+  occur without the will of the Father.               | When God gives a vision or an out of body
+                                                      | intimation, God is making things happen.
+  But his will is incomprehensible.                   | Just be willing.
                                                       |
   His will is his mark, but no one can know it,       |
   nor is it possible for them to concentrate on       |
@@ -1112,6 +1123,9 @@ A page of colourful scripture with caligraphy, majuscule, and pictures.
   the joy of his name.                                |
 #+END_SRC
 
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/words-of-reflection/DALL·E 2022-10-20 22.39.47 - These are the words of his reflection. Pencil and watercolor.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/words-of-reflection/DALL·E 2022-10-20 22.41.39 - This is the perfection in the thought of the Father and these are the words of his reflection. Pencil and watercolor.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/words-of-reflection/DALL·E 2022-10-20 22.41.41 - This is the perfection in the thought of the Father and these are the words of his reflection. Pencil and watercolor.jpg]]
 
 #+BEGIN_SRC text -n :async :results verbatim code
   And the name of the Father is the Son.              |
@@ -1139,6 +1153,7 @@ A page of colourful scripture with caligraphy, majuscule, and pictures.
   Thus, then, the name is great.                      |
 #+END_SRC
 
+# A page of colourful gnostic scripture with caligraphy, majuscule, and pictures.
 
 #+BEGIN_SRC text -n :async :results verbatim code
   Who, then, has been able to pronounce a name        |
@@ -1332,6 +1347,7 @@ A page of colourful scripture with caligraphy, majuscule, and pictures.
 #+END_SRC
 
 ** Links
+- [[https://mullikine.github.io/posts/heavenly-father/][Heavenly Father // Bodacious Blog]]
 - [[https://gnosticismexplained.org/the-pleroma-and-the-aeons/][The Pleroma and the Aeons - Gnosticism Explained]]
 - [[https://mullikine.github.io/posts/the-pathway-to-gnosis/][The Pathway to Gnosis and Reconciliation // Bodacious Blog]]
 - [[https://brill.com/view/journals/gnos/6/1/article-p31_2.xml][The Gospel of Truth as the Gospel of the Saved Saviors in: Gnosis: Journal of Gnostic Studies Volume 6 Issue 1 {2021}]]
