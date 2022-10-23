@@ -4,12 +4,10 @@ author = ["Shane Mulligan"]
 date = 2022-08-06T00:00:00+12:00
 keywords = ["valentinian", "faith", "dalle"]
 draft = false
-image = "https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/manifestation-of-hope/DALL·E 2022-08-06 13.46.59 - A page of colourful gnostic scripture with caligraphy, majuscule. the name of the gospel is the manifestation of hope..jpg"
-weight = 10
 +++
 
 {{< highlight text "linenos=table, linenostart=1" >}}
-The gospel of truth is joy to those who have        |
+The gospel of truth is joy to those who have        | https://mullikine.github.io/posts/heavenly-father/
 received from the Father of truth the gift of       |
 knowing him by the power of the Logos, who has      | The Logos is the aeon of the Word.
 come from the Pleroma and who is in the             | The Pleroma is Heaven.
@@ -19,6 +17,9 @@ name of the work which he must do for the           |
 redemption of those who have not known the          |
 Father.                                             |
 {{< /highlight >}}
+
+If the Jesus is the Word, then the visions come from Him or from the Father through Him
+: [Visions and the Word of God // Bodacious Blog](https://mullikine.github.io/posts/visions/)
 
 The description of the aeons
 : [Aeonology // Bodacious Blog](https://mullikine.github.io/posts/aeonology/)
@@ -100,6 +101,8 @@ not know the Father, if they then come to know      |
 the Father, from that moment on forgetfulness       |
 will cease to exist.                                |
 {{< /highlight >}}
+
+{{< youtube D-PjhEh0Ws0 >}}
 
 ![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/the-middle/DALL%C2%B7E%202022-08-06%2013.51.51%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule.%20since%20it%20had%20no%20root,%20it%20was%20in%20a%20fog%20as%20regards%20the%20Father,%20engaged%20in%20preparing%20wo.jpg)
 ![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/the-middle/DALL%C2%B7E%202022-08-06%2013.51.54%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule.%20since%20it%20had%20no%20root,%20it%20was%20in%20a%20fog%20as%20regards%20the%20Father,%20engaged%20in%20preparing%20wo.jpg)
@@ -1021,6 +1024,15 @@ the one who is small, who is deficient, is          |
 taken hold of.                                      |
 {{< /highlight >}}
 
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/physician/DALL%C2%B7E%202022-10-20%2022.09.31%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20The%20physician%20hurries%20to%20the%20place%20in%20which%20there%20is%20sickness..jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/physician/DALL%C2%B7E%202022-10-20%2022.09.35%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20The%20physician%20hurries%20to%20the%20place%20in%20which%20there%20is%20sickness..jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/physician/DALL%C2%B7E%202022-10-20%2022.09.39%20-%20A%20page%20of%20colourful%20gnostic%20scripture%20with%20caligraphy,%20majuscule,%20and%20pictures.%20The%20physician%20hurries%20to%20the%20place%20in%20which%20there%20is%20sickness..jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/physician/DALL%C2%B7E%202022-10-20%2022.10.59%20-%20The%20physician%20hurries%20to%20the%20place%20in%20which%20there%20is%20sickness.%20Gnostic%20book%20artwork..jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/physician/DALL%C2%B7E%202022-10-20%2022.11.04%20-%20The%20physician%20hurries%20to%20the%20place%20in%20which%20there%20is%20sickness.%20Gnostic%20book%20artwork..jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/physician/DALL%C2%B7E%202022-10-20%2022.11.09%20-%20The%20physician%20hurries%20to%20the%20place%20in%20which%20there%20is%20sickness.%20Gnostic%20book%20artwork..jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/physician/DALL%C2%B7E%202022-10-20%2022.11.26%20-%20The%20physician%20hurries%20to%20the%20place%20in%20which%20there%20is%20sickness.%20Gnostic%20book%20artwork..jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/physician/DALL%C2%B7E%202022-10-20%2022.11.44%20-%20The%20physician%20hurries%20to%20the%20place%20in%20which%20there%20is%20sickness.%20Gnostic%20book%20artwork..jpg)
+
 {{< highlight text "linenos=table, linenostart=1" >}}
 He revealed himself as a Pleroma, i.e., the         |
 finding of the light of truth which has shined      |
@@ -1062,7 +1074,10 @@ who has planted them in his Paradise.               |
 And his Paradise is his place of rest.              |
 {{< /highlight >}}
 
-A page of colourful scripture with caligraphy, majuscule, and pictures.
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/rest/DALL%C2%B7E%202022-10-20%2022.15.17%20-%20his%20Paradise%20is%20his%20place%20of%20rest.%20watercolour%20and%20pencil.png)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/rest/DALL%C2%B7E%202022-10-20%2022.15.23%20-%20his%20Paradise%20is%20his%20place%20of%20rest.%20watercolour%20and%20pencil.png)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/rest/DALL%C2%B7E%202022-10-20%2022.15.30%20-%20his%20Paradise%20is%20his%20place%20of%20rest.%20watercolour%20and%20pencil.png)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/rest/DALL%C2%B7E%202022-10-20%2022.16.28%20-%20his%20Paradise%20is%20his%20place%20of%20rest.%20watercolour%20and%20pencil.png)
 
 {{< highlight text "linenos=table, linenostart=1" >}}
 This is the perfection in the thought of the        |
@@ -1087,10 +1102,10 @@ will of him who desired it; and it is in the        |
 will that the Father is at rest and with which      |
 he is pleased.                                      |
                                                     |
-Nothing happens without him, nor does anything      |
-occur without the will of the Father.               |
-                                                    |
-But his will is incomprehensible.                   |
+Nothing happens without him, nor does anything      | When the visions cease, I fast and pray.
+occur without the will of the Father.               | When God gives a vision or an out of body
+                                                    | intimation, God is making things happen.
+But his will is incomprehensible.                   | Just be willing.
                                                     |
 His will is his mark, but no one can know it,       |
 nor is it possible for them to concentrate on       |
@@ -1114,6 +1129,10 @@ return all who have come from him.                  |
 For they were made manifest for the glory and       |
 the joy of his name.                                |
 {{< /highlight >}}
+
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/words-of-reflection/DALL%C2%B7E%202022-10-20%2022.39.47%20-%20These%20are%20the%20words%20of%20his%20reflection.%20Pencil%20and%20watercolor.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/words-of-reflection/DALL%C2%B7E%202022-10-20%2022.41.39%20-%20This%20is%20the%20perfection%20in%20the%20thought%20of%20the%20Father%20and%20these%20are%20the%20words%20of%20his%20reflection.%20Pencil%20and%20watercolor.jpg)
+![](https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/words-of-reflection/DALL%C2%B7E%202022-10-20%2022.41.41%20-%20This%20is%20the%20perfection%20in%20the%20thought%20of%20the%20Father%20and%20these%20are%20the%20words%20of%20his%20reflection.%20Pencil%20and%20watercolor.jpg)
 
 {{< highlight text "linenos=table, linenostart=1" >}}
 And the name of the Father is the Son.              |
@@ -1333,6 +1352,7 @@ Children of this kind are those whom he loves.      |
 
 ## Links {#links}
 
+-   [Heavenly Father // Bodacious Blog](https://mullikine.github.io/posts/heavenly-father/)
 -   [The Pleroma and the Aeons - Gnosticism Explained](https://gnosticismexplained.org/the-pleroma-and-the-aeons/)
 -   [The Pathway to Gnosis and Reconciliation // Bodacious Blog](https://mullikine.github.io/posts/the-pathway-to-gnosis/)
 -   [The Gospel of Truth as the Gospel of the Saved Saviors in: Gnosis: Journal of Gnostic Studies Volume 6 Issue 1 {2021}](https://brill.com/view/journals/gnos/6/1/article-p31%5F2.xml)
