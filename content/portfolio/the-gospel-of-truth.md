@@ -4,6 +4,8 @@ author = ["Shane Mulligan"]
 date = 2022-08-06T00:00:00+12:00
 keywords = ["valentinian", "faith", "dalle"]
 draft = false
+image = "https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/gospel-of-truth-joy/DALL·E 2022-08-06 13.34.57 - The gospel of truth is joy to those who have received from the Father of truth the gift of knowing him by the power of the Logos, who has come from th.jpg"
+weight = 10
 +++
 
 {{< highlight text "linenos=table, linenostart=1" >}}
