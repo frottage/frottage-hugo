@@ -1,10 +1,13 @@
-#+HUGO_BASE_DIR: /home/shane/var/smulliga/source/git/frottage/frottage-hugo
-#+HUGO_SECTION: ./portfolio
-
 #+TITLE: Ireland Rain
 #+DATE: <2022-10-23>
 #+AUTHOR: Shane Mulligan
 #+KEYWORDS: dalle art faith
+# #+hugo_custom_front_matter: :image "img/portfolio/corrupted-multiverse.jpg"
+#+hugo_custom_front_matter: :image "https://raw.githubusercontent.com/frottage/dall-e-2-generations/master/ireland-rain/DALL%C2%B7E%202022-10-23%2012.21.57%20-%20ireland%20rain.%20painting%20in%20a%20gallery.jpg"
+#+hugo_custom_front_matter: :weight 10 
+
+#+HUGO_BASE_DIR: /home/shane/var/smulliga/source/git/frottage/frottage-hugo
+#+HUGO_SECTION: ./portfolio
 
 God can prompt us to do things:
 [[https://semiosis.github.io/philosophy/purity-and-reality/][Purity and Reality in programming and metaphysics =::= semiosis   Signs, Natural Language and Coding]]
