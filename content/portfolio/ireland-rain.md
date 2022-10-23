@@ -2,7 +2,7 @@
 title = "Ireland Rain"
 author = ["Shane Mulligan"]
 date = 2022-10-23T00:00:00+13:00
-keywords = ["dalle", "art", "faith"]
+keywords = ["dalle", "art", "faith", "strawberry"]
 draft = false
 image = "https://raw.githubusercontent.com/frottage/dall-e-2-generations/master/ireland-rain/DALL%C2%B7E%202022-10-23%2012.21.57%20-%20ireland%20rain.%20painting%20in%20a%20gallery.jpg"
 weight = 10
@@ -17,6 +17,8 @@ God can prompt us to do things:
 I was prompted this morning to prompt for Ireland Rain 😂
 
 -   [Heavenly Father](https://pneumatology.github.io/p/heavenly-father/)
+
+He said, "I love Ireland Rain."
 
 
 ## DALL-e-2 Gens {#dall-e-2-gens}
@@ -80,3 +82,8 @@ I was prompted this morning to prompt for Ireland Rain 😂
 ![](https://github.com/frottage/dall-e-2-generations/raw/master/ireland-rain/DALL%C2%B7E%202022-10-23%2012.24.31%20-%20ireland%20rain.%20painting%20in%20a%20gallery.jpg)
 ![](https://github.com/frottage/dall-e-2-generations/raw/master/ireland-rain/DALL%C2%B7E%202022-10-23%2012.24.34%20-%20ireland%20rain.%20painting%20in%20a%20gallery.jpg)
 ![](https://github.com/frottage/dall-e-2-generations/raw/master/ireland-rain/DALL%C2%B7E%202022-10-23%2012.24.39%20-%20ireland%20rain.%20painting%20in%20a%20gallery.jpg)
+
+
+## Links {#links}
+
+-   [Naphtali - A doe set free // Bodacious Blog](https://mullikine.github.io/posts/naphtali/)
