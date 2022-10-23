@@ -1,7 +1,7 @@
 #+TITLE: Ireland Rain
 #+DATE: <2022-10-23>
 #+AUTHOR: Shane Mulligan
-#+KEYWORDS: dalle art faith
+#+KEYWORDS: dalle art faith strawberry
 # #+hugo_custom_front_matter: :image "img/portfolio/corrupted-multiverse.jpg"
 #+hugo_custom_front_matter: :image "https://raw.githubusercontent.com/frottage/dall-e-2-generations/master/ireland-rain/DALL%C2%B7E%202022-10-23%2012.21.57%20-%20ireland%20rain.%20painting%20in%20a%20gallery.jpg"
 #+hugo_custom_front_matter: :weight 10 
@@ -15,6 +15,8 @@ God can prompt us to do things:
 ** Prompted
 I was prompted this morning to prompt for Ireland Rain 😂
 - [[https://pneumatology.github.io/p/heavenly-father/][Heavenly Father]]
+
+He said, "I love Ireland Rain."
 
 ** DALL-e-2 Gens
 
