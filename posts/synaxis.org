@@ -1,0 +1,46 @@
+#+TITLE: Synaxis of the 12 Apostles
+#+DATE: <2022-06-30>
+#+AUTHOR: Shane Mulligan
+#+KEYWORDS: dalle art faith strawberry
+# #+hugo_custom_front_matter: :image "img/portfolio/corrupted-multiverse.jpg"
+#+hugo_custom_front_matter: :image "https://raw.githubusercontent.com/frottage/dall-e-2-generations/master/apostles/thomas/DALL%C2%B7E%202022-07-23%2021.08.30%20-%20The%20Apostle%20Thomas%20threw%20some%20water%20into%20the%20air%20himself%2C%20and%20it%20hung%20suspended%20in%20the%20form%20of%20sparkling%20flowers..%20Fresco%20by%20Michelangelo%201550.jpg"
+#+hugo_custom_front_matter: :weight 10 
+
+#+HUGO_BASE_DIR: /home/shane/var/smulliga/source/git/frottage/frottage-hugo
+#+HUGO_SECTION: ./portfolio
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  synaxis
+      An assembly met for worship.
+      
+      A congregation in the early Church
+      gathered for a liturgical service.
+      
+      An early part of the divine liturgy of the
+      Eastern Orthodox Church.
+#+END_SRC
+
+** Paul
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-07-23 21.23.49 - Saul was walking alone on the road to Damascus. Suddenly, a light from heaven shone down from heaven. Fresco by Michelangelo 1550.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-07-23 21.23.49 - Saul was walking alone on the road to Damascus. Suddenly, a light from heaven shone down from heaven. Fresco by Michelangelo 1550.png]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-07-23 21.24.21 - Saul was walking alone on the road to Damascus. Suddenly, a light from heaven shone down from heaven. Fresco by Michelangelo 1550.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-07-23 21.24.21 - Saul was walking alone on the road to Damascus. Suddenly, a light from heaven shone down from heaven. Fresco by Michelangelo 1550.png]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-07-23 21.24.26 - Saul was walking alone on the road to Damascus. Suddenly, a light from heaven shone down from heaven. Fresco by Michelangelo 1550.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-07-23 21.24.26 - Saul was walking alone on the road to Damascus. Suddenly, a light from heaven shone down from heaven. Fresco by Michelangelo 1550.png]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-07-23 21.24.33 - Saul was walking alone on the road to Damascus. Suddenly, a light from heaven shone down from heaven. Fresco by Michelangelo 1550.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-07-23 21.24.33 - Saul was walking alone on the road to Damascus. Suddenly, a light from heaven shone down from heaven. Fresco by Michelangelo 1550.png]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-07-23 21.24.54 - Saul was walking alone on the road to Damascus. Suddenly, a light from heaven shone down from heaven. Fresco by Michelangelo 1550.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-07-23 21.24.54 - Saul was walking alone on the road to Damascus. Suddenly, a light from heaven shone down from heaven. Fresco by Michelangelo 1550.png]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-07-23 21.24.58 - Saul was walking alone on the road to Damascus. Suddenly, a light from heaven shone down from heaven. Fresco by Michelangelo 1550.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-07-23 21.24.58 - Saul was walking alone on the road to Damascus. Suddenly, a light from heaven shone down from heaven. Fresco by Michelangelo 1550.png]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-07-23 21.25.04 - Saul was walking alone on the road to Damascus. Suddenly, a light from heaven shone down from heaven. Fresco by Michelangelo 1550.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-07-23 21.25.04 - Saul was walking alone on the road to Damascus. Suddenly, a light from heaven shone down from heaven. Fresco by Michelangelo 1550.png]]
+
+
+** Thomas
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/thomas/DALL·E 2022-07-23 21.08.02 - The Apostle Thomas threw some water into the air himself, and it hung suspended in the form of sparkling flowers.. Fresco by Michelangelo 1550.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/thomas/DALL·E 2022-07-23 21.08.02 - The Apostle Thomas threw some water into the air himself, and it hung suspended in the form of sparkling flowers.. Fresco by Michelangelo 1550.png]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/thomas/DALL·E 2022-07-23 21.08.05 - The Apostle Thomas threw some water into the air himself, and it hung suspended in the form of sparkling flowers.. Fresco by Michelangelo 1550.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/thomas/DALL·E 2022-07-23 21.08.05 - The Apostle Thomas threw some water into the air himself, and it hung suspended in the form of sparkling flowers.. Fresco by Michelangelo 1550.png]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/thomas/DALL·E 2022-07-23 21.08.30 - The Apostle Thomas threw some water into the air himself, and it hung suspended in the form of sparkling flowers.. Fresco by Michelangelo 1550.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/thomas/DALL·E 2022-07-23 21.08.30 - The Apostle Thomas threw some water into the air himself, and it hung suspended in the form of sparkling flowers.. Fresco by Michelangelo 1550.png]]
