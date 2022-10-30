@@ -1,7 +1,7 @@
 #+TITLE: Synaxis of the 12 Apostles
 #+DATE: <2022-06-30>
 #+AUTHOR: Shane Mulligan
-#+KEYWORDS: dalle art faith strawberry
+#+KEYWORDS: dalle art faith
 # #+hugo_custom_front_matter: :image "img/portfolio/corrupted-multiverse.jpg"
 #+hugo_custom_front_matter: :image "https://raw.githubusercontent.com/frottage/dall-e-2-generations/master/apostles/thomas/DALL%C2%B7E%202022-07-23%2021.08.30%20-%20The%20Apostle%20Thomas%20threw%20some%20water%20into%20the%20air%20himself%2C%20and%20it%20hung%20suspended%20in%20the%20form%20of%20sparkling%20flowers..%20Fresco%20by%20Michelangelo%201550.jpg"
 #+hugo_custom_front_matter: :weight 10 
