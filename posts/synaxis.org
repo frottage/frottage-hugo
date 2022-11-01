@@ -58,7 +58,7 @@ Peter and Paul.
 *** Paul
 + [[https://www.biblegateway.com/passage/?search=Acts%209%3A1-19&version=NIV][Acts 9:1-19]] :: As he neared Damascus on his journey, suddenly a light from heaven flashed around him. 4 He fell to the ground and heard a voice say to him, “Saul, Saul, why do you persecute me?” 5 “Who are you, Lord?” Saul asked.
 
-[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-07-23 21.23.49 - Saul was walking alone on the road to Damascus. Suddenly, a light from heaven shone down from heaven. Fresco by Michelangelo 1550.jpg]]
+# [[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-07-23 21.23.49 - Saul was walking alone on the road to Damascus. Suddenly, a light from heaven shone down from heaven. Fresco by Michelangelo 1550.jpg]]
 [[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-07-23 21.24.21 - Saul was walking alone on the road to Damascus. Suddenly, a light from heaven shone down from heaven. Fresco by Michelangelo 1550.jpg]]
 [[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-07-23 21.24.26 - Saul was walking alone on the road to Damascus. Suddenly, a light from heaven shone down from heaven. Fresco by Michelangelo 1550.jpg]]
 [[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-07-23 21.24.33 - Saul was walking alone on the road to Damascus. Suddenly, a light from heaven shone down from heaven. Fresco by Michelangelo 1550.jpg]]
