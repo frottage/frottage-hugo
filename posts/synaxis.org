@@ -9,38 +9,70 @@
 #+HUGO_BASE_DIR: /home/shane/var/smulliga/source/git/frottage/frottage-hugo
 #+HUGO_SECTION: ./portfolio
 
+** Summary
+The Synaxis of the Glorious and All-
+Praiseworthy Twelve Apostles of Christ appears
+to be an ancient Feast.
+
+The Church honors each of the Twelve Apostles
+on separate dates during the year, and has
+established a general commemoration for all of
+them on the day after the commemoration of the
+Glorious and First-Ranked among the Apostles
+Peter and Paul.
+
+*** Links
+- https://github.com/apostolorum
+
+** DALLE
+*** Philip
++ [[https://www.biblegateway.com/passage/?search=John%206&version=NIV][John 6]] :: When Jesus looked up and saw a great crowd coming toward him, he said to Philip, “Where shall we buy bread for these people to eat?” He asked this only to test him, for he already had in mind what he was going to do.
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/DALL·E 2022-11-01 13.55.22 - The Apostle Philip helps Jesus with the loaves and fish. Digital art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/DALL·E 2022-11-01 13.55.27 - The Apostle Philip helps Jesus with the loaves and fish. Digital art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/DALL·E 2022-11-01 13.56.06 - The Apostle Philip helps Jesus with the loaves and fish. Digital art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/DALL·E 2022-11-01 13.56.11 - The Apostle Philip helps Jesus with the loaves and fish. Digital art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/DALL·E 2022-11-01 13.56.37 - The Apostle Philip helps Jesus with the loaves and fish. Digital art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/DALL·E 2022-11-01 13.57.22 - The Apostle Philip helps Jesus with the loaves of bread and the basket o fish. Digital art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/DALL·E 2022-11-01 13.57.26 - The Apostle Philip helps Jesus with the loaves of bread and the basket o fish. Digital art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/DALL·E 2022-11-01 13.57.31 - The Apostle Philip helps Jesus with the loaves of bread and the basket o fish. Digital art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/DALL·E 2022-11-01 13.57.45 - The Apostle Philip helps Jesus with the loaves of bread and the basket o fish. Digital art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/DALL·E 2022-11-01 13.57.49 - The Apostle Philip helps Jesus with the loaves of bread and the basket o fish. Digital art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/DALL·E 2022-11-01 13.57.53 - The Apostle Philip helps Jesus with the loaves of bread and the basket o fish. Digital art.jpg]]
+
++ [[https://www.biblegateway.com/passage/?search=John%2012%3A21-22&version=NIV][John 12:21-22]] :: They came to Philip, who was from Bethsaida in Galilee, with a request. “Sir,” they said, “we would like to see Jesus.” Philip went to tell Andrew; Andrew and Philip in turn told Jesus.
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/DALL·E 2022-11-01 13.59.01 - The Apostle Philip answers the questions of the Greeks. Digital Art .jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/DALL·E 2022-11-01 13.59.05 - The Apostle Philip answers the questions of the Greeks. Digital Art .jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/DALL·E 2022-11-01 13.59.07 - The Apostle Philip answers the questions of the Greeks. Digital Art .jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/DALL·E 2022-11-01 13.59.11 - The Apostle Philip answers the questions of the Greeks. Digital Art .jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/DALL·E 2022-11-01 13.59.25 - The Apostle Philip answers the questions of the Greeks. Digital Art .jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/DALL·E 2022-11-01 13.59.28 - The Apostle Philip answers the questions of the Greeks. Digital Art .jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/DALL·E 2022-11-01 13.59.30 - The Apostle Philip answers the questions of the Greeks. Digital Art .jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/DALL·E 2022-11-01 13.59.33 - The Apostle Philip answers the questions of the Greeks. Digital Art .jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/DALL·E 2022-11-01 13.59.59 - The Apostle Philip answers the questions of the Greeks. Digital Art .jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/DALL·E 2022-11-01 14.00.02 - The Apostle Philip answers the questions of the Greeks. Digital Art .jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/DALL·E 2022-11-01 14.00.05 - The Apostle Philip answers the questions of the Greeks. Digital Art .jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/DALL·E 2022-11-01 14.00.08 - The Apostle Philip answers the questions of the Greeks. Digital Art .jpg]]
+
+*** Paul
++ [[https://www.biblegateway.com/passage/?search=Acts%209%3A1-19&version=NIV][Acts 9:1-19]] :: As he neared Damascus on his journey, suddenly a light from heaven flashed around him. 4 He fell to the ground and heard a voice say to him, “Saul, Saul, why do you persecute me?” 5 “Who are you, Lord?” Saul asked.
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-07-23 21.23.49 - Saul was walking alone on the road to Damascus. Suddenly, a light from heaven shone down from heaven. Fresco by Michelangelo 1550.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-07-23 21.24.21 - Saul was walking alone on the road to Damascus. Suddenly, a light from heaven shone down from heaven. Fresco by Michelangelo 1550.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-07-23 21.24.26 - Saul was walking alone on the road to Damascus. Suddenly, a light from heaven shone down from heaven. Fresco by Michelangelo 1550.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-07-23 21.24.33 - Saul was walking alone on the road to Damascus. Suddenly, a light from heaven shone down from heaven. Fresco by Michelangelo 1550.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-07-23 21.24.54 - Saul was walking alone on the road to Damascus. Suddenly, a light from heaven shone down from heaven. Fresco by Michelangelo 1550.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-07-23 21.24.58 - Saul was walking alone on the road to Damascus. Suddenly, a light from heaven shone down from heaven. Fresco by Michelangelo 1550.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-07-23 21.25.04 - Saul was walking alone on the road to Damascus. Suddenly, a light from heaven shone down from heaven. Fresco by Michelangelo 1550.jpg]]
+
+*** Thomas
 #+BEGIN_SRC text -n :async :results verbatim code
-  synaxis
-      An assembly met for worship.
-      
-      A congregation in the early Church
-      gathered for a liturgical service.
-      
-      An early part of the divine liturgy of the
-      Eastern Orthodox Church.
+  The Apostle Thomas threw some water into the
+  air himself, and it hung suspended in the form
+  of sparkling flowers.
 #+END_SRC
 
-** Paul
-[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-07-23 21.23.49 - Saul was walking alone on the road to Damascus. Suddenly, a light from heaven shone down from heaven. Fresco by Michelangelo 1550.jpg]]
-[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-07-23 21.23.49 - Saul was walking alone on the road to Damascus. Suddenly, a light from heaven shone down from heaven. Fresco by Michelangelo 1550.png]]
-[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-07-23 21.24.21 - Saul was walking alone on the road to Damascus. Suddenly, a light from heaven shone down from heaven. Fresco by Michelangelo 1550.jpg]]
-[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-07-23 21.24.21 - Saul was walking alone on the road to Damascus. Suddenly, a light from heaven shone down from heaven. Fresco by Michelangelo 1550.png]]
-[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-07-23 21.24.26 - Saul was walking alone on the road to Damascus. Suddenly, a light from heaven shone down from heaven. Fresco by Michelangelo 1550.jpg]]
-[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-07-23 21.24.26 - Saul was walking alone on the road to Damascus. Suddenly, a light from heaven shone down from heaven. Fresco by Michelangelo 1550.png]]
-[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-07-23 21.24.33 - Saul was walking alone on the road to Damascus. Suddenly, a light from heaven shone down from heaven. Fresco by Michelangelo 1550.jpg]]
-[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-07-23 21.24.33 - Saul was walking alone on the road to Damascus. Suddenly, a light from heaven shone down from heaven. Fresco by Michelangelo 1550.png]]
-[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-07-23 21.24.54 - Saul was walking alone on the road to Damascus. Suddenly, a light from heaven shone down from heaven. Fresco by Michelangelo 1550.jpg]]
-[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-07-23 21.24.54 - Saul was walking alone on the road to Damascus. Suddenly, a light from heaven shone down from heaven. Fresco by Michelangelo 1550.png]]
-[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-07-23 21.24.58 - Saul was walking alone on the road to Damascus. Suddenly, a light from heaven shone down from heaven. Fresco by Michelangelo 1550.jpg]]
-[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-07-23 21.24.58 - Saul was walking alone on the road to Damascus. Suddenly, a light from heaven shone down from heaven. Fresco by Michelangelo 1550.png]]
-[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-07-23 21.25.04 - Saul was walking alone on the road to Damascus. Suddenly, a light from heaven shone down from heaven. Fresco by Michelangelo 1550.jpg]]
-[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-07-23 21.25.04 - Saul was walking alone on the road to Damascus. Suddenly, a light from heaven shone down from heaven. Fresco by Michelangelo 1550.png]]
-
-
-** Thomas
 [[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/thomas/DALL·E 2022-07-23 21.08.02 - The Apostle Thomas threw some water into the air himself, and it hung suspended in the form of sparkling flowers.. Fresco by Michelangelo 1550.jpg]]
-[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/thomas/DALL·E 2022-07-23 21.08.02 - The Apostle Thomas threw some water into the air himself, and it hung suspended in the form of sparkling flowers.. Fresco by Michelangelo 1550.png]]
 [[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/thomas/DALL·E 2022-07-23 21.08.05 - The Apostle Thomas threw some water into the air himself, and it hung suspended in the form of sparkling flowers.. Fresco by Michelangelo 1550.jpg]]
-[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/thomas/DALL·E 2022-07-23 21.08.05 - The Apostle Thomas threw some water into the air himself, and it hung suspended in the form of sparkling flowers.. Fresco by Michelangelo 1550.png]]
 [[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/thomas/DALL·E 2022-07-23 21.08.30 - The Apostle Thomas threw some water into the air himself, and it hung suspended in the form of sparkling flowers.. Fresco by Michelangelo 1550.jpg]]
-[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/thomas/DALL·E 2022-07-23 21.08.30 - The Apostle Thomas threw some water into the air himself, and it hung suspended in the form of sparkling flowers.. Fresco by Michelangelo 1550.png]]
