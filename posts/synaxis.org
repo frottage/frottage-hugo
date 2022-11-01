@@ -65,13 +65,14 @@ Peter and Paul.
 [[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-11-02 11.32.52 - on the road to damascus, a light from the sky shines on saul, and he falls to the ground. digital art.jpg]]
 [[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-11-02 11.33.12 - on the road to damascus, a light from the sky shines on saul, and he falls to the ground. digital art.jpg]]
 [[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-11-02 11.31.36 - a light from the sky shines on saul, and he falls to the ground. digital art.jpg]]
-# [[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-07-23 21.23.49 - Saul was walking alone on the road to Damascus. Suddenly, a light from heaven shone down from heaven. Fresco by Michelangelo 1550.jpg]]
 [[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-07-23 21.24.21 - Saul was walking alone on the road to Damascus. Suddenly, a light from heaven shone down from heaven. Fresco by Michelangelo 1550.jpg]]
 [[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-07-23 21.24.26 - Saul was walking alone on the road to Damascus. Suddenly, a light from heaven shone down from heaven. Fresco by Michelangelo 1550.jpg]]
 [[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-07-23 21.24.33 - Saul was walking alone on the road to Damascus. Suddenly, a light from heaven shone down from heaven. Fresco by Michelangelo 1550.jpg]]
 [[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-07-23 21.24.54 - Saul was walking alone on the road to Damascus. Suddenly, a light from heaven shone down from heaven. Fresco by Michelangelo 1550.jpg]]
 [[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-07-23 21.24.58 - Saul was walking alone on the road to Damascus. Suddenly, a light from heaven shone down from heaven. Fresco by Michelangelo 1550.jpg]]
 [[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-07-23 21.25.04 - Saul was walking alone on the road to Damascus. Suddenly, a light from heaven shone down from heaven. Fresco by Michelangelo 1550.jpg]]
+
+# [[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/paul/DALL·E 2022-07-23 21.23.49 - Saul was walking alone on the road to Damascus. Suddenly, a light from heaven shone down from heaven. Fresco by Michelangelo 1550.jpg]]
 
 *** Thomas
 #+BEGIN_SRC text -n :async :results verbatim code
@@ -80,6 +81,12 @@ Peter and Paul.
   of sparkling flowers.
 #+END_SRC
 
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/thomas/DALL·E 2022-11-02 11.42.37 - Apostle Thomas threw water into the air, and it hung suspended in the form of sparkling flowers. Digital art.jpg]]
 [[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/thomas/DALL·E 2022-07-23 21.08.02 - The Apostle Thomas threw some water into the air himself, and it hung suspended in the form of sparkling flowers.. Fresco by Michelangelo 1550.jpg]]
-[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/thomas/DALL·E 2022-07-23 21.08.05 - The Apostle Thomas threw some water into the air himself, and it hung suspended in the form of sparkling flowers.. Fresco by Michelangelo 1550.jpg]]
 [[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/thomas/DALL·E 2022-07-23 21.08.30 - The Apostle Thomas threw some water into the air himself, and it hung suspended in the form of sparkling flowers.. Fresco by Michelangelo 1550.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/thomas/DALL·E 2022-11-02 11.41.48 - Apostle Thomas threw water into the air, and it hung suspended in the form of sparkling flowers. Digital art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/thomas/DALL·E 2022-11-02 11.41.52 - Apostle Thomas threw water into the air, and it hung suspended in the form of sparkling flowers. Digital art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/thomas/DALL·E 2022-11-02 11.42.00 - Apostle Thomas threw water into the air, and it hung suspended in the form of sparkling flowers. Digital art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/thomas/DALL·E 2022-11-02 11.43.28 - Apostle Thomas threw water into the air, and it hung suspended in the form of sparkling flowers. Digital art.jpg]]
+
+# [[https://github.com/frottage/dall-e-2-generations/raw/master/apostles/thomas/DALL·E 2022-07-23 21.08.05 - The Apostle Thomas threw some water into the air himself, and it hung suspended in the form of sparkling flowers.. Fresco by Michelangelo 1550.jpg]]
