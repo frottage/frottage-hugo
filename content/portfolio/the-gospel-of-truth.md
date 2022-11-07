@@ -8,6 +8,31 @@ image = "https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-t
 weight = 10
 +++
 
+The Gospel of Truth is not a gospel in the sense of an
+account of the works of Jesus of Nazareth, but
+is better understood as a homily.
+
+The text is generally considered by scholars
+one of the best written texts in the whole Nag
+Hammadi collection, considering its worth
+highly as both a great literary work and a
+gnostic exegesis on several gospels, canonical
+and otherwise.
+
+The writing is thought to cite or allude to
+the New Testament Gospels of Matthew and John,
+as well as 1 and 2 Corinthians, Galatians,
+Ephesians, Colossians, Hebrews, 1 John and the
+Book of Revelation. It cites John's Gospel the
+most often. It is also influenced by the
+Gospel of Thomas; for instance at one point
+(22:13-19) it cites John 3:8 alongside Thomas 28.
+
+
+## The Gospel of Truth {#the-gospel-of-truth}
+
+{{< figure src="https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/gospel-of-truth-joy/DALL%C2%B7E%202022-08-06%2013.34.57%20-%20The%20gospel%20of%20truth%20is%20joy%20to%20those%20who%20have%20received%20from%20the%20Father%20of%20truth%20the%20gift%20of%20knowing%20him%20by%20the%20power%20of%20the%20Logos,%20who%20has%20come%20from%20th.jpg" >}}
+
 {{< highlight text "linenos=table, linenostart=1" >}}
 The gospel of truth is joy to those who have        | https://mullikine.github.io/posts/heavenly-father/
 received from the Father of truth the gift of       |
@@ -29,7 +54,7 @@ The description of the aeons
 The light of God is the aeons combined
 : [The Robbers of Light // Bodacious Blog](https://mullikine.github.io/posts/the-robbers/)
 
-{{< figure src="https://github.com/frottage/dall-e-2-generations/raw/master/gospel-of-truth/gospel-of-truth-joy/DALL%C2%B7E%202022-08-06%2013.34.57%20-%20The%20gospel%20of%20truth%20is%20joy%20to%20those%20who%20have%20received%20from%20the%20Father%20of%20truth%20the%20gift%20of%20knowing%20him%20by%20the%20power%20of%20the%20Logos,%20who%20has%20come%20from%20th.jpg" >}}
+<!--listend-->
 
 {{< highlight text "linenos=table, linenostart=1" >}}
 For the name of the gospel is the                   |
@@ -103,6 +128,8 @@ not know the Father, if they then come to know      |
 the Father, from that moment on forgetfulness       |
 will cease to exist.                                |
 {{< /highlight >}}
+
+---
 
 {{< youtube D-PjhEh0Ws0 >}}
 
@@ -1051,26 +1078,26 @@ will have mercy on them.                            | At spiritual bankrupcy, as
 But those whom he has anointed are those who        | https://mullikine.github.io/posts/astral-projection-pt-2/
 are perfect.                                        | https://mullikine.github.io/posts/dream-discernment-of-judgement/
                                                     |
-For the filled vessels are those which are          |
-customarily used for anointing.                     |
-                                                    |
+For the filled vessels are those which are          | The word 'perfect' is a common trope in Christian scriptures.
+customarily used for anointing.                     | - Perfect man, for example. It's legit.
+                                                    | - https://mullikine.github.io/posts/heavenly-father/
 But when an anointing is finished, the vessel       |
-is usually empty, and the cause of its              |
-deficiency is the consumption of its ointment.      |
-                                                    |
-For then a breath is drawn only through the         |
+is usually empty, and the cause of its              | Matt 19:21 (NIV)
+deficiency is the consumption of its ointment.      |   If you want to be perfect, go, sell your
+                                                    |   possessions and give to the poor, and you
+For then a breath is drawn only through the         |   will have treasure in heaven.
 power which he has.                                 |
-                                                    |
+                                                    |   Then come, follow me.
 But the one who is without deficiency - one         |
-does not trust anyone beside him nor does one       |
-pour anything out.                                  |
+does not trust anyone beside him nor does one       | The Apocryphon of James talks about being filled:
+pour anything out.                                  | - https://mullikine.github.io/posts/the-secret-book-of-james/
                                                     |
-But that which is the deficient is filled           |
+But that which is the deficient is filled           | I pay I be filled again.
 again by the perfect Father.                        |
-                                                    |
-He is good.                                         |
-                                                    |
-He knows his plantings because he is the one        |
+                                                    | It's interesting the way that it describes a person who
+He is good.                                         | does not consume the 'oil'.
+                                                    | Is this like the oil from the parable of the 10 virgins?
+He knows his plantings because he is the one        | - https://mullikine.github.io/posts/parables-of-jesus/
 who has planted them in his Paradise.               |
                                                     |
 And his Paradise is his place of rest.              |
