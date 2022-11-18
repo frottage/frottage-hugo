@@ -1,0 +1,38 @@
+#+HUGO_BASE_DIR: /home/shane/var/smulliga/source/git/frottage/frottage-hugo
+#+HUGO_SECTION: ./portfolio
+
+#+TITLE: Star of David
+#+DATE: <2022-11-19>
+#+AUTHOR: Shane Mulligan
+#+KEYWORDS: faith surreal christianity dalle
+# #+hugo_custom_front_matter: :image "img/portfolio/corrupted-multiverse.jpg"
+#+hugo_custom_front_matter: :image "https://github.com/frottage/dall-e-2-generations/raw/master/star-of-david/DALL·E 2022-11-19 11.59.44 - star of david glimmering against darkness. digital art.jpg"
+#+hugo_custom_front_matter: :weight 10 
+
+/*Work in Progress*/
+
+This morning as I was waking up, the Star of
+David appeared in my mind.
+
+I want to learn more about it.
+
+Reading material:
+- https://www.chabad.org/library/article_cdo/aid/788679/jewish/Star-of-David-The-Mystical-Significance.htm
+
+My eyes were closed so it was glimmering
+faintly against the blackness.
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/star-of-david/DALL·E 2022-11-19 11.59.44 - star of david glimmering against darkness. digital art.jpg]]
+
+---
+
+Star of David:
+
+https://github.com/mullikine/eleleth-images/raw/master/blog/800px-Star_of_David.svg.png
+
+** DALL-E
+[[https://github.com/frottage/dall-e-2-generations/raw/master/star-of-david/DALL·E 2022-11-19 11.58.44 - star of david. digital art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/star-of-david/DALL·E 2022-11-19 11.58.46 - star of david. digital art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/star-of-david/DALL·E 2022-11-19 11.59.05 - star of david. digital art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/star-of-david/DALL·E 2022-11-19 11.59.44 - star of david glimmering against darkness. digital art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/star-of-david/DALL·E 2022-11-19 12.00.07 - star of david glimmering against darkness. digital art.jpg]]
