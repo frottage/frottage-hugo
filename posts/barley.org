@@ -1,0 +1,15 @@
+#+HUGO_BASE_DIR: /home/shane/var/smulliga/source/git/frottage/frottage-hugo
+#+HUGO_SECTION: ./portfolio
+
+#+TITLE: Barley
+#+DATE: <2022-11-18>
+#+AUTHOR: Shane Mulligan
+#+hugo_custom_front_matter: :image "https://github.com/frottage/dall-e-2-generations/raw/master/barley/DALL·E 2022-11-18 18.09.34 - hands in white robes holding a container of ready golden barley on a bright white background. digital art.jpg"
+#+hugo_custom_front_matter: :weight 10 
+#+KEYWORDS: faith christianity
+
+[[https://github.com/frottage/dall-e-2-generations/raw/master/barley/DALL·E 2022-11-18 18.09.34 - hands in white robes holding a container of ready golden barley on a bright white background. digital art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/barley/DALL·E 2022-11-18 18.09.58 - hands in white robes holding a container of ready golden barley on a bright white background. digital art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/barley/DALL·E 2022-11-18 18.10.26 - hands in white robes holding a container of ready golden barley on a bright white background. digital art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/barley/DALL·E 2022-11-18 18.10.32 - hands in white robes holding a container of ready golden barley on a bright white background. digital art.jpg]]
+[[https://github.com/frottage/dall-e-2-generations/raw/master/barley/DALL·E 2022-11-18 18.11.07 - hands in white robes holding a container of ready golden barley on a bright white background. digital art.jpg]]
